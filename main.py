@@ -1,5 +1,4 @@
 from itertools import product
-from numpy import loadtxt
 fin_list = []
 def combinations(numbers_to_use,target):
     output = []
