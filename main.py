@@ -58,20 +58,13 @@ f = open('words.txt', 'r+')
 lines = [line for line in f.readlines()]
 f.close()
 word_list =list(map(lambda s: s.strip(), lines))
-print(len(word_list))
-
 
 for i in word_list:
     i = i.upper()
     k = chem_name(i)
     if k!=False:
-        print(i)
         fin_list.append(k)
 
-print(fin_list)
-print()
 with open("final.txt", "w") as txt_file:
     for line in fin_list:
         txt_file.write(",".join(line) + "\n")
-
-
