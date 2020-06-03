@@ -1,13 +1,27 @@
 from itertools import product
-fin_list = []
-def combinations(numbers_to_use,target):
+from math import floor
+
+
+def splitter(lst, input_string):
+    out = list()
+    for k in lst:
+        out.append(input_string[:k])
+        input_string = input_string[k:]
+        if input_string[:k] == "":
+            break
+    return out
+
+
+def combinations(target):
+    numbers_to_use = [1, 2]
     output = []
     lst = []
-    for n in range(1, target + 1):
+    for n in range(floor(target/2),target+1):
         numbers = product(numbers_to_use, repeat=n)
         lst.append(list(numbers))
     for i in lst:
         for j in i:
+
             if sum(j) == target:
                 output.append(j)
     return output
@@ -17,32 +31,19 @@ elements=['H', 'B', 'C', 'N', 'O', 'F', 'P', 'S', 'K', 'V', 'Y', 'I', 'W', 'U', 
 
 
 def chem_name(string):
-    copy= string
     string = string.upper()
-    comb = combinations([1,2], len(string))
+    comb = combinations(len(string))
     output = list()
     out = list()
+
     for i in comb:
-        for j in comb:
-            string=copy
-            out.append(" ")
-            for k in j:
-                out.append(string[:k])
-                string = string[k:]
-                if string[:k] == "":
-                    break
-    lst=[]
-    out=out[1:]
-    copy = []
+        k = (splitter(i, string))
+        out.append(k)
+
     for i in out:
-        if i ==" ":
-            copy.append(lst)
-            lst = []
-        else:
-            lst.append(i)
-    for i in copy:
         if set(i).issubset(elements):
             output.append(i)
+
     if len(output)>0:
         output = output[0]
         for n, i in enumerate(output):
@@ -53,17 +54,22 @@ def chem_name(string):
     else:
         return False
 
-f = open('words.txt', 'r+')
+
+f = open('20k.txt ', 'r+')
 lines = [line for line in f.readlines()]
 f.close()
 word_list =list(map(lambda s: s.strip(), lines))
+with open("words.txt", "w") as txt_file:
+    for n,i in enumerate(word_list):
+        print(n)
+        try:
+            i = i.upper()
+            k = chem_name(i)
+            if k:
+                fin_list.append(k)
+        except MemoryError:
+            txt_file.write(str(fin_list))
+            fin_list = []
 
-for i in word_list:
-    i = i.upper()
-    k = chem_name(i)
-    if k!=False:
-        fin_list.append(k)
 
-with open("final.txt", "w") as txt_file:
-    for line in fin_list:
-        txt_file.write(",".join(line) + "\n")
+    txt_file.write(str(fin_list))
