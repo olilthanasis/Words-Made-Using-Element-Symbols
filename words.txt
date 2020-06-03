@@ -1,7643 +1,4552 @@
-the
-of
-and
-to
-a
-in
-for
-is
-on
-that
-by
-this
-with
-i
-you
-it
-not
-or
-be
-are
-from
-at
-as
-your
-all
-have
-new
-more
-an
-was
-we
-will
-home
-can
-us
-if
-page
-my
-has
-free
-but
-our
-one
-do
-no
-time
-they
-site
-he
-up
-may
-what
-news
-out
-use
-any
-see
-only
-so
-his
-when
-here
-who
-web
-also
-now
-help
-get
-pm
-view
-c
-e
-am
-been
-how
-were
-me
-s
-some
-its
-like
-x
-than
-find
-date
-back
-top
-had
-list
-name
-just
-over
-year
-day
-into
-two
-n
-re
-next
-used
-go
-b
-work
-last
-most
-buy
-data
-make
-them
-post
-her
-city
-t
-add
-such
-best
-then
-jan
-good
-well
-d
-info
-high
-m
-each
-she
-very
-book
-r
-read
-need
-many
-user
-said
-de
-does
-set
-mail
-full
-map
-life
-know
-way
-days
-p
-part
-real
-f
-item
-ebay
-must
-made
-off
-line
-did
-send
-type
-car
-take
-area
-want
-dvd
-l
-long
-w
-code
-show
-o
-even
-much
-sign
-file
-link
-open
-case
-same
-uk
-own
-both
-g
-game
-care
-down
-end
-h
-him
-per
-big
-law
-size
-art
-shop
-text
-rate
-usa
-v
-form
-love
-old
-john
-main
-call
-non
-k
-y
-why
-cd
-save
-low
-york
-man
-card
-jobs
-j
-food
-u
-sale
-job
-teen
-room
-too
-join
-men
-west
-look
-left
-team
-box
-gay
-week
-note
-live
-june
-air
-plan
-tv
-yes
-hot
-cost
-la
-say
-july
-test
-come
-dec
-pc
-cart
-san
-play
-tax
-less
-got
-blog
-let
-park
-side
-act
-red
-give
-q
-sell
-key
-body
-few
-east
-ii
-age
-club
-z
-road
-gift
-ca
-hard
-oct
-pay
-four
-war
-nov
-blue
-al
-easy
-fax
-yet
-star
-hand
-sun
-rss
-id
-keep
-baby
-run
-net
-term
-film
-put
-co
-try
-head
-cell
-self
-away
-once
-log
-sure
-faq
-cars
-tell
-able
-fun
-gold
-feb
-sep
-arts
-lot
-ask
-past
-due
-et
-five
-upon
-says
-mar
-land
-done
-pro
-st
-url
-aug
-ever
-ago
-word
-bill
-apr
-talk
-via
-kids
-true
-else
-mark
-rock
-bad
-tips
-plus
-auto
-edit
-fast
-fact
-unit
-tech
-meet
-far
-en
-feel
-bank
-risk
-jul
-town
-jun
-girl
-toys
-golf
-loan
-wide
-sort
-half
-step
-none
-paul
-lake
-sony
-fire
-chat
-html
-loss
-face
-oil
-bit
-base
-near
-oh
-stay
-turn
-mean
-king
-copy
-drug
-pics
-cash
-bay
-ad
-seen
-port
-stop
-bar
-dog
-soon
-held
-ny
-eur
-mind
-pdf
-lost
-tour
-menu
-hope
-wish
-role
-came
-usr
-dc
-mon
-com
-fine
-hour
-gas
-six
-bush
-pre
-huge
-sat
-zip
-bid
-kind
-move
-logo
-nice
-ok
-sent
-band
-ms
-lead
-went
-fri
-hi
-mode
-fund
-wed
-male
-took
-inn
-song
-cnet
-ltd
-los
-hp
-late
-fall
-idea
-inc
-win
-tool
-eg
-bed
-ip
-hill
-maps
-deal
-hold
-tue
-safe
-feed
-pa
-thu
-sea
-cut
-hall
-anti
-tel
-ship
-tx
-paid
-hair
-kit
-tree
-thus
-wall
-ie
-el
-ma
-boy
-wine
-vote
-ways
-est
-son
-rule
-mac
-iii
-gmt
-max
-told
-xml
-feet
-bin
-door
-cool
-md
-fl
-mb
-asia
-uses
-mr
-java
-pass
-van
-fees
-skin
-prev
-ads
-mary
-il
-ring
-pop
-int
-iraq
-boys
-deep
-rest
-hit
-mm
-pool
-mini
-fish
-eye
-pack
-born
-race
-usb
-ed
-php
-etc
-debt
-core
-sets
-wood
-msn
-fee
-rent
-las
-dark
-le
-min
-aid
-host
-isbn
-fair
-az
-ohio
-gets
-un
-fat
-saw
-dead
-mike
-trip
-pst
-mi
-poor
-eyes
-farm
-tom
-lord
-sub
-hear
-goes
-led
-fan
-wife
-ten
-hits
-zone
-th
-cat
-die
-jack
-flat
-flow
-dr
-path
-kb
-laws
-pet
-guy
-dev
-cup
-vol
-pp
-na
-skip
-diet
-army
-gear
-lee
-os
-lots
-firm
-jump
-dvds
-ball
-goal
-sold
-wind
-palm
-bob
-fit
-ex
-met
-pain
-xbox
-www
-oral
-ford
-edge
-root
-au
-fi
-ice
-pink
-shot
-nc
-llc
-sec
-bus
-cold
-bag
-po
-va
-foot
-mass
-ibm
-rd
-sc
-heat
-wild
-miss
-task
-nor
-bug
-mid
-se
-soft
-fuel
-walk
-wait
-rose
-jim
-di
-km
-pick
-del
-ga
-ac
-ft
-load
-tags
-joe
-guys
-drop
-cds
-rich
-im
-vs
-ipod
-ar
-mo
-seem
-sa
-hire
-gave
-ones
-xp
-rank
-kong
-died
-inch
-lab
-cvs
-snow
-eu
-camp
-des
-fill
-cc
-lcd
-wa
-ave
-dj
-gone
-fort
-cm
-wi
-gene
-disc
-ct
-boat
-icon
-ends
-da
-cast
-felt
-pic
-soul
-aids
-flag
-nj
-hr
-em
-iv
-atom
-rw
-iron
-void
-tag
-mix
-disk
-vhs
-fix
-desk
-dave
-hong
-vice
-ne
-ray
-du
-duty
-bear
-gain
-lack
-iowa
-dry
-spa
-knew
-con
-ups
-zoom
-blow
-clip
-nt
-es
-wire
-tape
-spam
-acid
-cent
-null
-zero
-gb
-bc
-pr
-roll
-fr
-bath
-aa
-var
-font
-mt
-beta
-fail
-won
-jazz
-bags
-doc
-wear
-mom
-rare
-bars
-row
-oz
-dual
-rise
-usd
-mg
-bird
-lady
-fans
-eat
-dell
-seat
-aim
-bids
-toll
-les
-cape
-ann
-tip
-mine
-whom
-ski
-math
-ch
-dan
-dogs
-sd
-moon
-fly
-fear
-rs
-wars
-kept
-hey
-beat
-bbc
-arms
-tea
-avg
-sky
-utah
-rom
-hide
-toy
-slow
-src
-hip
-faqs
-nine
-eric
-spot
-grow
-dot
-hiv
-pda
-rain
-onto
-dsl
-zum
-dna
-diff
-bass
-hole
-pets
-ride
-tim
-sql
-pair
-don
-ss
-runs
-yeah
-ap
-nm
-mn
-nd
-evil
-gps
-op
-acc
-euro
-cap
-ink
-peak
-tn
-salt
-bell
-pin
-raw
-gnu
-jeff
-ben
-lane
-kill
-aol
-ce
-ages
-plug
-cook
-hat
-perl
-lib
-bike
-ab
-utc
-der
-lose
-seek
-tony
-kits
-cam
-soil
-wet
-ram
-matt
-fox
-exit
-iran
-arm
-keys
-wave
-holy
-acts
-mesh
-dean
-poll
-unix
-bond
-pub
-tm
-sp
-jean
-hop
-visa
-nh
-gun
-pure
-lens
-draw
-fm
-warm
-babe
-crew
-legs
-sam
-pdt
-rear
-node
-lock
-mile
-mens
-bowl
-ref
-tank
-navy
-kid
-db
-pan
-ph
-dish
-ia
-pt
-adam
-slot
-psp
-ha
-ds
-gray
-ea
-und
-demo
-lg
-hate
-rice
-loop
-nfl
-gary
-vary
-rome
-arab
-milk
-nw
-boot
-ff
-push
-iso
-sum
-misc
-alan
-dear
-oak
-vat
-beer
-jose
-jane
-ps
-sir
-earn
-kim
-twin
-ky
-dont
-spy
-br
-bits
-lo
-suit
-ml
-chip
-res
-sit
-wow
-char
-cs
-echo
-que
-grid
-voip
-fig
-sf
-kg
-pull
-ut
-nasa
-tab
-si
-css
-mc
-nick
-plot
-qty
-pump
-lp
-anne
-bio
-exam
-ryan
-beds
-pcs
-grey
-bold
-von
-ag
-scan
-vi
-aged
-bulk
-sci
-edt
-pmid
-sin
-cute
-ba
-para
-cr
-pg
-seed
-ee
-peer
-meat
-ing
-ks
-alex
-bang
-bone
-bugs
-ftp
-med
-gate
-sw
-tone
-busy
-leg
-neck
-hd
-wing
-abc
-tiny
-rail
-jay
-gap
-tube
-belt
-er
-jr
-biz
-rob
-era
-gcc
-asp
-luck
-dial
-jet
-par
-gang
-nv
-cake
-mad
-semi
-andy
-cafe
-ken
-su
-exp
-till
-pen
-shoe
-sand
-joy
-cpu
-ran
-seal
-sr
-jon
-lies
-pipe
-nr
-ill
-lbs
-lay
-lol
-deck
-mp
-thin
-mph
-sick
-dose
-bet
-def
-lets
-li
-nl
-cats
-ya
-nba
-greg
-epa
-tr
-bb
-ron
-nz
-folk
-org
-okay
-hist
-lift
-lisa
-mall
-dad
-pat
-fell
-yard
-te
-av
-sean
-pour
-reg
-tion
-dust
-wiki
-kent
-adds
-nsw
-ear
-pci
-tie
-ward
-ian
-roof
-kiss
-ra
-mod
-rc
-bmw
-rush
-mpeg
-yoga
-lamp
-rico
-phil
-cst
-http
-ceo
-glad
-wins
-rack
-ec
-rep
-mit
-boss
-ross
-anna
-solo
-tall
-rm
-pdas
-sri
-toe
-nova
-api
-cf
-vt
-wake
-urw
-lan
-sms
-drum
-nec
-foto
-ease
-tabs
-gm
-ri
-pine
-tend
-gulf
-rt
-rick
-cp
-hunt
-thai
-fred
-dd
-mill
-den
-aud
-pl
-burn
-labs
-lie
-crm
-rf
-ak
-fe
-td
-amp
-sb
-ah
-sole
-sm
-laid
-clay
-weak
-usc
-blvd
-amd
-wise
-wv
-odds
-ns
-eve
-marc
-sons
-leaf
-pad
-ja
-bs
-rod
-cuba
-hrs
-silk
-kate
-bi
-sad
-wolf
-cal
-fits
-kick
-meal
-ta
-hurt
-pot
-img
-slip
-rpm
-cuts
-pee
-mars
-tvs
-egg
-mhz
-caps
-pill
-lat
-meta
-mint
-gi
-spin
-sur
-wash
-rev
-ll
-aims
-cl
-ieee
-ho
-corp
-gt
-sh
-soap
-ae
-nyc
-jam
-axis
-guns
-rio
-hs
-hero
-rv
-punk
-pi
-duke
-ai
-pace
-wage
-ot
-arc
-dawn
-carl
-coat
-mrs
-rica
-yr
-app
-roy
-ion
-doll
-ic
-peru
-nike
-fed
-reed
-mice
-ban
-temp
-zus
-vast
-ent
-odd
-wrap
-mood
-quiz
-mx
-gr
-ext
-beam
-tops
-amy
-ts
-shut
-ge
-ncaa
-thou
-phd
-mask
-ng
-pe
-coal
-cry
-tt
-zoo
-aka
-tee
-lion
-goto
-xl
-neil
-beef
-cad
-hats
-tcp
-surf
-dv
-dir
-hook
-cord
-val
-crop
-tu
-fy
-lite
-ghz
-hub
-rr
-eng
-ef
-ace
-sing
-tons
-sue
-ep
-hang
-gbp
-lb
-hood
-jp
-chi
-bt
-fame
-af
-rfc
-sl
-seo
-isp
-ins
-eggs
-hb
-jpg
-tc
-ruby
-mins
-ssl
-stem
-opt
-drew
-flu
-mlb
-rap
-tune
-corn
-gp
-puts
-grew
-tin
-trek
-oem
-ir
-ties
-rat
-brad
-jury
-dos
-tail
-lawn
-soup
-byte
-nose
-oclc
-plc
-juan
-msg
-cod
-thru
-jews
-trim
-cv
-cb
-gen
-espn
-nhl
-quit
-lung
-ti
-fc
-gel
-todd
-fw
-doug
-sees
-gs
-aaa
-bull
-cole
-mart
-tale
-lynn
-bp
-std
-docs
-vid
-oo
-coin
-fake
-fda
-cure
-arch
-ni
-hdtv
-asin
-bomb
-harm
-thy
-deer
-tri
-pal
-um
-ye
-fs
-nn
-mat
-oven
-ted
-noon
-gym
-kde
-vb
-cams
-joel
-yo
-proc
-tan
-fx
-mate
-dl
-chef
-isle
-slim
-luke
-comp
-alt
-pie
-ls
-cbs
-pete
-spec
-bow
-penn
-midi
-tied
-hon
-dale
-oils
-sept
-unto
-lt
-atm
-eq
-pays
-je
-lang
-stud
-fold
-uv
-cms
-sg
-vic
-pos
-phys
-pole
-mega
-bend
-moms
-glen
-nav
-cab
-fa
-ist
-lips
-pond
-lc
-dam
-cnn
-lil
-das
-tire
-chad
-sys
-josh
-drag
-icq
-ripe
-rely
-scsi
-cu
-dns
-pty
-ws
-nuts
-nail
-span
-sox
-joke
-univ
-tub
-pads
-inns
-cups
-ash
-ali
-np
-foam
-tft
-jvc
-poem
-dt
-cgi
-asks
-bean
-bias
-por
-mem
-gc
-tap
-ci
-swim
-nano
-yn
-vii
-bee
-loud
-rats
-cfr
-stat
-cruz
-bios
-pmc
-thee
-nb
-ruth
-pray
-pope
-jeep
-bare
-hung
-mba
-pit
-mono
-tile
-rx
-apps
-mag
-gsm
-ddr
-rec
-ciao
-knee
-prep
-pb
-chem
-ton
-oe
-gif
-pros
-cant
-jd
-gpl
-irc
-wy
-dm
-sara
-bra
-joan
-duck
-phi
-mls
-cow
-dive
-cet
-fiji
-audi
-raid
-ppc
-volt
-div
-dirt
-jc
-acer
-dist
-ons
-geek
-sink
-grip
-avi
-watt
-pins
-reno
-ide
-polo
-rpg
-horn
-pd
-prot
-frog
-logs
-tgp
-leo
-diy
-snap
-arg
-ur
-geo
-doe
-jpeg
-ati
-wal
-swap
-abs
-flip
-sim
-rna
-buzz
-nuke
-rid
-boom
-calm
-fork
-troy
-ln
-uc
-rip
-zope
-gmbh
-buf
-ld
-sims
-tray
-sol
-sage
-eco
-bat
-lip
-sap
-suse
-mf
-cave
-wool
-mw
-nu
-ict
-dp
-eyed
-ou
-grab
-oops
-xi
-sku
-ht
-za
-trap
-fool
-ve
-karl
-dies
-pts
-rh
-rrp
-fg
-jail
-ooo
-hz
-ipaq
-bk
-comm
-nhs
-aye
-lace
-ste
-ugly
-hart
-ment
-col
-dx
-sk
-biol
-yu
-rows
-sq
-oc
-aj
-treo
-gods
-une
-tex
-cia
-poly
-ears
-dod
-wp
-fist
-neo
-mere
-cons
-dig
-taxi
-om
-nat
-tp
-jm
-dpi
-gis
-loc
-worn
-shaw
-vp
-expo
-cn
-deny
-bali
-judy
-trio
-cube
-rugs
-fate
-gui
-gras
-ver
-rn
-rim
-zen
-dis
-kay
-oval
-cg
-soma
-ser
-href
-benz
-wifi
-tier
-fwd
-earl
-aus
-hwy
-guam
-cite
-nam
-ix
-gdp
-pig
-mess
-lit
-una
-ada
-tb
-rope
-dump
-yrs
-foo
-gba
-bm
-hose
-sig
-duo
-fog
-str
-pubs
-vip
-yea
-mild
-fur
-tar
-rj
-soc
-clan
-sync
-mesa
-rug
-ka
-hull
-dem
-wav
-shed
-memo
-ham
-tide
-funk
-fbi
-reel
-rp
-bind
-rand
-buck
-eh
-tba
-sie
-usgs
-acre
-lows
-aqua
-chen
-emma
-eva
-pest
-hc
-rca
-fp
-reef
-gst
-bon
-jj
-chan
-mas
-beth
-len
-kai
-dom
-jill
-sofa
-obj
-dans
-viii
-jar
-ev
-tent
-dept
-hack
-dare
-hawk
-lamb
-cos
-pac
-rl
-erp
-gl
-ui
-dh
-vpn
-fcc
-eds
-ro
-df
-junk
-wax
-lucy
-hans
-poet
-epic
-nut
-sake
-sans
-irs
-lean
-bye
-cdt
-ana
-dude
-luis
-ez
-pf
-uw
-alto
-eau
-bd
-mil
-gore
-cult
-dash
-cage
-divx
-hugh
-lap
-jake
-eval
-ping
-flux
-sao
-muze
-oman
-gmc
-hh
-rage
-adsl
-uh
-prix
-fd
-bo
-avon
-rays
-asn
-walt
-acne
-libs
-undo
-wm
-pk
-dana
-halo
-ppm
-ant
-gays
-apt
-exec
-inf
-eos
-vcr
-uri
-gem
-maui
-psi
-pct
-wb
-vids
-yale
-sn
-qld
-pas
-dk
-doom
-owen
-bite
-issn
-myth
-gig
-sas
-fu
-weed
-oecd
-dice
-quad
-dock
-mods
-hint
-msie
-wn
-liz
-ccd
-sv
-buys
-pork
-zu
-barn
-llp
-boc
-fare
-dg
-asus
-vg
-bald
-fuji
-leon
-mold
-dame
-fo
-herb
-tmp
-alot
-ate
-idle
-fin
-io
-mud
-uni
-ul
-ol
-js
-pn
-cove
-casa
-mu
-eden
-incl
-ala
-hq
-dip
-nbc
-reid
-wt
-flex
-rosa
-hash
-lazy
-mv
-mpg
-carb
-cas
-cio
-dow
-rb
-upc
-dui
-pens
-yen
-mh
-worm
-lid
-deaf
-mats
-pvc
-blah
-mime
-feof
-usda
-keen
-peas
-urls
-enb
-gg
-og
-ko
-owns
-til
-wto
-hay
-ww
-gd
-zinc
-guru
-isa
-levy
-grad
-bras
-pix
-mic
-kyle
-bw
-mj
-pale
-gaps
-tear
-lf
-ata
-nil
-nest
-pam
-nato
-cop
-gale
-dim
-stan
-idol
-wc
-mai
-hk
-abu
-moss
-ty
-cork
-cj
-mali
-mtv
-dome
-leu
-heel
-yang
-qc
-lou
-pgp
-aw
-sip
-tf
-pj
-cw
-wr
-dumb
-rg
-bl
-vc
-dee
-wx
-mae
-mel
-feat
-ntsc
-sic
-usps
-bg
-seq
-conf
-glow
-wma
-cir
-oaks
-erik
-hu
-acm
-kw
-paso
-norm
-ips
-dsc
-ware
-mia
-wan
-jade
-foul
-keno
-gtk
-seas
-ru
-pose
-mrna
-goat
-ira
-sen
-sail
-dts
-qt
-sega
-cdna
-pod
-wu
-bolt
-gage
-lu
-dat
-soa
-urge
-smtp
-kurt
-neon
-ours
-lone
-cope
-lm
-lime
-kirk
-bool
-cho
-wit
-bbs
-spas
-ind
-jets
-qui
-intl
-cz
-yarn
-knit
-mug
-hl
-ob
-pike
-ids
-hugo
-gzip
-ctrl
-bent
-laos
-about
-search
-other
-which
-their
-there
-contact
-business
-online
-first
-would
-services
-these
-click
-service
-price
-people
-state
-email
-health
-world
-products
-music
-should
-product
-system
-policy
-number
-please
-support
-message
-after
-software
-video
-where
-rights
-public
-books
-school
-through
-links
-review
-years
-order
-privacy
-items
-company
-group
-under
-general
-research
-january
-reviews
-program
-games
-could
-great
-united
-hotel
-center
-store
-travel
-comments
-report
-member
-details
-terms
-before
-hotels
-right
-because
-local
-those
-using
-results
-office
-national
-design
-posted
-internet
-address
-within
-states
-phone
-shipping
-reserved
-subject
-between
-forum
-family
-based
-black
-check
-special
-prices
-website
-index
-being
-women
-today
-south
-project
-pages
-version
-section
-found
-sports
-house
-related
-security
-county
-american
-photo
-members
-power
-while
-network
-computer
-systems
-three
-total
-place
-download
-without
-access
-think
-north
-current
-posts
-media
-control
-water
-history
-pictures
-personal
-since
-guide
-board
-location
-change
-white
-small
-rating
-children
-during
-return
-students
-shopping
-account
-times
-sites
-level
-digital
-profile
-previous
-events
-hours
-image
-title
-another
-shall
-property
-class
-still
-money
-quality
-every
-listing
-content
-country
-private
-little
-visit
-tools
-reply
-customer
-december
-compare
-movies
-include
-college
-value
-article
-provide
-source
-author
-press
-learn
-around
-print
-course
-canada
-process
-stock
-training
-credit
-point
-science
-advanced
-sales
-english
-estate
-select
-windows
-photos
-thread
-category
-large
-gallery
-table
-register
-however
-october
-november
-market
-library
-really
-action
-start
-series
-model
-features
-industry
-human
-provided
-required
-second
-movie
-forums
-march
-better
-yahoo
-going
-medical
-friend
-server
-study
-staff
-articles
-feedback
-again
-looking
-issues
-april
-never
-users
-complete
-street
-topic
-comment
-things
-working
-against
-standard
-person
-below
-mobile
-party
-payment
-login
-student
-programs
-offers
-legal
-above
-recent
-stores
-problem
-memory
-social
-august
-quote
-language
-story
-options
-rates
-create
-young
-america
-field
-paper
-single
-example
-girls
-password
-latest
-question
-changes
-night
-texas
-poker
-status
-browse
-issue
-range
-building
-seller
-court
-february
-always
-result
-audio
-light
-write
-offer
-groups
-given
-files
-event
-release
-analysis
-request
-china
-making
-picture
-needs
-possible
-might
-month
-major
-areas
-future
-space
-cards
-problems
-london
-meeting
-become
-interest
-child
-enter
-share
-similar
-garden
-schools
-million
-added
-listed
-learning
-energy
-delivery
-popular
-stories
-journal
-reports
-welcome
-central
-images
-notice
-original
-radio
-until
-color
-council
-includes
-track
-archive
-others
-format
-least
-society
-months
-safety
-friends
-trade
-edition
-messages
-further
-updated
-having
-provides
-david
-already
-green
-studies
-close
-common
-drive
-specific
-several
-living
-called
-short
-display
-limited
-powered
-means
-director
-daily
-beach
-natural
-whether
-period
-planning
-database
-official
-weather
-average
-window
-france
-region
-island
-record
-direct
-records
-district
-calendar
-costs
-style
-front
-update
-parts
-early
-miles
-sound
-resource
-present
-either
-document
-works
-material
-written
-federal
-hosting
-rules
-final
-adult
-tickets
-thing
-centre
-cheap
-finance
-minutes
-third
-gifts
-europe
-reading
-topics
-cover
-usually
-together
-videos
-percent
-function
-getting
-global
-economic
-player
-projects
-lyrics
-often
-submit
-germany
-amount
-watch
-included
-though
-thanks
-deals
-various
-words
-linux
-james
-weight
-heart
-received
-choose
-archives
-points
-magazine
-error
-camera
-clear
-receive
-domain
-methods
-chapter
-makes
-policies
-beauty
-manager
-india
-position
-taken
-listings
-models
-michael
-known
-cases
-florida
-simple
-quick
-wireless
-license
-friday
-whole
-annual
-later
-basic
-shows
-google
-church
-method
-purchase
-active
-response
-practice
-hardware
-figure
-holiday
-enough
-designed
-along
-among
-death
-writing
-speed
-brand
-discount
-higher
-effects
-created
-remember
-yellow
-increase
-kingdom
-thought
-stuff
-french
-storage
-japan
-doing
-loans
-shoes
-entry
-nature
-orders
-africa
-summary
-growth
-notes
-agency
-monday
-european
-activity
-although
-western
-income
-force
-overall
-river
-package
-contents
-players
-engine
-album
-regional
-supplies
-started
-views
-plans
-double
-build
-screen
-exchange
-types
-lines
-continue
-across
-benefits
-needed
-season
-apply
-someone
-anything
-printer
-believe
-effect
-asked
-sunday
-casino
-volume
-cross
-anyone
-mortgage
-silver
-inside
-solution
-mature
-rather
-weeks
-addition
-supply
-nothing
-certain
-running
-lower
-union
-jewelry
-clothing
-names
-robert
-homepage
-skills
-islands
-advice
-career
-military
-rental
-decision
-leave
-british
-teens
-woman
-sellers
-middle
-cable
-taking
-values
-division
-coming
-tuesday
-object
-lesbian
-machine
-length
-actually
-score
-client
-returns
-capital
-follow
-sample
-shown
-saturday
-england
-culture
-flash
-george
-choice
-starting
-thursday
-courses
-consumer
-airport
-foreign
-artist
-outside
-levels
-channel
-letter
-phones
-ideas
-summer
-allow
-degree
-contract
-button
-releases
-homes
-super
-matter
-custom
-virginia
-almost
-located
-multiple
-asian
-editor
-cause
-focus
-featured
-rooms
-female
-thomas
-primary
-cancer
-numbers
-reason
-browser
-spring
-answer
-voice
-friendly
-schedule
-purpose
-feature
-comes
-police
-everyone
-approach
-cameras
-brown
-physical
-medicine
-ratings
-chicago
-forms
-glass
-happy
-smith
-wanted
-thank
-unique
-survey
-prior
-sport
-ready
-animal
-sources
-mexico
-regular
-secure
-simply
-evidence
-station
-round
-paypal
-favorite
-option
-master
-valley
-recently
-probably
-rentals
-built
-blood
-improve
-larger
-networks
-earth
-parents
-nokia
-impact
-transfer
-kitchen
-strong
-carolina
-wedding
-hospital
-ground
-overview
-owners
-disease
-italy
-perfect
-classic
-basis
-command
-cities
-william
-express
-award
-distance
-peter
-ensure
-involved
-extra
-partners
-budget
-rated
-guides
-success
-maximum
-existing
-quite
-selected
-amazon
-patients
-warning
-horse
-forward
-flowers
-stars
-lists
-owner
-retail
-animals
-useful
-directly
-housing
-takes
-bring
-catalog
-searches
-trying
-mother
-traffic
-joined
-input
-strategy
-agent
-valid
-modern
-senior
-ireland
-teaching
-grand
-testing
-trial
-charge
-units
-instead
-canadian
-normal
-wrote
-ships
-entire
-leading
-metal
-positive
-fitness
-chinese
-opinion
-football
-abstract
-output
-funds
-greater
-likely
-develop
-artists
-guest
-seems
-trust
-contains
-session
-multi
-republic
-vacation
-century
-academic
-graphics
-indian
-expected
-grade
-dating
-pacific
-mountain
-filter
-mailing
-vehicle
-longer
-consider
-northern
-behind
-panel
-floor
-german
-buying
-match
-proposed
-default
-require
-outdoor
-morning
-allows
-protein
-plant
-reported
-politics
-partner
-authors
-boards
-faculty
-parties
-mission
-string
-sense
-modified
-released
-stage
-internal
-goods
-unless
-richard
-detailed
-japanese
-approved
-target
-except
-ability
-maybe
-moving
-brands
-places
-pretty
-spain
-southern
-yourself
-winter
-battery
-youth
-pressure
-boston
-keywords
-medium
-break
-purposes
-dance
-itself
-defined
-papers
-playing
-awards
-studio
-reader
-virtual
-device
-answers
-remote
-external
-apple
-offered
-theory
-enjoy
-remove
-surface
-minimum
-visual
-variety
-teachers
-martin
-manual
-block
-subjects
-agents
-repair
-civil
-steel
-songs
-fixed
-wrong
-hands
-finally
-updates
-desktop
-classes
-paris
-sector
-capacity
-requires
-jersey
-fully
-father
-electric
-quotes
-officer
-driver
-respect
-unknown
-worth
-teacher
-workers
-georgia
-peace
-campus
-showing
-creative
-coast
-benefit
-progress
-funding
-devices
-grant
-agree
-fiction
-watches
-careers
-beyond
-families
-museum
-blogs
-accepted
-former
-complex
-agencies
-parent
-spanish
-michigan
-columbia
-setting
-scale
-stand
-economy
-highest
-helpful
-monthly
-critical
-frame
-musical
-angeles
-employee
-chief
-gives
-bottom
-packages
-detail
-changed
-heard
-begin
-colorado
-royal
-clean
-switch
-russian
-largest
-african
-titles
-relevant
-justice
-connect
-bible
-basket
-applied
-weekly
-demand
-suite
-vegas
-square
-chris
-advance
-auction
-allowed
-correct
-charles
-nation
-selling
-piece
-sheet
-seven
-older
-illinois
-elements
-species
-cells
-module
-resort
-facility
-random
-pricing
-minister
-motion
-looks
-fashion
-visitors
-monitor
-trading
-forest
-calls
-whose
-coverage
-couple
-giving
-chance
-vision
-ending
-clients
-actions
-listen
-discuss
-accept
-naked
-clinical
-sciences
-markets
-lowest
-highly
-appear
-lives
-currency
-leather
-patient
-actual
-stone
-commerce
-perhaps
-persons
-tests
-village
-accounts
-amateur
-factors
-coffee
-settings
-buyer
-cultural
-steve
-easily
-poster
-closed
-holidays
-zealand
-balance
-graduate
-replies
-initial
-label
-thinking
-scott
-canon
-league
-waste
-minute
-provider
-optional
-sections
-chair
-fishing
-effort
-phase
-fields
-fantasy
-letters
-motor
-context
-install
-shirt
-apparel
-crime
-count
-breast
-johnson
-quickly
-dollars
-websites
-religion
-claim
-driving
-surgery
-patch
-measures
-kansas
-chemical
-doctor
-reduce
-brought
-himself
-enable
-exercise
-santa
-leader
-diamond
-israel
-servers
-alone
-meetings
-seconds
-jones
-arizona
-keyword
-flight
-congress
-username
-produced
-italian
-pocket
-saint
-freedom
-argument
-creating
-drugs
-joint
-premium
-fresh
-attorney
-upgrade
-factor
-growing
-stream
-hearing
-eastern
-auctions
-therapy
-entries
-dates
-signed
-upper
-serious
-prime
-samsung
-limit
-began
-louis
-steps
-errors
-shops
-efforts
-informed
-thoughts
-creek
-worked
-quantity
-urban
-sorted
-myself
-tours
-platform
-labor
-admin
-nursing
-defense
-machines
-heavy
-covered
-recovery
-merchant
-expert
-protect
-solid
-became
-orange
-vehicles
-prevent
-theme
-campaign
-marine
-guitar
-finding
-examples
-saying
-spirit
-claims
-motorola
-affairs
-touch
-intended
-towards
-goals
-election
-suggest
-branch
-charges
-serve
-reasons
-magic
-mount
-smart
-talking
-latin
-avoid
-manage
-corner
-oregon
-element
-birth
-virus
-abuse
-requests
-separate
-quarter
-tables
-define
-racing
-facts
-column
-plants
-faith
-chain
-identify
-avenue
-missing
-domestic
-sitemap
-moved
-houston
-reach
-mental
-viewed
-moment
-extended
-sequence
-attack
-sorry
-centers
-opening
-damage
-reserve
-recipes
-gamma
-plastic
-produce
-placed
-truth
-counter
-failure
-follows
-weekend
-dollar
-ontario
-films
-bridge
-native
-williams
-movement
-printing
-baseball
-owned
-approval
-draft
-chart
-played
-contacts
-jesus
-readers
-clubs
-jackson
-equal
-matching
-offering
-shirts
-profit
-leaders
-posters
-variable
-expect
-parking
-compared
-workshop
-russia
-codes
-kinds
-seattle
-golden
-teams
-lighting
-senate
-forces
-funny
-brother
-turned
-portable
-tried
-returned
-pattern
-named
-theatre
-laser
-earlier
-sponsor
-warranty
-indiana
-harry
-objects
-delete
-evening
-assembly
-nuclear
-taxes
-mouse
-signal
-criminal
-issued
-brain
-sexual
-powerful
-dream
-obtained
-false
-flower
-passed
-supplied
-falls
-opinions
-promote
-stated
-stats
-hawaii
-appears
-carry
-decided
-covers
-hello
-designs
-maintain
-tourism
-priority
-adults
-clips
-savings
-graphic
-payments
-binding
-brief
-ended
-winning
-eight
-straight
-script
-served
-wants
-prepared
-dining
-alert
-atlanta
-dakota
-queen
-credits
-clearly
-handle
-sweet
-criteria
-pubmed
-diego
-truck
-behavior
-enlarge
-revenue
-measure
-changing
-votes
-looked
-festival
-ocean
-flights
-experts
-signs
-depth
-whatever
-logged
-laptop
-vintage
-train
-exactly
-explore
-maryland
-concept
-nearly
-eligible
-checkout
-reality
-forgot
-handling
-origin
-gaming
-feeds
-billion
-scotland
-faster
-dallas
-bought
-nations
-route
-followed
-broken
-frank
-alaska
-battle
-anime
-speak
-protocol
-query
-equity
-speech
-rural
-shared
-sounds
-judge
-bytes
-forced
-fight
-height
-speaker
-filed
-obtain
-offices
-designer
-remain
-managed
-failed
-marriage
-korea
-banks
-secret
-kelly
-leads
-negative
-austin
-toronto
-theater
-springs
-missouri
-andrew
-perform
-healthy
-assets
-injury
-joseph
-ministry
-drivers
-lawyer
-figures
-married
-proposal
-sharing
-portal
-waiting
-birthday
-gratis
-banking
-brian
-toward
-slightly
-assist
-conduct
-lingerie
-calling
-serving
-profiles
-miami
-comics
-matters
-houses
-postal
-controls
-breaking
-combined
-ultimate
-wales
-minor
-finish
-noted
-reduced
-physics
-spent
-extreme
-samples
-davis
-daniel
-reviewed
-forecast
-removed
-helps
-singles
-cycle
-amounts
-contain
-accuracy
-sleep
-pharmacy
-brazil
-creation
-static
-scene
-hunter
-crystal
-famous
-writer
-chairman
-violence
-oklahoma
-speakers
-drink
-academy
-dynamic
-gender
-cleaning
-concerns
-vendor
-intel
-officers
-referred
-supports
-regions
-junior
-rings
-meaning
-ladies
-henry
-ticket
-guess
-agreed
-soccer
-import
-posting
-presence
-instant
-viewing
-majority
-christ
-aspects
-austria
-ahead
-scheme
-utility
-preview
-manner
-matrix
-devel
-despite
-strength
-turkey
-proper
-degrees
-delta
-seeking
-inches
-phoenix
-shares
-daughter
-standing
-comfort
-colors
-cisco
-ordering
-alpha
-appeal
-cruise
-bonus
-bookmark
-specials
-disney
-adobe
-smoking
-becomes
-drives
-alabama
-improved
-trees
-achieve
-dress
-dealer
-nearby
-carried
-happen
-exposure
-gambling
-refer
-miller
-outdoors
-clothes
-caused
-luxury
-babes
-frames
-indeed
-circuit
-layer
-printed
-removal
-easier
-printers
-adding
-kentucky
-mostly
-taylor
-prints
-spend
-factory
-interior
-revised
-optical
-relative
-amazing
-clock
-identity
-suites
-feeling
-hidden
-victoria
-serial
-relief
-revision
-ratio
-planet
-copies
-recipe
-permit
-seeing
-proof
-tennis
-bedroom
-empty
-instance
-licensed
-orlando
-bureau
-maine
-ideal
-specs
-recorded
-pieces
-finished
-parks
-dinner
-lawyers
-sydney
-stress
-cream
-trends
-discover
-patterns
-boxes
-hills
-fourth
-advisor
-aware
-wilson
-shape
-irish
-stations
-remains
-greatest
-firms
-operator
-generic
-usage
-charts
-mixed
-census
-exist
-wheel
-transit
-compact
-poetry
-lights
-tracking
-angel
-keeping
-attempt
-matches
-width
-noise
-engines
-forget
-array
-accurate
-stephen
-climate
-alcohol
-greek
-managing
-sister
-walking
-explain
-smaller
-newest
-happened
-extent
-sharp
-lesbians
-export
-managers
-aircraft
-modules
-sweden
-conflict
-versions
-employer
-occur
-knows
-describe
-concern
-backup
-citizens
-heritage
-holding
-trouble
-spread
-coach
-kevin
-expand
-audience
-assigned
-jordan
-affect
-virgin
-raised
-directed
-dealers
-sporting
-helping
-affected
-totally
-plate
-expenses
-indicate
-blonde
-anderson
-organic
-albums
-cheats
-guests
-hosted
-diseases
-nevada
-thailand
-agenda
-anyway
-tracks
-advisory
-logic
-template
-prince
-circle
-grants
-anywhere
-atlantic
-edward
-investor
-leaving
-wildlife
-cooking
-speaking
-sponsors
-respond
-sizes
-plain
-entered
-launch
-checking
-costa
-belgium
-guidance
-trail
-symbol
-crafts
-highway
-buddy
-observed
-setup
-booking
-glossary
-fiscal
-styles
-denver
-filled
-channels
-ericsson
-appendix
-notify
-blues
-portion
-scope
-supplier
-cables
-cotton
-biology
-dental
-killed
-border
-ancient
-debate
-starts
-causes
-arkansas
-leisure
-learned
-notebook
-explorer
-historic
-attached
-opened
-husband
-disabled
-crazy
-upcoming
-britain
-concert
-scores
-comedy
-adopted
-weblog
-linear
-bears
-carrier
-edited
-constant
-mouth
-jewish
-meter
-linked
-portland
-concepts
-reflect
-deliver
-wonder
-lessons
-fruit
-begins
-reform
-alerts
-treated
-mysql
-relating
-assume
-alliance
-confirm
-neither
-lewis
-howard
-offline
-leaves
-engineer
-replace
-checks
-reached
-becoming
-safari
-sugar
-stick
-allen
-relation
-enabled
-genre
-slide
-montana
-tested
-enhance
-exact
-bound
-adapter
-formal
-hockey
-storm
-micro
-colleges
-laptops
-showed
-editors
-threads
-supreme
-brothers
-presents
-dolls
-estimate
-cancel
-limits
-weapons
-paint
-delay
-pilot
-outlet
-czech
-novel
-ultra
-winner
-idaho
-episode
-potter
-plays
-bulletin
-modify
-oxford
-truly
-epinions
-painting
-universe
-patent
-eating
-planned
-watching
-lodge
-mirror
-sterling
-sessions
-kernel
-stocks
-buyers
-journals
-jennifer
-antonio
-charged
-broad
-taiwan
-chosen
-greece
-swiss
-sarah
-clark
-terminal
-nights
-behalf
-liquid
-nebraska
-salary
-foods
-gourmet
-guard
-properly
-orleans
-saving
-empire
-resume
-twenty
-newly
-raise
-prepare
-avatar
-illegal
-hundreds
-lincoln
-helped
-premier
-tomorrow
-decide
-consent
-drama
-visiting
-downtown
-keyboard
-contest
-bands
-suitable
-millions
-lunch
-audit
-chamber
-guinea
-findings
-muscle
-clicking
-polls
-typical
-tower
-yours
-chicken
-attend
-shower
-sending
-jason
-tonight
-holdem
-shell
-province
-catholic
-governor
-seemed
-swimming
-spyware
-formula
-solar
-catch
-pakistan
-reliable
-doubt
-finder
-unable
-periods
-tasks
-attacks
-const
-doors
-symptoms
-resorts
-biggest
-memorial
-visitor
-forth
-insert
-gateway
-alumni
-drawing
-ordered
-fighting
-happens
-romance
-bruce
-split
-themes
-powers
-heaven
-pregnant
-twice
-focused
-egypt
-bargain
-cellular
-norway
-vermont
-asking
-blocks
-normally
-hunting
-diabetes
-shift
-bodies
-cutting
-simon
-writers
-marks
-flexible
-loved
-mapping
-numerous
-birds
-indexed
-superior
-saved
-paying
-cartoon
-shots
-moore
-granted
-choices
-carbon
-spending
-magnetic
-registry
-crisis
-outlook
-massive
-denmark
-employed
-bright
-treat
-header
-poverty
-formed
-piano
-sheets
-patrick
-puerto
-displays
-plasma
-allowing
-earnings
-mystery
-journey
-delaware
-bidding
-risks
-banner
-charter
-barbara
-counties
-ports
-dreams
-blogger
-stands
-teach
-occurred
-rapid
-hairy
-reverse
-deposit
-seminar
-latina
-wheels
-specify
-dutch
-formats
-depends
-boots
-holds
-router
-concrete
-editing
-poland
-folder
-womens
-upload
-pulse
-voting
-courts
-notices
-detroit
-metro
-toshiba
-strip
-pearl
-accident
-resident
-possibly
-airline
-regard
-exists
-smooth
-strike
-flashing
-narrow
-threat
-surveys
-sitting
-putting
-vietnam
-trailer
-castle
-gardens
-missed
-malaysia
-antique
-labels
-willing
-acting
-heads
-stored
-logos
-antiques
-density
-hundred
-strange
-mention
-parallel
-honda
-amended
-operate
-bills
-bathroom
-stable
-opera
-doctors
-lesson
-cinema
-asset
-drinking
-reaction
-blank
-enhanced
-entitled
-severe
-generate
-deluxe
-humor
-monitors
-lived
-duration
-pursuant
-fabric
-visits
-tight
-domains
-contrast
-flying
-berlin
-siemens
-adoption
-meant
-capture
-pounds
-buffalo
-plane
-desire
-camping
-meets
-welfare
-caught
-marked
-driven
-measured
-medline
-bottle
-marshall
-massage
-rubber
-closing
-tampa
-thousand
-legend
-grace
-susan
-adams
-python
-monster
-villa
-columns
-hamilton
-cookies
-inner
-tutorial
-entity
-cruises
-holder
-portugal
-lawrence
-roman
-duties
-valuable
-ethics
-forever
-dragon
-captain
-imagine
-brings
-heating
-scripts
-stereo
-taste
-dealing
-commit
-airlines
-liberal
-livecam
-trips
-sides
-turns
-cache
-jacket
-oracle
-matthew
-lease
-aviation
-hobbies
-proud
-excess
-disaster
-console
-commands
-giant
-achieved
-injuries
-shipped
-seats
-alarm
-voltage
-anthony
-nintendo
-usual
-loading
-stamps
-appeared
-franklin
-angle
-vinyl
-mining
-ongoing
-worst
-imaging
-betting
-liberty
-wyoming
-convert
-analyst
-garage
-exciting
-thongs
-ringtone
-finland
-morgan
-derived
-pleasure
-honor
-oriented
-eagle
-desktops
-pants
-columbus
-nurse
-prayer
-quiet
-postage
-producer
-cheese
-comic
-crown
-maker
-crack
-picks
-semester
-fetish
-applies
-casinos
-smoke
-apache
-filters
-craft
-apart
-fellow
-blind
-lounge
-coins
-gross
-strongly
-hilton
-proteins
-horror
-familiar
-capable
-douglas
-debian
-epson
-elected
-carrying
-victory
-madison
-editions
-mainly
-ethnic
-actor
-finds
-fifth
-citizen
-vertical
-prize
-occurs
-absolute
-consists
-anytime
-soldiers
-guardian
-lecture
-layout
-classics
-horses
-dirty
-wayne
-donate
-taught
-worker
-alive
-temple
-prove
-wings
-breaks
-genetic
-waters
-promise
-prefer
-ridge
-cabinet
-modem
-harris
-bringing
-evaluate
-tiffany
-tropical
-collect
-toyota
-streets
-vector
-shaved
-turning
-buffer
-purple
-larry
-mutual
-pipeline
-syntax
-prison
-skill
-chairs
-everyday
-moves
-inquiry
-ethernet
-checked
-exhibit
-throw
-trend
-sierra
-visible
-desert
-oldest
-rhode
-mercury
-steven
-handbook
-navigate
-worse
-summit
-victims
-spaces
-burning
-escape
-coupons
-somewhat
-receiver
-cialis
-boats
-glance
-scottish
-arcade
-richmond
-russell
-tells
-obvious
-fiber
-graph
-covering
-platinum
-judgment
-bedrooms
-talks
-filing
-foster
-modeling
-passing
-awarded
-trials
-tissue
-clinton
-masters
-bonds
-alberta
-commons
-fraud
-spectrum
-arrival
-pottery
-emphasis
-roger
-aspect
-awesome
-mexican
-counts
-priced
-crash
-desired
-inter
-closer
-assumes
-heights
-shadow
-riding
-firefox
-expense
-grove
-venture
-clinic
-korean
-healing
-princess
-entering
-packet
-spray
-studios
-buttons
-funded
-thompson
-winners
-extend
-roads
-dublin
-rolling
-memories
-nelson
-arrived
-creates
-faces
-tourist
-mayor
-murder
-adequate
-senator
-yield
-grades
-cartoons
-digest
-lodging
-hence
-entirely
-replaced
-radar
-rescue
-losses
-combat
-reducing
-stopped
-lakes
-closely
-diary
-kings
-shooting
-flags
-baker
-launched
-shock
-walls
-abroad
-ebony
-drawn
-arthur
-visited
-walker
-suggests
-beast
-operated
-targets
-overseas
-dodge
-counsel
-pizza
-invited
-yards
-gordon
-farmers
-queries
-ukraine
-absence
-nearest
-cluster
-vendors
-whereas
-serves
-woods
-surprise
-partial
-shoppers
-couples
-ranking
-jokes
-simpson
-twiki
-sublime
-palace
-verify
-globe
-trusted
-copper
-dicke
-kerry
-receipt
-supposed
-ordinary
-nobody
-ghost
-applying
-pride
-knowing
-reporter
-keith
-champion
-cloudy
-linda
-chile
-plenty
-sentence
-throat
-ignore
-maria
-uniform
-wealth
-vacuum
-dancing
-brass
-writes
-plaza
-outcomes
-survival
-quest
-publish
-trans
-jonathan
-whenever
-lifetime
-pioneer
-booty
-acrobat
-plates
-acres
-venue
-athletic
-thermal
-essays
-vital
-telling
-fairly
-coastal
-config
-charity
-excel
-modes
-campbell
-stupid
-harbor
-hungary
-traveler
-segment
-realize
-enemy
-puzzle
-rising
-aluminum
-wells
-wishlist
-opens
-insight
-secrets
-lucky
-latter
-thick
-trailers
-repeat
-syndrome
-philips
-penalty
-glasses
-enables
-iraqi
-builder
-vista
-jessica
-chips
-terry
-flood
-arena
-pupils
-stewart
-outcome
-expanded
-casual
-grown
-polish
-lovely
-extras
-centres
-jerry
-clause
-smile
-lands
-troops
-indoor
-bulgaria
-armed
-broker
-charger
-believed
-cooling
-trucks
-divorce
-laura
-shopper
-tokyo
-partly
-nikon
-candy
-pills
-tiger
-donald
-folks
-sensor
-exposed
-telecom
-angels
-deputy
-sealed
-loaded
-scenes
-boost
-spanking
-founded
-chronic
-icons
-moral
-catering
-finger
-keeps
-pound
-locate
-trained
-roses
-bread
-tobacco
-wooden
-motors
-tough
-roberts
-incident
-gonna
-dynamics
-decrease
-chest
-pension
-billy
-revenues
-emerging
-worship
-craig
-herself
-churches
-damages
-reserves
-solve
-shorts
-minority
-diverse
-johnny
-recorder
-facing
-nancy
-tones
-passion
-sight
-defence
-patches
-refund
-towns
-trembl
-divided
-emails
-cyprus
-insider
-seminars
-makers
-hearts
-worry
-carter
-legacy
-pleased
-danger
-vitamin
-widely
-phrase
-genuine
-raising
-paradise
-hybrid
-reads
-roles
-glory
-bigger
-billing
-diesel
-versus
-combine
-exceed
-saudi
-fault
-babies
-karen
-compiled
-romantic
-revealed
-albert
-examine
-jimmy
-graham
-bristol
-margaret
-compaq
-slowly
-rugby
-portions
-infant
-sectors
-samuel
-fluid
-grounds
-regards
-unlike
-equation
-baskets
-wright
-barry
-proven
-cached
-warren
-studied
-reviewer
-involves
-profits
-devil
-grass
-comply
-marie
-florist
-cherry
-deutsch
-kenya
-webcam
-funeral
-nutten
-earrings
-enjoyed
-chapters
-charlie
-quebec
-dennis
-francis
-sized
-manga
-noticed
-socket
-silent
-literary
-signals
-theft
-swing
-symbols
-humans
-analog
-facial
-choosing
-talent
-dated
-seeker
-wisdom
-shoot
-boundary
-packard
-offset
-payday
-philip
-elite
-holders
-believes
-swedish
-poems
-deadline
-robot
-witness
-collins
-equipped
-stages
-winds
-powder
-broadway
-acquired
-assess
-stones
-entrance
-gnome
-roots
-losing
-attempts
-gadgets
-noble
-glasgow
-impacts
-gospel
-shore
-loves
-induced
-knight
-loose
-linking
-appeals
-earned
-illness
-islamic
-pending
-parker
-lebanon
-kennedy
-teenage
-triple
-cooper
-vincent
-secured
-unusual
-answered
-slots
-disorder
-routine
-toolbar
-rocks
-titans
-wearing
-sought
-genes
-mounted
-habitat
-firewall
-median
-scanner
-herein
-animated
-judicial
-integer
-bachelor
-attitude
-engaged
-falling
-basics
-montreal
-carpet
-struct
-lenses
-binary
-genetics
-attended
-dropped
-walter
-besides
-hosts
-moments
-atlas
-strings
-feels
-torture
-deleted
-mitchell
-ralph
-warner
-embedded
-inkjet
-wizard
-corps
-actors
-liver
-liable
-brochure
-morris
-petition
-eminem
-recall
-antenna
-picked
-assumed
-belief
-killing
-bikini
-memphis
-shoulder
-decor
-lookup
-texts
-harvard
-brokers
-diameter
-ottawa
-podcast
-seasons
-refine
-bidder
-singer
-evans
-herald
-literacy
-fails
-aging
-plugin
-diving
-invite
-alice
-latinas
-suppose
-involve
-moderate
-terror
-younger
-thirty
-opposite
-rapidly
-dealtime
-intro
-mercedes
-clerk
-mills
-outline
-tramadol
-holland
-receives
-jeans
-fonts
-refers
-favor
-veterans
-sigma
-xhtml
-occasion
-victim
-demands
-sleeping
-careful
-arrive
-sunset
-tracked
-moreover
-minimal
-lottery
-framed
-aside
-licence
-michelle
-essay
-dialogue
-camps
-declared
-aaron
-handheld
-trace
-disposal
-florists
-packs
-switches
-romania
-consult
-greatly
-blogging
-cycling
-midnight
-commonly
-inform
-turkish
-pentium
-quantum
-murray
-intent
-largely
-pleasant
-announce
-spoke
-arrow
-sampling
-rough
-weird
-inspired
-holes
-weddings
-blade
-suddenly
-oxygen
-cookie
-meals
-canyon
-meters
-merely
-passes
-pointer
-stretch
-durham
-permits
-muslim
-sleeve
-netscape
-cleaner
-cricket
-feeding
-stroke
-township
-rankings
-robin
-robinson
-strap
-sharon
-crowd
-olympic
-remained
-entities
-customs
-rainbow
-roulette
-decline
-gloves
-israeli
-medicare
-skiing
-cloud
-valve
-hewlett
-explains
-proceed
-flickr
-feelings
-knife
-jamaica
-shelf
-timing
-liked
-adopt
-denied
-fotos
-britney
-freeware
-donation
-outer
-deaths
-rivers
-tales
-katrina
-islam
-nodes
-thumbs
-seeds
-cited
-targeted
-skype
-realized
-twelve
-founder
-decade
-gamecube
-dispute
-tired
-titten
-adverse
-excerpt
-steam
-drinks
-voices
-acute
-climbing
-stood
-perfume
-carol
-honest
-albany
-restore
-stack
-somebody
-curve
-creator
-amber
-museums
-coding
-tracker
-passage
-trunk
-hiking
-pierre
-jelsoft
-headset
-oakland
-colombia
-waves
-camel
-lamps
-suicide
-archived
-arabia
-juice
-chase
-logical
-sauce
-extract
-panama
-payable
-courtesy
-athens
-judges
-retired
-remarks
-detected
-decades
-walked
-arising
-nissan
-bracelet
-juvenile
-afraid
-acoustic
-railway
-cassette
-pointed
-causing
-mistake
-norton
-locked
-fusion
-mineral
-steering
-beads
-fortune
-canvas
-parish
-claimed
-screens
-cemetery
-planner
-croatia
-flows
-stadium
-fewer
-coupon
-nurses
-proxy
-lanka
-edwards
-contests
-costume
-tagged
-berkeley
-voted
-killer
-bikes
-gates
-adjusted
-bishop
-pulled
-shaped
-seasonal
-farmer
-counters
-slave
-cultures
-norfolk
-coaching
-examined
-encoding
-heroes
-painted
-lycos
-zdnet
-artwork
-cosmetic
-resulted
-portrait
-ethical
-carriers
-mobility
-floral
-builders
-struggle
-schemes
-neutral
-fisher
-spears
-bedding
-joining
-heading
-equally
-bearing
-combo
-seniors
-worlds
-guilty
-haven
-tablet
-charm
-violent
-basin
-ranch
-crossing
-cottage
-drunk
-crimes
-resolved
-mozilla
-toner
-latex
-branches
-anymore
-delhi
-holdings
-alien
-locator
-broke
-nepal
-zimbabwe
-browsing
-resolve
-melissa
-moscow
-thesis
-nylon
-discs
-rocky
-bargains
-frequent
-nigeria
-ceiling
-pixels
-ensuring
-hispanic
-anybody
-diamonds
-fleet
-untitled
-bunch
-totals
-marriott
-singing
-afford
-starring
-referral
-optimal
-distinct
-turner
-sucking
-cents
-reuters
-spoken
-omega
-stayed
-civic
-manuals
-watched
-saver
-thereof
-grill
-redeem
-rogers
-grain
-regime
-wanna
-wishes
-depend
-differ
-ranging
-monica
-repairs
-breath
-candle
-hanging
-colored
-verified
-formerly
-situated
-seeks
-herbal
-loving
-strictly
-routing
-stanley
-retailer
-vitamins
-elegant
-gains
-renewal
-opposed
-deemed
-scoring
-brooklyn
-sisters
-critics
-spots
-hacker
-madrid
-margin
-solely
-salon
-norman
-turbo
-headed
-voters
-madonna
-murphy
-thinks
-thats
-soldier
-phillips
-aimed
-justin
-interval
-mirrors
-tricks
-reset
-brush
-expansys
-panels
-repeated
-assault
-spare
-kodak
-tongue
-bowling
-danish
-monkey
-filename
-skirt
-florence
-invest
-honey
-analyzes
-drawings
-scenario
-lovers
-atomic
-approx
-arabic
-gauge
-junction
-faced
-rachel
-solving
-weekends
-produces
-chains
-kingston
-sixth
-engage
-deviant
-quoted
-adapters
-farms
-imports
-cheat
-bronze
-sandy
-suspect
-macro
-sender
-crucial
-adjacent
-tuition
-spouse
-exotic
-viewer
-signup
-threats
-puzzles
-reaching
-damaged
-receptor
-laugh
-surgical
-destroy
-citation
-pitch
-autos
-premises
-perry
-proved
-imperial
-dozen
-benjamin
-teeth
-cloth
-studying
-stamp
-lotus
-salmon
-olympus
-cargo
-salem
-starter
-upgrades
-likes
-butter
-pepper
-weapon
-luggage
-burden
-tapes
-zones
-races
-stylish
-maple
-grocery
-offshore
-depot
-kenneth
-blend
-harrison
-julie
-emission
-finest
-realty
-janet
-apparent
-phpbb
-autumn
-probe
-toilet
-ranked
-jackets
-routes
-packed
-excited
-outreach
-helen
-mounting
-recover
-lopez
-balanced
-timely
-talked
-debug
-delayed
-chuck
-explicit
-villas
-ebook
-exclude
-peeing
-brooks
-newton
-anxiety
-bingo
-whilst
-spatial
-ceramic
-prompt
-precious
-minds
-annually
-scanners
-xanax
-fingers
-sunny
-ebooks
-delivers
-necklace
-leeds
-cedar
-arranged
-theaters
-advocacy
-raleigh
-threaded
-qualify
-blair
-hopes
-mason
-diagram
-burns
-pumps
-footwear
-beijing
-peoples
-victor
-mario
-attach
-licenses
-utils
-removing
-advised
-spider
-ranges
-pairs
-trails
-hudson
-isolated
-calgary
-interim
-assisted
-divine
-approve
-chose
-compound
-abortion
-dialog
-venues
-blast
-wellness
-calcium
-newport
-indians
-shield
-harvest
-membrane
-prague
-previews
-locally
-pickup
-mothers
-nascar
-iceland
-candles
-sailing
-sacred
-morocco
-chrome
-tommy
-refused
-brake
-exterior
-greeting
-ecology
-oliver
-congo
-botswana
-delays
-olive
-cyber
-verizon
-scored
-clone
-velocity
-lambda
-relay
-composed
-tears
-oasis
-baseline
-angry
-silicon
-compete
-lover
-belong
-honolulu
-beatles
-rolls
-thomson
-barnes
-malta
-daddy
-ferry
-rabbit
-seating
-exports
-omaha
-electron
-loads
-heather
-passport
-motel
-unions
-treasury
-warrant
-solaris
-frozen
-occupied
-royalty
-scales
-rally
-observer
-sunshine
-strain
-ceremony
-somehow
-arrested
-yamaha
-hebrew
-gained
-dying
-laundry
-stuck
-solomon
-placing
-stops
-homework
-adjust
-assessed
-enabling
-filling
-imposed
-silence
-focuses
-soviet
-treaty
-vocal
-trainer
-organ
-stronger
-volumes
-advances
-lemon
-toxic
-darkness
-bizrate
-vienna
-implied
-stanford
-packing
-statute
-rejected
-satisfy
-shelter
-chapel
-gamespot
-layers
-guided
-bahamas
-powell
-mixture
-bench
-rider
-radius
-logging
-hampton
-borders
-butts
-bobby
-sheep
-railroad
-lectures
-wines
-nursery
-harder
-cheapest
-travesti
-stuart
-salvador
-salad
-monroe
-tender
-paste
-clouds
-tanzania
-preserve
-unsigned
-staying
-easter
-theories
-praise
-jeremy
-venice
-estonia
-veteran
-streams
-landing
-signing
-executed
-katie
-showcase
-integral
-relax
-namibia
-synopsis
-hardly
-prairie
-reunion
-composer
-sword
-absent
-sells
-ecuador
-hoping
-accessed
-spirits
-coral
-pixel
-float
-colin
-imported
-paths
-bubble
-acquire
-contrary
-tribune
-vessel
-acids
-focusing
-viruses
-cheaper
-admitted
-dairy
-admit
-fancy
-equality
-samoa
-stickers
-leasing
-lauren
-beliefs
-squad
-analyze
-ashley
-scroll
-relate
-wages
-suffer
-forests
-invalid
-concerts
-martial
-males
-retain
-execute
-tunnel
-genres
-cambodia
-patents
-chaos
-wheat
-beaver
-updating
-readings
-kijiji
-confused
-compiler
-eagles
-bases
-accused
-unity
-bride
-defines
-airports
-begun
-brunette
-packets
-anchor
-socks
-parade
-trigger
-gathered
-essex
-slovenia
-notified
-beaches
-folders
-dramatic
-surfaces
-terrible
-routers
-pendant
-dresses
-baptist
-hiring
-clocks
-females
-wallace
-reflects
-taxation
-fever
-cuisine
-surely
-myspace
-theorem
-stylus
-drums
-arnold
-chicks
-cattle
-radical
-rover
-treasure
-reload
-flame
-levitra
-tanks
-assuming
-monetary
-elderly
-floating
-bolivia
-spell
-hottest
-stevens
-kuwait
-emily
-alleged
-compile
-webster
-struck
-plymouth
-warnings
-bridal
-annex
-tribal
-curious
-freight
-rebate
-meetup
-eclipse
-sudan
-shuttle
-stunning
-cycles
-affects
-detect
-actively
-ampland
-fastest
-butler
-injured
-payroll
-cookbook
-courier
-uploaded
-hints
-collapse
-americas
-unlikely
-techno
-beverage
-tribute
-wired
-elvis
-immune
-latvia
-forestry
-barriers
-rarely
-infected
-martha
-genesis
-barrier
-argue
-trains
-metals
-bicycle
-letting
-arise
-celtic
-thereby
-jamie
-particle
-minerals
-advise
-humidity
-bottles
-boxing
-bangkok
-hughes
-jeffrey
-chess
-operates
-brisbane
-survive
-oscar
-menus
-reveal
-canal
-amino
-herbs
-clinics
-manitoba
-missions
-watson
-lying
-costumes
-strict
-saddam
-drill
-offense
-bryan
-protest
-hobby
-tries
-nickname
-inline
-washing
-staffing
-trick
-enquiry
-closure
-timber
-intense
-playlist
-showers
-ruling
-steady
-statutes
-myers
-drops
-wider
-plugins
-enrolled
-sensors
-screw
-publicly
-hourly
-blame
-geneva
-freebsd
-reseller
-handed
-suffered
-intake
-informal
-tucson
-heavily
-swingers
-fifty
-headers
-mistakes
-uncle
-defining
-counting
-assure
-devoted
-jacob
-sodium
-randy
-hormone
-timothy
-brick
-naval
-medieval
-bridges
-captured
-thehun
-decent
-casting
-dayton
-shortly
-cameron
-carlos
-donna
-andreas
-warrior
-diploma
-cabin
-innocent
-scanning
-valium
-copying
-cordless
-patricia
-eddie
-uganda
-fired
-trivia
-adidas
-perth
-grammar
-syria
-disagree
-klein
-harvey
-tires
-hazard
-retro
-gregory
-episodes
-boolean
-circular
-anger
-mainland
-suits
-chances
-interact
-bizarre
-glenn
-auckland
-olympics
-fruits
-ribbon
-startup
-suzuki
-trinidad
-kissing
-handy
-exempt
-crops
-reduces
-geometry
-slovakia
-guild
-gorgeous
-capitol
-dishes
-barbados
-chrysler
-nervous
-refuse
-extends
-mcdonald
-replica
-plumbing
-brussels
-tribe
-trades
-superb
-trinity
-handled
-legends
-floors
-exhaust
-shanghai
-speaks
-burton
-davidson
-copied
-scotia
-farming
-gibson
-roller
-batch
-organize
-alter
-nicole
-latino
-ghana
-edges
-mixing
-handles
-skilled
-fitted
-harmony
-asthma
-twins
-triangle
-amend
-oriental
-reward
-windsor
-zambia
-hydrogen
-webshots
-sprint
-chick
-advocate
-inputs
-genome
-escorts
-thong
-medal
-coaches
-vessels
-walks
-knives
-arrange
-artistic
-honors
-booth
-indie
-unified
-bones
-breed
-detector
-ignored
-polar
-fallen
-precise
-sussex
-msgid
-invoice
-gather
-backed
-alfred
-colonial
-carey
-motels
-forming
-embassy
-danny
-rebecca
-slight
-proceeds
-indirect
-amongst
-msgstr
-arrest
-adipex
-horizon
-deeply
-toolbox
-marina
-prizes
-bosnia
-browsers
-patio
-surfing
-lloyd
-optics
-pursue
-overcome
-attract
-brighton
-beans
-ellis
-disable
-snake
-succeed
-leonard
-lending
-reminder
-searched
-plains
-raymond
-insights
-sullivan
-midwest
-karaoke
-lonely
-hereby
-observe
-julia
-berry
-collar
-racial
-bermuda
-amanda
-mobiles
-kelkoo
-exhibits
-terrace
-bacteria
-replied
-seafood
-novels
-ought
-safely
-finite
-kidney
-fixes
-sends
-durable
-mazda
-allied
-throws
-moisture
-roster
-symantec
-spencer
-wichita
-nasdaq
-uruguay
-timer
-tablets
-tuning
-gotten
-tyler
-futures
-verse
-highs
-wanting
-custody
-scratch
-launches
-ellen
-rocket
-bullet
-towers
-racks
-nasty
-latitude
-tumor
-deposits
-beverly
-mistress
-trustees
-watts
-duncan
-reprints
-bernard
-forty
-tubes
-midlands
-priest
-floyd
-ronald
-analysts
-queue
-trance
-locale
-nicholas
-bundle
-hammer
-invasion
-runner
-notion
-skins
-mailed
-fujitsu
-spelling
-arctic
-exams
-rewards
-beneath
-defend
-medicaid
-infrared
-seventh
-welsh
-belly
-quarters
-stolen
-soonest
-haiti
-naturals
-lenders
-fitting
-fixtures
-bloggers
-agrees
-surplus
-elder
-sonic
-cheers
-belarus
-zoning
-gravity
-thumb
-guitars
-essence
-flooring
-ethiopia
-mighty
-athletes
-humanity
-holmes
-scholars
-galaxy
-chester
-snapshot
-caring
-segments
-dominant
-twist
-itunes
-stomach
-buried
-newbie
-minimize
-darwin
-ranks
-debut
-bradley
-anatomy
-fraction
-defects
-milton
-marker
-clarity
-sandra
-adelaide
-monaco
-settled
-folding
-emirates
-airfare
-vaccine
-belize
-promised
-volvo
-penny
-robust
-bookings
-minolta
-porter
-jungle
-ivory
-alpine
-andale
-fabulous
-remix
-alias
-newer
-spice
-implies
-cooler
-maritime
-periodic
-overhead
-ascii
-prospect
-shipment
-breeding
-donor
-tension
-trash
-shapes
-manor
-envelope
-diane
-homeland
-excluded
-andrea
-breeds
-rapids
-disco
-bailey
-endif
-emotions
-incoming
-lexmark
-cleaners
-eternal
-cashiers
-rotation
-eugene
-metric
-minus
-bennett
-hotmail
-joshua
-armenia
-varied
-grande
-closest
-actress
-assign
-tigers
-aurora
-slides
-milan
-premiere
-lender
-villages
-shade
-chorus
-rhythm
-digit
-argued
-dietary
-symphony
-clarke
-sudden
-marilyn
-lions
-findlaw
-pools
-lyric
-claire
-speeds
-matched
-carroll
-rational
-fighters
-chambers
-warming
-vocals
-fountain
-chubby
-grave
-burner
-finnish
-gentle
-deeper
-muslims
-footage
-howto
-worthy
-reveals
-saints
-carries
-devon
-helena
-saves
-regarded
-marion
-lobby
-egyptian
-tunisia
-outlined
-headline
-treating
-punch
-gotta
-cowboy
-bahrain
-enormous
-karma
-consist
-betty
-queens
-lucas
-tribes
-defeat
-clicks
-honduras
-naughty
-hazards
-insured
-harper
-mardi
-tenant
-cabinets
-tattoo
-shake
-algebra
-shadows
-holly
-silly
-mercy
-hartford
-freely
-marcus
-sunrise
-wrapping
-weblogs
-timeline
-belongs
-readily
-fence
-nudist
-infinite
-diana
-ensures
-lindsay
-legally
-shame
-civilian
-fatal
-remedy
-realtors
-briefly
-genius
-fighter
-flesh
-retreat
-adapted
-barely
-wherever
-estates
-democrat
-borough
-failing
-retained
-pamela
-andrews
-marble
-jesse
-logitech
-surrey
-briefing
-belkin
-highland
-modular
-brandon
-giants
-balloon
-winston
-solved
-hawaiian
-gratuit
-consoles
-qatar
-magnet
-porsche
-cayman
-jaguar
-sheer
-posing
-hopkins
-urgent
-infants
-gothic
-cylinder
-witch
-cohen
-puppy
-kathy
-graphs
-surround
-revenge
-expires
-enemies
-finances
-accepts
-enjoying
-patrol
-smell
-italiano
-carnival
-roughly
-sticker
-promises
-divide
-cornell
-satin
-deserve
-mailto
-promo
-worried
-tunes
-garbage
-combines
-bradford
-phrases
-chelsea
-boring
-reynolds
-speeches
-reaches
-schema
-catalogs
-quizzes
-prefix
-lucia
-savannah
-barrel
-typing
-nerve
-planets
-deficit
-boulder
-pointing
-renew
-coupled
-myanmar
-metadata
-harold
-circuits
-floppy
-texture
-handbags
-somerset
-incurred
-antigua
-thunder
-caution
-locks
-namely
-euros
-pirates
-aerial
-rebel
-origins
-hired
-makeup
-textile
-nathan
-tobago
-indexes
-hindu
-licking
-markers
-weights
-albania
-lasting
-wicked
-kills
-roommate
-webcams
-pushed
-slope
-reggae
-failures
-surname
-theology
-nails
-evident
-whats
-rides
-rehab
-saturn
-allergy
-twisted
-merit
-enzyme
-zshops
-planes
-edmonton
-tackle
-disks
-condo
-pokemon
-ambien
-retrieve
-vernon
-worldcat
-titanium
-fairy
-builds
-shaft
-leslie
-casio
-deutsche
-postings
-kitty
-drain
-monte
-fires
-algeria
-blessed
-cardiff
-cornwall
-favors
-potato
-panic
-sticks
-leone
-excuse
-reforms
-basement
-onion
-strand
-sandwich
-lawsuit
-cheque
-banners
-reject
-circles
-italic
-beats
-merry
-scuba
-passive
-valued
-courage
-verde
-gazette
-hitachi
-batman
-hearings
-coleman
-anaheim
-textbook
-dried
-luther
-frontier
-settle
-stopping
-refugees
-knights
-palmer
-derby
-peaceful
-altered
-pontiac
-doctrine
-scenic
-trainers
-sewing
-conclude
-munich
-celebs
-propose
-lighter
-advisors
-pavilion
-tactics
-trusts
-talented
-annie
-pillow
-derek
-shorter
-harley
-relying
-finals
-paraguay
-steal
-parcel
-refined
-fifteen
-fears
-predict
-boutique
-acrylic
-rolled
-tuner
-peterson
-shannon
-toddler
-flavor
-alike
-homeless
-horrible
-hungry
-metallic
-blocked
-warriors
-cadillac
-malawi
-sagem
-curtis
-parental
-strikes
-lesser
-marathon
-pressing
-gasoline
-dressed
-scout
-belfast
-dealt
-niagara
-warcraft
-charms
-catalyst
-trader
-bucks
-denial
-thrown
-prepaid
-raises
-electro
-badge
-wrist
-analyzed
-heath
-ballot
-lexus
-varying
-remedies
-validity
-trustee
-weighted
-angola
-performs
-plastics
-realm
-jenny
-helmet
-salaries
-postcard
-elephant
-yemen
-tsunami
-scholar
-nickel
-buses
-expedia
-geology
-coating
-wallet
-cleared
-smilies
-boating
-drainage
-shakira
-corners
-broader
-rouge
-yeast
-clearing
-coated
-intend
-louise
-kenny
-routines
-hitting
-yukon
-beings
-aquatic
-reliance
-habits
-striking
-podcasts
-singh
-gilbert
-ferrari
-brook
-outputs
-ensemble
-insulin
-assured
-biblical
-accent
-mysimon
-eleven
-wives
-ambient
-utilize
-mileage
-prostate
-adaptor
-auburn
-unlock
-hyundai
-pledge
-vampire
-angela
-relates
-nitrogen
-xerox
-merger
-softball
-firewire
-nextel
-framing
-musician
-blocking
-rwanda
-sorts
-vsnet
-limiting
-dispatch
-papua
-restored
-armor
-riders
-chargers
-remark
-dozens
-varies
-rendered
-picking
-guards
-openings
-councils
-kruger
-pockets
-granny
-viral
-inquire
-pipes
-laden
-aruba
-cottages
-realtor
-merge
-edgar
-develops
-chassis
-dubai
-pushing
-fleece
-pierce
-allan
-dressing
-sperm
-filme
-craps
-frost
-sally
-yacht
-tracy
-prefers
-drilling
-breach
-whale
-tomatoes
-bedford
-mustang
-clusters
-antibody
-momentum
-wiring
-pastor
-calvin
-shark
-phases
-grateful
-emerald
-laughing
-grows
-cliff
-tract
-ballet
-abraham
-bumper
-webpage
-garlic
-hostels
-shine
-senegal
-banned
-wendy
-briefs
-diffs
-mumbai
-ozone
-radios
-tariff
-nvidia
-opponent
-pasta
-muscles
-serum
-wrapped
-swift
-runtime
-inbox
-focal
-distant
-decimal
-propecia
-samba
-hostel
-employ
-mongolia
-penguin
-magical
-miracle
-manually
-reprint
-centered
-yearly
-wound
-belle
-writings
-hamburg
-cindy
-fathers
-charging
-marvel
-lined
-petite
-terrain
-strips
-gossip
-rangers
-rotary
-discrete
-beginner
-boxed
-cubic
-sapphire
-kinase
-skirts
-crawford
-labeled
-marking
-serbia
-sheriff
-griffin
-declined
-guyana
-spies
-neighbor
-elect
-highways
-thinkpad
-intimate
-preston
-deadly
-bunny
-chevy
-rounds
-longest
-tions
-dentists
-flyer
-dosage
-variance
-cameroon
-baking
-adaptive
-computed
-needle
-baths
-brakes
-nirvana
-invision
-sticky
-destiny
-generous
-madness
-emacs
-climb
-blowing
-heated
-jackie
-sparc
-cardiac
-dover
-adrian
-vatican
-brutal
-learners
-token
-seekers
-yields
-suited
-numeric
-skating
-kinda
-aberdeen
-emperor
-dylan
-belts
-blacks
-educated
-rebates
-burke
-proudly
-inserted
-pulling
-basename
-obesity
-curves
-suburban
-touring
-clara
-vertex
-tomato
-andorra
-expired
-travels
-flush
-waiver
-hayes
-delight
-survivor
-garcia
-cingular
-moses
-counted
-declare
-johns
-valves
-impaired
-donors
-jewel
-teddy
-teaches
-ventures
-bufing
-stranger
-tragedy
-julian
-dryer
-painful
-velvet
-tribunal
-ruled
-pensions
-prayers
-funky
-nowhere
-joins
-wesley
-lately
-scary
-mattress
-mpegs
-brunei
-likewise
-banana
-slovak
-cakes
-mixer
-remind
-sbjct
-charming
-tooth
-annoying
-stays
-disclose
-affair
-drove
-washer
-upset
-restrict
-springer
-beside
-mines
-rebound
-logan
-mentor
-fought
-baghdad
-metres
-pencil
-freeze
-titled
-sphere
-ratios
-concord
-endorsed
-walnut
-lance
-ladder
-italia
-liberia
-sherman
-maximize
-hansen
-senators
-workout
-bleeding
-colon
-lanes
-purse
-optimize
-stating
-caroline
-align
-bless
-engaging
-crest
-triumph
-welding
-deferred
-alloy
-condos
-plots
-polished
-gently
-tulsa
-locking
-casey
-draws
-fridge
-blanket
-bloom
-simpsons
-elliott
-fraser
-justify
-blades
-loops
-surge
-trauma
-tahoe
-advert
-possess
-flashers
-subaru
-vanilla
-picnic
-souls
-arrivals
-spank
-hollow
-vault
-securely
-fioricet
-groove
-pursuit
-wires
-mails
-backing
-sleeps
-blake
-travis
-endless
-figured
-orbit
-niger
-bacon
-heater
-colony
-cannon
-circus
-promoted
-forbes
-moldova
-paxil
-spine
-trout
-enclosed
-cooked
-thriller
-transmit
-apnic
-fatty
-gerald
-pressed
-scanned
-hunger
-mariah
-joyce
-surgeon
-cement
-planners
-disputes
-textiles
-missile
-intranet
-closes
-deborah
-marco
-assists
-gabriel
-auditor
-aquarium
-violin
-prophet
-bracket
-isaac
-oxide
-naples
-promptly
-modems
-harmful
-prozac
-sexually
-dividend
-newark
-glucose
-phantom
-playback
-turtle
-warned
-neural
-fossil
-hometown
-badly
-apollo
-persian
-handmade
-greene
-robots
-grenada
-scoop
-earning
-mailman
-sanyo
-nested
-somalia
-movers
-verbal
-blink
-carlo
-workflow
-novelty
-bryant
-tiles
-voyuer
-switched
-tamil
-garmin
-fuzzy
-grams
-richards
-budgets
-toolkit
-render
-carmen
-hardwood
-erotica
-temporal
-forge
-dense
-brave
-awful
-airplane
-istanbul
-impose
-viewers
-asbestos
-meyer
-enters
-savage
-willow
-resumes
-throwing
-existed
-wagon
-barbie
-knock
-potatoes
-thorough
-peers
-roland
-optimum
-quilt
-creature
-mounts
-syracuse
-refresh
-webcast
-michel
-subtle
-notre
-maldives
-stripes
-firmware
-shepherd
-canberra
-cradle
-mambo
-flour
-sympathy
-choir
-avoiding
-blond
-expects
-jumping
-fabrics
-polymer
-hygiene
-poultry
-virtue
-burst
-surgeons
-bouquet
-promotes
-mandate
-wiley
-corpus
-johnston
-fibre
-shades
-indices
-adware
-zoloft
-prisoner
-daisy
-halifax
-ultram
-cursor
-earliest
-donated
-stuffed
-insects
-crude
-morrison
-maiden
-examines
-viking
-myrtle
-bored
-cleanup
-bother
-budapest
-knitting
-attacked
-bhutan
-mating
-compute
-redhead
-arrives
-tractor
-allah
-unwrap
-fares
-resist
-hoped
-safer
-wagner
-touched
-cologne
-wishing
-ranger
-smallest
-newman
-marsh
-ricky
-scared
-theta
-monsters
-asylum
-lightbox
-robbie
-stake
-cocktail
-outlets
-arbor
-poison
+O, F,
+In, 
+I, S, 
+O, N, 
+Th, At, 
+B, Y, 
+Th, I, S, 
+W, I, Th, 
+Y, O, U, 
+Be, 
+At, 
+As, 
+Ne, W, 
+Mo, Re, 
+W, As, 
+Ca, N, 
+U, S, 
+I, F, 
+Pa, Ge, 
+H, As, 
+Se, Ar, C, H, 
+O, Ne, 
+O, Th, Er, 
+No, 
+Si, Te, 
+He, 
+U, P, 
+W, H, At, 
+W, H, I, C, H, 
+Ne, W, S, 
+U, Se, 
+S, O, 
+H, I, S, 
+W, He, N, 
+He, Re, 
+B, U, S, In, Es, S, 
+W, Ho, 
+Al, S, O, 
+No, W, 
+Pm, 
+O, N, Li, Ne, 
+Am, 
+Ho, W, 
+S, Er, V, I, C, Es, 
+C, Li, C, K, 
+I, Ts, 
+S, Er, V, I, Ce, 
+F, I, Nd, 
+Pr, I, Ce, 
+B, Ac, K, 
+O, V, Er, 
+S, Ta, Te, 
+He, Al, Th, 
+Re, 
+B, U, Y, 
+H, Er, 
+Po, Li, C, Y, 
+S, U, C, H, 
+W, He, Re, 
+In, F, O, 
+Pu, B, Li, C, 
+B, O, O, K, S, 
+Li, N, K, S, 
+S, He, 
+V, Er, Y, 
+Pr, I, V, Ac, Y, 
+B, O, O, K, 
+U, S, Er, 
+U, Nd, Er, 
+Ge, N, Er, Al, 
+Re, Se, Ar, C, H, 
+Li, Fe, 
+K, No, W, 
+Re, Al, 
+In, Te, Rn, At, I, O, N, Al, 
+O, F, F, 
+Li, Ne, 
+Be, F, O, Re, 
+Se, Nd, 
+Be, C, Au, Se, 
+Th, O, Se, 
+O, F, F, I, Ce, 
+Na, Ti, O, N, Al, 
+C, Ar, 
+W, I, Th, In, 
+S, Ta, Te, S, 
+P, Ho, Ne, 
+S, Ho, W, 
+B, La, C, K, 
+C, He, C, K, 
+Pr, I, C, Es, 
+Li, N, K, 
+S, O, U, Th, 
+Ca, Se, 
+P, Ag, Es, 
+U, K, 
+V, Er, Si, O, N, 
+Se, C, Ti, O, N, 
+O, W, N, 
+F, O, U, Nd, 
+Ho, U, Se, 
+B, O, Th, 
+Am, Er, I, Ca, N, 
+Po, W, Er, 
+Ca, Re, 
+P, La, Ce, 
+P, Er, 
+Ac, C, Es, S, 
+Th, In, K, 
+P, Os, Ts, 
+La, W, 
+W, At, Er, 
+P, Er, S, O, N, Al, 
+S, In, Ce, 
+S, Ho, P, 
+W, H, I, Te, 
+Ra, Te, 
+Si, Te, S, 
+P, Re, V, I, O, U, S, 
+No, N, 
+In, S, U, Ra, N, Ce, 
+W, H, Y, 
+Cl, As, S, 
+Cd, 
+Mo, Ne, Y, 
+Mo, V, I, Es, 
+Pr, Es, S, 
+Ar, O, U, Nd, 
+Pr, O, C, Es, S, 
+S, Al, Es, 
+Te, Am, 
+Es, Ta, Te, 
+Co, Nd, I, Ti, O, N, S, 
+W, I, Nd, O, W, S, 
+Ga, Y, 
+No, Te, 
+Li, Br, Ar, Y, 
+Ac, Ti, O, N, 
+S, Er, I, Es, 
+Fe, At, U, Re, S, 
+P, La, N, 
+Y, Es, 
+Se, Co, Nd, 
+La, 
+S, Er, V, Er, 
+P, C, 
+S, Ta, F, F, 
+Ar, Ti, Cl, Es, 
+P, La, Y, 
+I, S, S, U, Es, 
+Ne, V, Er, 
+U, S, Er, S, 
+F, I, Na, N, C, I, Al, 
+P, Er, S, O, N, 
+O, F, F, Er, S, 
+P, Ar, K, 
+S, O, C, I, Al, 
+O, P, Ti, O, N, S, 
+Ra, Te, S, 
+B, O, Dy, 
+Am, Er, I, Ca, 
+Fe, W, 
+Pa, P, Er, 
+I, I, 
+Ac, Ti, V, I, Ti, Es, 
+C, Lu, B, 
+Ca, 
+Pa, Y, 
+Po, K, Er, 
+Br, O, W, Se, 
+Ra, N, Ge, 
+Fe, B, Ru, Ar, Y, 
+W, Ar, 
+No, V, 
+O, F, F, Er, 
+Al, 
+C, H, I, Na, 
+Pr, O, F, Es, Si, O, N, Al, 
+Mo, N, Th, 
+S, Pa, Ce, 
+S, U, N, 
+C, Ar, Ds, 
+Po, Rn, 
+Re, Fe, Re, N, Ce, 
+Ba, B, Y, 
+Ru, N, 
+Co, 
+No, Ti, Ce, 
+O, N, Ce, 
+O, Th, Er, S, 
+Mo, N, Th, S, 
+S, U, Re, 
+C, Ar, S, 
+As, S, O, C, I, At, I, O, N, 
+F, U, N, 
+Cl, O, Se, 
+Se, V, Er, Al, 
+Fe, B, 
+Se, P, 
+Ar, Ts, 
+As, K, 
+S, O, Lu, Ti, O, N, S, 
+Be, Ac, H, 
+W, He, Th, Er, 
+U, Po, N, 
+O, F, F, I, C, I, Al, 
+La, Nd, 
+Te, C, H, Ni, C, Al, 
+W, I, Nd, O, W, 
+F, Ra, N, Ce, 
+Pr, O, 
+I, S, La, Nd, 
+Co, N, Fe, Re, N, Ce, 
+C, Os, Ts, 
+P, Ar, Ts, 
+S, O, U, Nd, 
+Ag, O, 
+F, In, Al, 
+K, I, Ds, 
+F, I, Na, N, Ce, 
+Ti, P, S, 
+P, Lu, S, 
+Co, V, Er, 
+F, U, N, C, Ti, O, N, 
+Te, C, H, 
+F, Ar, 
+P, La, Y, Er, 
+O, F, Te, N, 
+S, U, B, S, Cr, I, Be, 
+W, At, C, H, 
+Ba, N, K, 
+V, Ar, I, O, U, S, 
+C, Ho, O, Se, 
+Ar, C, H, I, V, Es, 
+Po, In, Ts, 
+Pr, O, Te, C, Ti, O, N, 
+Po, Li, C, I, Es, 
+Po, Si, Ti, O, N, 
+K, No, W, N, 
+H, Al, F, 
+C, As, Es, 
+S, Te, P, 
+No, Ne, 
+Li, Ce, N, Se, 
+Ba, Si, C, 
+S, O, N, Y, 
+S, Ho, W, S, 
+Re, S, Po, N, Se, 
+Pr, Ac, Ti, Ce, 
+F, I, Re, 
+C, H, At, 
+B, Ra, Nd, 
+S, Ta, Nd, Ar, Ds, 
+Po, Li, Ti, C, Al, 
+Ba, Se, 
+Ne, Ar, 
+F, Re, N, C, H, 
+O, H, 
+S, Ho, Es, 
+S, Ta, Y, 
+N, At, U, Re, 
+No, Te, S, 
+Co, P, Y, 
+P, I, Cs, 
+W, Es, Te, Rn, 
+C, As, H, 
+Ba, Y, 
+Co, N, Te, N, Ts, 
+P, La, Y, Er, S, 
+S, U, P, P, Li, Es, 
+B, Ar, 
+P, La, N, S, 
+S, O, O, N, 
+Li, N, Es, 
+Be, Ne, F, I, Ts, 
+Se, As, O, N, 
+N, Y, 
+Co, Nd, I, Ti, O, N, 
+Ca, Si, No, 
+Pd, F, 
+Cr, Os, S, 
+Si, Lv, Er, 
+W, I, S, H, 
+S, O, Lu, Ti, O, N, 
+Ra, Th, Er, 
+C, Er, Ta, In, 
+U, Sr, 
+Ne, C, Es, S, Ar, Y, 
+U, Ni, O, N, 
+Mo, N, 
+F, I, Ne, 
+N, Am, Es, 
+Ga, S, 
+B, U, S, H, 
+I, S, La, N, Ds, 
+Ca, Re, Er, 
+Br, I, Ti, S, H, 
+P, Re, 
+H, U, Ge, 
+S, At, 
+F, Ac, I, Li, Ti, Es, 
+K, I, Nd, 
+V, Al, U, Es, 
+Ni, Ce, 
+S, Co, Re, 
+S, Ta, Ti, S, Ti, Cs, 
+O, K, 
+S, Ho, W, N, 
+Ba, Nd, 
+Fl, As, H, 
+C, Ho, I, Ce, 
+Fr, I, 
+H, I, 
+P, Ho, N, Es, 
+F, U, Nd, 
+S, U, P, Er, 
+In, N, 
+C, Au, Se, 
+Po, Te, N, Ti, Al, 
+H, P, 
+F, O, Cu, S, 
+La, Te, 
+In, C, 
+W, In, 
+Ca, N, C, Er, 
+Re, As, O, N, 
+Br, O, W, S, Er, 
+F, O, U, Nd, At, I, O, N, 
+V, O, I, Ce, 
+Fe, At, U, Re, 
+Po, Li, Ce, 
+I, P, 
+C, Am, Er, As, 
+Br, O, W, N, 
+P, H, Y, Si, C, Al, 
+C, H, I, C, Ag, O, 
+Sm, I, Th, 
+Po, Pu, La, Ti, O, N, 
+Pa, 
+Se, Cu, Re, 
+Na, V, I, Ga, Ti, O, N, 
+O, P, Er, At, I, O, N, S, 
+As, S, 
+S, Ta, Ti, O, N, 
+Pa, Y, P, Al, 
+U, Nd, Er, S, Ta, Nd, 
+O, P, Ti, O, N, 
+Re, Ce, N, Tl, Y, 
+Th, U, 
+Pu, B, Li, Ca, Ti, O, N, S, 
+Co, N, Ne, C, Ti, O, N, 
+Pu, B, Li, S, H, Er, 
+La, Rg, Er, 
+Pa, Re, N, Ts, 
+K, I, Tc, He, N, 
+C, Ar, O, Li, Na, 
+Pr, O, P, Er, Ti, Es, 
+S, H, I, P, 
+O, W, N, Er, S, 
+Cl, As, Si, C, 
+Ba, Si, S, 
+C, I, Ti, Es, 
+Th, U, S, 
+Pu, S, S, Y, 
+S, U, C, C, Es, S, 
+O, P, Er, At, I, O, N, 
+B, O, Y, 
+Re, S, Ta, U, Ra, N, Ts, 
+W, I, Ne, 
+V, O, Te, 
+Fl, O, W, Er, S, 
+Li, S, Ts, 
+O, W, N, Er, 
+S, O, N, 
+Ta, K, Es, 
+I, I, I, 
+C, At, Al, Og, 
+Se, Ar, C, H, Es, 
+Mo, Th, Er, 
+B, In, 
+I, Re, La, Nd, 
+C, H, Ar, Ge, 
+U, Ni, Ts, 
+S, H, I, P, S, 
+Md, 
+Fl, 
+C, H, I, Ne, Se, 
+O, P, I, Ni, O, N, 
+U, S, Es, 
+F, U, N, Ds, 
+Ar, Ti, S, Ts, 
+Re, S, O, Lu, Ti, O, N, 
+Pu, B, Li, Ca, Ti, O, N, 
+P, As, S, 
+Re, La, Ti, O, N, S, 
+Co, N, Ta, In, S, 
+S, Es, Si, O, N, 
+Re, Pu, B, Li, C, 
+Fe, Es, 
+V, Ac, At, I, O, N, 
+As, Si, S, Ta, N, Ce, 
+S, K, In, 
+P, Re, V, 
+P, Ac, I, F, I, C, 
+Mo, U, N, Ta, In, 
+Po, P, 
+Be, H, I, Nd, 
+B, O, Y, S, 
+O, Th, Er, W, I, Se, 
+Pr, O, Te, In, 
+Po, Li, Ti, Cs, 
+B, O, Ar, Ds, 
+P, Ar, Ti, Es, 
+F, I, S, H, 
+Se, N, Se, 
+P, Ac, K, 
+S, Ta, Ge, 
+In, Te, Rn, Al, 
+B, O, Rn, 
+Ra, Ce, 
+U, Sb, 
+F, U, N, C, Ti, O, N, S, 
+B, Ra, N, Ds, 
+P, La, C, Es, 
+P, H, P, 
+S, Pa, In, 
+S, O, U, Th, Er, N, 
+Y, O, U, Th, 
+Pr, Es, S, U, Re, 
+Co, Re, 
+Se, Ts, 
+Pa, P, Er, S, 
+La, S, 
+Re, Mo, Te, 
+V, I, S, U, Al, 
+Te, Ac, H, Er, S, 
+I, Sb, N, 
+Re, Pa, Ir, 
+As, S, O, C, I, At, Es, 
+U, Pd, At, Es, 
+Cl, As, S, Es, 
+P, Ar, I, S, 
+O, H, I, O, 
+Ge, Ts, 
+U, N, 
+F, At, 
+F, At, H, Er, 
+O, F, F, I, C, Er, 
+B, U, S, In, Es, S, Es, 
+U, N, K, No, W, N, 
+Te, Ac, H, Er, 
+Re, La, Ti, O, N, S, H, I, P, 
+C, Am, Pu, S, 
+Pr, Og, Re, S, S, 
+S, U, B, 
+F, I, C, Ti, O, N, 
+He, Ar, 
+W, At, C, H, Es, 
+Ca, Re, Er, S, 
+Be, Y, O, Nd, 
+F, Am, I, Li, Es, 
+W, I, Fe, 
+Te, N, 
+H, I, Ts, 
+Th, 
+C, At, 
+Re, Fe, Re, N, C, Es, 
+Fl, At, 
+Fl, O, W, 
+S, Pa, Ni, S, H, 
+S, Ta, Nd, 
+Cr, I, Ti, C, Al, 
+Pa, Th, 
+K, B, 
+P, Ac, K, Ag, Es, 
+F, Ra, N, C, I, S, Co, 
+La, W, S, 
+S, W, I, Tc, H, 
+Ti, Tl, Es, 
+Cu, P, 
+P, P, 
+S, U, I, Te, 
+Na, 
+At, Te, N, Ti, O, N, 
+S, K, I, P, 
+Au, C, Ti, O, N, 
+Ge, Ar, 
+Os, 
+Na, Ti, O, N, 
+C, Er, Ti, F, I, Ca, Te, 
+Mo, Ti, O, N, 
+F, As, H, I, O, N, 
+W, Ho, Se, 
+V, I, Si, O, N, 
+Ac, Ti, O, N, S, 
+Li, S, Te, N, 
+Ac, Ce, Pt, 
+W, I, Nd, 
+C, Li, Ni, C, Al, 
+Li, V, Es, 
+B, O, B, 
+P, Er, S, O, N, S, 
+Te, S, Ts, 
+Ac, Co, U, N, Ts, 
+Pa, In, 
+W, W, W, 
+B, U, Y, Er, 
+F, U, N, C, Ti, O, N, Al, 
+Au, 
+F, I, 
+I, Ce, 
+P, In, K, 
+Ba, La, N, Ce, 
+Re, P, Li, Es, 
+N, C, 
+I, Ni, Ti, Al, 
+Se, C, 
+Ca, No, N, 
+W, As, Te, 
+B, U, S, 
+O, P, Ti, O, N, Al, 
+Se, C, Ti, O, N, S, 
+B, Ag, 
+Po, 
+Sc, 
+S, U, Rg, Er, Y, 
+Pa, Tc, H, 
+He, At, 
+Ge, Ne, Ra, Ti, O, N, 
+Ta, S, K, 
+Se, 
+Pr, O, C, Es, S, Es, 
+S, Er, V, Er, S, 
+Al, O, Ne, 
+Se, Co, N, Ds, 
+In, Te, Re, S, Ts, 
+W, Al, K, 
+F, U, C, K, 
+Pa, P, Er, B, Ac, K, 
+Fr, Es, H, 
+P, I, C, K, 
+Au, C, Ti, O, N, S, 
+U, P, P, Er, 
+S, Er, I, O, U, S, 
+Be, Ga, N, 
+S, Te, P, S, 
+S, Ho, P, S, 
+Ga, 
+Ac, 
+Pr, Ac, Ti, C, Es, 
+Es, Se, N, Ti, Al, 
+Re, Co, V, Er, Y, 
+Co, C, K, 
+U, Ni, V, Er, S, Al, 
+C, Ds, 
+P, Re, Se, N, Ta, Ti, O, N, 
+O, Ra, N, Ge, 
+V, S, 
+Ar, 
+Po, Rn, O, 
+Ac, Ce, P, Ta, N, Ce, 
+Mo, 
+H, I, Re, 
+B, Ra, N, C, H, 
+C, H, Ar, Ge, S, 
+Re, As, O, N, S, 
+O, N, Es, 
+La, Ti, N, 
+Ti, Ts, 
+Co, Rn, Er, 
+Ra, N, K, 
+B, Ir, Th, 
+V, I, Ru, S, 
+Se, Pa, Ra, Te, 
+F, Ac, Ts, 
+Co, Lu, Mn, 
+P, La, N, Ts, 
+Re, Ac, H, 
+In, C, H, 
+At, Ta, C, K, 
+La, B, 
+Re, C, I, P, Es, 
+C, V, S, 
+P, La, S, Ti, C, 
+S, No, W, 
+Eu, 
+C, Am, P, 
+Co, N, Ta, C, Ts, 
+C, C, 
+C, Lu, B, S, 
+S, H, Ir, Ts, 
+K, In, Ds, 
+Te, Am, S, 
+Cm, 
+W, I, 
+Se, Na, Te, 
+F, U, N, N, Y, 
+Br, O, Th, Er, 
+Ge, Ne, 
+P, At, Te, Rn, 
+He, N, Ta, I, 
+B, O, At, 
+La, S, Er, 
+Cl, As, Si, C, Al, 
+I, Co, N, 
+Ta, Xe, S, 
+Mo, U, Se, 
+B, Ra, In, 
+W, I, S, Co, N, S, In, 
+F, Al, Se, 
+Fl, O, W, Er, 
+P, I, C, 
+O, P, I, Ni, O, N, S, 
+Pr, O, Mo, Te, 
+S, Ta, Ts, 
+Pr, O, F, Es, Si, O, N, Al, S, 
+Fl, Ag, 
+Co, V, Er, S, 
+C, Li, P, S, 
+I, V, 
+Ir, O, N, 
+S, Cr, I, Pt, 
+At, La, N, Ta, 
+V, Hs, 
+V, I, Ce, 
+Ne, 
+Ra, Y, 
+V, O, Te, S, 
+Be, Ar, 
+Ga, In, 
+F, Es, Ti, V, Al, 
+La, C, K, 
+La, Pt, O, P, 
+V, In, Ta, Ge, 
+S, Pa, 
+Co, N, Ce, Pt, 
+K, Ne, W, 
+Co, N, 
+U, P, S, 
+Na, Ti, O, N, S, 
+F, Ra, N, K, 
+C, Li, P, 
+Es, 
+Pr, O, V, I, Si, O, N, S, 
+W, I, Re, 
+S, O, U, N, Ds, 
+S, P, Am, 
+B, Y, Te, S, 
+Ne, Th, Er, La, N, Ds, 
+O, B, Ta, In, 
+B, C, 
+Re, C, Re, At, I, O, N, 
+O, F, F, I, C, Es, 
+Pr, 
+Ba, N, K, S, 
+Fr, 
+P, Ar, Ti, C, I, Pa, N, Ts, 
+Ba, Th, 
+Au, S, Ti, N, 
+V, Ar, 
+He, Al, Th, Y, 
+As, Se, Ts, 
+Mt, 
+La, W, Y, Er, 
+Pr, O, P, Os, Al, 
+Be, Ta, 
+O, F, F, I, C, I, Al, S, 
+W, O, N, 
+B, Ag, S, 
+Ho, U, S, Es, 
+Re, La, Ti, O, N, S, H, I, P, S, 
+W, Al, Es, 
+F, I, Ni, S, H, 
+P, H, Y, Si, Cs, 
+Ra, Re, 
+B, Ar, S, 
+Am, O, U, N, Ts, 
+Co, N, Ta, In, 
+Ac, Cu, Ra, C, Y, 
+Mg, 
+C, Re, At, I, O, N, 
+S, Ta, Ti, C, 
+S, Ce, Ne, 
+La, Dy, 
+F, Am, O, U, S, 
+Dy, N, Am, I, C, 
+Ge, Nd, Er, 
+Pr, Ac, Ti, C, Al, 
+Se, At, 
+Co, N, Ce, Rn, S, 
+U, Ti, Li, Ti, Es, 
+O, F, F, I, C, Er, S, 
+Bi, Ds, 
+Ti, P, 
+Se, Co, Nd, Ar, Y, 
+S, K, I, 
+S, O, C, C, Er, 
+P, Re, Se, N, Ce, 
+He, Al, Th, Ca, Re, 
+C, H, 
+Mo, O, N, 
+P, Ar, Ti, C, I, Pa, Ti, O, N, 
+Fl, Y, 
+Li, Br, Ar, I, Es, 
+Pr, O, P, Er, 
+S, In, Ga, Po, Re, 
+Fe, Ar, 
+In, C, H, Es, 
+S, H, Ar, Es, 
+Pr, In, C, I, P, Al, 
+W, Ar, S, 
+C, I, S, Co, 
+C, Ru, I, Se, 
+B, O, N, U, S, 
+C, Er, Ti, F, I, Ca, Ti, O, N, 
+He, Y, 
+Be, At, 
+B, B, C, 
+Po, Si, Ti, O, N, S, 
+S, U, B, S, Cr, I, P, Ti, O, N, 
+S, K, Y, 
+U, Ta, H, 
+Ne, Ar, B, Y, 
+Pa, N, As, O, Ni, C, 
+Re, F, Er, 
+Pr, O, V, I, Si, O, N, 
+Cl, O, Th, Es, 
+Ba, B, Es, 
+Fr, Am, Es, 
+V, I, Ag, Ra, 
+Ne, W, S, Pa, P, Er, 
+La, Y, Er, 
+Re, Mo, V, Al, 
+Sr, C, 
+H, I, P, 
+Ni, Ne, 
+Mo, S, Tl, Y, 
+Er, I, C, 
+Pr, In, Ts, 
+Am, Er, I, Ca, N, S, 
+O, P, Ti, C, Al, 
+Pr, O, Mo, Ti, O, N, 
+Cl, O, C, K, 
+H, I, V, 
+S, U, I, Te, S, 
+Co, N, V, Er, Si, O, N, 
+S, Er, I, Al, 
+Re, V, I, Si, O, N, 
+Ra, Ti, O, 
+Ra, In, 
+Co, P, I, Es, 
+Pr, O, O, F, 
+Te, N, Ni, S, 
+B, As, S, 
+Pr, Es, Cr, I, P, Ti, O, N, 
+In, S, Ta, N, Ce, 
+B, U, Re, Au, 
+Co, N, S, Er, V, At, I, O, N, 
+Pa, Ir, 
+P, Ar, K, S, 
+La, W, Y, Er, S, 
+C, Re, Am, 
+S, S, 
+Ru, N, S, 
+P, At, Te, Rn, S, 
+B, O, Xe, S, 
+Mn, 
+Nd, 
+Ir, I, S, H, 
+C, Er, Ti, F, I, C, At, Es, 
+S, Ta, Ti, O, N, S, 
+O, P, 
+Ac, C, 
+Ge, N, Er, I, C, 
+Ca, P, 
+In, K, 
+C, H, Ar, Ts, 
+Ce, N, S, U, S, 
+S, U, P, P, Li, Er, S, 
+P, Re, Pa, Ra, Ti, O, N, 
+No, I, Se, 
+Ar, Ra, Y, 
+Ac, Cu, Ra, Te, 
+S, Te, P, He, N, 
+Re, S, Er, V, At, I, O, N, S, 
+P, In, 
+P, La, Y, S, Ta, Ti, O, N, 
+Ra, W, 
+Es, Ta, B, Li, S, H, 
+S, H, Ar, P, 
+Be, N, 
+La, Ne, 
+P, Ar, Ag, Ra, P, H, 
+Ce, 
+V, Er, Si, O, N, S, 
+P, Er, Ce, N, Ta, Ge, 
+K, No, W, S, 
+Co, N, Ce, Rn, 
+B, Ac, K, U, P, 
+H, Er, I, Ta, Ge, 
+P, Er, S, O, N, Al, S, 
+Co, Ac, H, 
+Ag, Es, 
+P, Ar, Ti, C, I, Pa, Te, 
+Co, O, K, 
+V, I, Rg, In, 
+In, V, Es, Ti, Ga, Ti, O, N, 
+H, At, 
+Li, B, 
+P, La, Te, 
+I, Nd, I, Ca, Te, 
+U, Tc, 
+C, He, At, S, 
+K, I, Ts, 
+Co, N, Ti, N, U, Es, 
+C, Am, 
+Pr, In, Ce, 
+Re, S, Po, N, S, Es, 
+At, La, N, Ti, C, 
+Re, S, Po, Nd, 
+P, La, In, 
+I, Ra, N, 
+La, U, N, C, H, 
+C, Os, Ta, 
+Ac, Ts, 
+C, Ra, F, Ts, 
+F, I, Sc, Al, 
+B, O, Nd, 
+Er, I, Cs, S, O, N, 
+No, Ti, F, Y, 
+B, Lu, Es, 
+C, Ho, Co, La, Te, 
+Pu, B, 
+H, Am, P, S, H, I, Re, 
+S, U, P, P, Li, Er, 
+Re, P, Re, Se, N, Ta, Ti, V, Es, 
+C, Au, S, Es, 
+Bi, Og, Ra, P, H, Y, 
+No, Te, B, O, O, K, 
+Tm, 
+H, U, S, Ba, Nd, 
+Br, I, Ta, In, 
+S, Co, Re, S, 
+S, P, 
+Li, Ne, Ar, 
+Be, Ar, S, 
+Ho, P, 
+Mo, U, Th, 
+Co, N, Ce, P, Ts, 
+Nh, 
+Pu, Re, 
+W, O, Nd, Er, 
+Al, Er, Ts, 
+Fm, 
+Ne, I, Th, Er, 
+O, F, F, Li, Ne, 
+Re, P, La, Ce, 
+Co, N, Ne, C, Ti, O, N, S, 
+S, U, C, K, 
+Ba, Be, 
+C, He, C, K, S, 
+C, Re, W, 
+S, Am, 
+S, Ti, C, K, 
+Re, La, Ti, O, N, 
+Ge, N, Re, 
+Mo, N, Ta, Na, 
+V, O, Lu, N, Te, Er, 
+Re, Ar, 
+B, O, U, Nd, 
+La, Pt, O, P, S, 
+Br, O, Th, Er, S, 
+Re, C, Og, Ni, Ti, O, N, 
+P, Re, Se, N, Ts, 
+Re, F, 
+Ta, N, K, 
+Na, V, Y, 
+Co, N, Ti, N, U, O, U, S, 
+Db, 
+Pa, N, 
+In, C, Re, As, Es, 
+W, In, N, Er, 
+P, H, 
+P, La, Y, S, 
+Pt, 
+I, Nd, I, C, At, Es, 
+U, Ni, V, Er, Se, 
+P, S, P, 
+Ds, 
+S, Es, Si, O, N, S, 
+B, O, O, B, S, 
+B, U, Y, Er, S, 
+U, Nd, 
+C, Ho, Se, N, 
+S, W, I, S, S, 
+Cl, Ar, K, 
+Pu, B, Li, S, H, Er, S, 
+Be, H, Al, F, 
+S, Al, Ar, Y, 
+Re, S, Er, V, At, I, O, N, 
+F, O, O, Ds, 
+N, Fl, 
+Ra, I, Se, 
+P, Re, Pa, Re, 
+V, Ar, Y, 
+H, U, Nd, Re, Ds, 
+N, W, 
+Ba, N, Ds, 
+F, F, 
+Lu, N, C, H, 
+Pu, S, H, 
+C, H, Am, B, Er, 
+I, S, O, 
+At, Te, Nd, 
+S, Ho, W, Er, 
+Pr, O, V, In, Ce, 
+C, At, Ho, Li, C, 
+V, At, 
+Be, Er, 
+Ca, Tc, H, 
+Pa, K, I, S, Ta, N, 
+P, S, 
+S, Ir, 
+F, I, Nd, Er, 
+P, Er, I, O, Ds, 
+Ta, S, K, S, 
+At, Ta, C, K, S, 
+Re, Si, S, Ta, N, Ce, 
+B, Al, Ti, Mo, Re, 
+K, Y, 
+Al, U, Mn, I, 
+P, Re, Fe, Re, N, C, Es, 
+S, P, Y, 
+B, Ru, Ce, 
+Po, W, Er, S, 
+Br, 
+Bi, Ts, 
+Cl, As, Si, F, I, Ca, Ti, O, N, 
+B, Ar, Ga, In, 
+C, H, I, P, 
+Re, S, 
+W, O, W, 
+Si, Mo, N, 
+B, Ir, Ds, 
+S, At, I, S, F, Ac, Ti, O, N, 
+Re, P, Re, Se, N, Ts, 
+C, H, Ar, 
+S, Ho, Ts, 
+Mo, O, Re, 
+C, Ho, I, C, Es, 
+Ca, Rb, O, N, 
+In, Te, Ra, C, Ti, O, N, 
+Cr, I, Si, S, 
+O, U, Tl, O, O, K, 
+Cs, 
+Re, V, O, Lu, Ti, O, N, 
+V, O, I, P, 
+Ba, N, N, Er, 
+B, Ar, Ba, Ra, 
+Co, O, P, Er, At, I, O, N, 
+Co, U, N, Ti, Es, 
+S, F, 
+No, Ti, F, I, Ca, Ti, O, N, 
+S, Ta, N, Ds, 
+Te, Ac, H, 
+Re, V, Er, Se, 
+La, Ti, Na, 
+Ta, B, 
+B, O, O, Ts, 
+Co, N, C, Re, Te, 
+Si, 
+Po, La, Nd, 
+Cs, S, 
+U, Ni, V, Er, Si, Ti, Es, 
+No, Ti, C, Es, 
+S, U, B, S, Cr, I, P, Ti, O, N, S, 
+C, Al, Cu, La, Te, 
+Mc, 
+Ni, C, K, 
+Re, P, Re, Se, N, Ta, Ti, O, N, 
+S, Mo, O, Th, 
+Co, N, Fe, Re, N, C, Es, 
+Th, Re, At, 
+O, W, N, Er, S, H, I, P, 
+Re, Se, Ar, C, H, Er, S, 
+U, N, S, U, B, S, Cr, I, Be, 
+Bi, O, 
+P, H, I, Li, P, P, In, Es, 
+S, Ta, Ti, S, Ti, C, Al, 
+Be, Ds, 
+B, Re, As, Ts, 
+In, No, V, At, I, O, N, 
+P, Cs, 
+V, O, N, 
+Ag, 
+S, Ca, N, 
+Re, Ac, Ti, O, N, 
+B, La, N, K, 
+Ge, Ne, Ra, Te, 
+Ne, W, S, Pa, P, Er, S, 
+V, I, 
+Sc, I, 
+V, I, Si, Ts, 
+Ca, Pa, Bi, Li, Ti, Es, 
+S, In, 
+B, Er, Li, N, 
+Cu, Te, 
+Ba, 
+Pa, Ra, 
+Cr, 
+Ca, Pt, U, Re, 
+Po, U, N, Ds, 
+B, U, F, F, Al, O, 
+P, La, Ne, 
+Ru, B, B, Er, 
+Co, N, C, Lu, Si, O, N, 
+K, S, 
+P, Y, Th, O, N, 
+B, O, Ne, 
+Co, Lu, Mn, S, 
+Co, O, K, I, Es, 
+In, N, Er, 
+C, Ru, I, S, Es, 
+Ga, Te, 
+Pr, O, P, Os, Al, S, 
+S, W, 
+La, W, Re, N, Ce, 
+Er, O, Ti, C, 
+F, O, Re, V, Er, 
+B, U, S, Y, 
+Ca, P, Ta, In, 
+Ne, C, K, 
+S, Cr, I, P, Ts, 
+S, Te, Re, O, 
+Ta, S, Te, 
+Ti, N, Y, 
+O, P, Er, At, I, O, N, Al, 
+Li, B, Er, Al, 
+Ga, P, 
+C, Ac, He, 
+Er, 
+Ho, B, Bi, Es
+
+Se, At, S, 
+N, In, Te, Nd, O, 
+U, S, U, Al, 
+F, Ra, N, K, Li, N, 
+Ar, Ge, N, Ti, Na, 
+Ga, Ra, Ge, 
+V, O, Lu, N, Te, Er, S, 
+F, In, La, Nd, 
+As, P, 
+Pa, N, Ts, 
+P, Ra, Y, Er, 
+Lu, C, K, 
+P, Os, Ta, Ge, 
+Re, S, Po, N, Si, Bi, Li, Ti, Es, 
+Cr, O, W, N, 
+P, Ar, 
+Cr, Ac, K, 
+P, I, C, K, S, 
+V, Ac, At, I, O, N, S, 
+Fe, Ti, S, H, 
+C, As, In, Os, 
+N, V, 
+No, Te, B, O, O, K, S, 
+B, Li, Nd, 
+Co, In, S, 
+Ca, Fe, 
+Pr, O, Te, In, S, 
+S, U, 
+F, Am, I, Li, Ar, 
+C, Pu, 
+Ra, N, 
+F, In, Ds, 
+Se, Al, 
+F, I, F, Th, 
+V, Er, Ti, C, Al, 
+Sr, 
+Co, N, Si, S, Ts, 
+S, U, B, S, Ta, N, Ce, 
+Li, Es, 
+I, Ni, Ti, At, I, V, Es, 
+Cl, As, Si, Cs, 
+La, Y, 
+Ba, N, K, Ru, P, Tc, Y, 
+S, U, B, S, Ta, N, C, Es, 
+Ge, Ne, Ti, C, 
+W, At, Er, S, 
+Th, In, 
+P, Re, F, Er, 
+Si, C, K, 
+B, U, F, F, Er, 
+Li, Mo, U, S, In, Es, 
+Li, 
+Pr, I, S, O, N, 
+Mo, U, N, Ta, In, S, 
+Mo, V, Es, 
+Si, Er, Ra, 
+Ca, Ts, 
+N, Ba, 
+Na, V, I, Ga, Te, 
+S, P, Ac, Es, 
+Co, U, Po, N, S, 
+Re, Ce, I, V, Er, 
+S, U, B, S, Ta, N, Ti, Al, 
+C, I, Al, I, S, 
+B, B, 
+B, O, At, S, 
+C, H, Am, P, I, O, N, S, H, I, P, 
+O, B, V, I, O, U, S, 
+F, I, B, Er, 
+Te, S, Ti, Mo, Ni, Al, S, 
+B, O, N, Ds, 
+Al, B, Er, Ta, 
+O, Rg, 
+C, In, C, In, Na, Ti, 
+S, U, B, Se, C, Ti, O, N, 
+Co, U, N, Ts, 
+Cr, As, H, 
+Cl, Os, Er, 
+In, Fe, C, Ti, O, N, 
+C, Li, Ni, C, 
+Pr, In, C, Es, S, 
+S, P, Ra, Y, 
+O, B, S, Er, V, At, I, O, N, S, 
+W, In, N, Er, S, 
+P, At, 
+Te, 
+C, Re, At, Es, 
+F, Ac, Es, 
+Co, C, K, S, 
+P, Re, Se, N, Ta, Ti, O, N, S, 
+Ti, O, N, 
+He, N, Ce, 
+W, I, K, I, 
+O, C, Cu, Pa, Ti, O, N, 
+La, K, Es, 
+As, S, O, C, I, At, I, O, N, S, 
+N, S, W, 
+Fl, Ag, S, 
+P, C, I, 
+Ba, K, Er, 
+S, Ho, C, K, 
+W, Al, K, Er, 
+At, Mo, S, P, He, Re, 
+K, I, S, S, 
+Ra, 
+O, V, Er, Se, As, 
+Y, Ar, Ds, 
+Ru, S, H, 
+U, K, Ra, I, Ne, 
+W, He, Re, As, 
+Y, O, Ga, 
+S, Er, V, Es, 
+W, O, O, Ds, 
+P, Ar, Ti, Al, 
+S, Ho, P, P, Er, S, 
+Ce, O, 
+Pa, La, Ce, 
+W, In, S, 
+V, Er, I, F, Y, 
+Co, P, P, Er, 
+Ra, C, K, 
+Re, P, 
+Re, Ce, I, Pt, 
+No, B, O, Dy, 
+V, I, O, La, Ti, O, N, 
+B, Os, S, 
+C, H, Am, P, I, O, N, 
+Cl, O, U, Dy, 
+Se, N, Te, N, Ce, 
+Br, As, S, 
+Pd, As, 
+Pu, B, Li, S, H, 
+Sr, I, 
+W, He, Ne, V, Er, 
+P, I, O, Ne, Er, 
+P, La, Te, S, 
+Ac, Re, S, 
+Cf, 
+O, B, Li, Ga, Ti, O, N, 
+La, N, 
+Sm, S, 
+Re, Pu, B, Li, Ca, N, 
+Se, C, Re, Ts, 
+Lu, C, K, Y, 
+Th, I, C, K, 
+P, H, I, Li, P, S, 
+Ne, C, 
+V, I, S, Ta, 
+C, H, I, P, S, 
+O, Rg, Y, 
+Ta, B, S, 
+C, As, U, Al, 
+Po, Li, S, H, 
+Cl, Au, Se, 
+La, N, Ds, 
+Br, O, K, Er, 
+P, I, Ne, 
+Te, Nd, 
+C, P, 
+La, U, Ra, 
+S, Ho, P, P, Er, 
+P, Ar, Tl, Y, 
+Ni, K, O, N, 
+Ca, N, Dy, 
+S, Ce, N, Es, 
+I, Co, N, S, 
+Po, U, Nd, 
+B, U, Rn, 
+La, B, S, 
+Dy, N, Am, I, Cs, 
+Rf, 
+Co, N, V, Er, S, At, I, O, N, 
+Fe, 
+P, Re, C, I, Si, O, N, 
+Re, S, Er, V, Es, 
+Am, P, 
+Sb, 
+F, Ra, N, C, H, I, Se, 
+Sm, 
+Na, N, C, Y, 
+Pr, O, Mo, Ti, O, N, S, 
+P, As, Si, O, N, 
+C, La, Y, 
+Pa, Tc, H, Es, 
+Re, F, U, Nd, 
+U, Sc, 
+Re, Ce, P, Ti, O, N, 
+W, I, Se, 
+C, Y, P, Ru, S, 
+W, V, 
+He, Ar, Ts, 
+Ge, Og, Ra, P, H, Y, 
+N, S, 
+P, H, Ra, Se, 
+Ge, N, U, I, Ne, 
+S, O, N, S, 
+V, Er, S, U, S, 
+Ge, Og, Ra, P, H, I, C, 
+B, S, 
+Cu, Ba, 
+Pr, O, Mo, Ti, O, N, Al, 
+Ba, Bi, Es, 
+Bi, 
+C, Al, 
+F, I, Ts, 
+K, I, C, K, 
+Ta, 
+I, Mg, 
+W, Ar, Re, N, 
+S, Li, P, 
+In, V, O, Lv, Es, 
+Pr, O, F, I, Ts, 
+Cu, Ts, 
+F, U, N, Er, Al, 
+F, Ra, N, C, I, S, 
+Ca, P, S, 
+F, Ac, I, Al, 
+B, O, U, Nd, Ar, Y, 
+P, H, I, Li, P, 
+S, P, In, 
+S, Ta, Ge, S, 
+W, In, Ds, 
+As, S, Es, S, 
+W, As, H, 
+Re, V, 
+S, Ho, Re, 
+Cl, 
+Ho, 
+Al, Te, Rn, At, I, V, Es, 
+P, Ar, K, Er, 
+S, H, 
+Co, O, P, Er, 
+N, Y, C, 
+U, N, U, S, U, Al, 
+Ti, Ta, N, S, 
+Ge, N, Es, 
+S, Ca, N, N, Er, 
+He, Re, In, 
+O, C, Cu, Pa, Ti, O, N, Al, 
+Ho, Rn, Y, 
+Hs, 
+H, Er, O, 
+Ba, Si, Cs, 
+B, In, Ar, Y, 
+Ge, Ne, Ti, Cs, 
+Pu, N, K, 
+Co, Al, I, Ti, O, N, 
+P, I, 
+Pa, Ce, 
+Ar, C, 
+H, Os, Ts, 
+In, Te, Rf, Ac, Es, 
+At, La, S, 
+O, B, S, Er, V, At, I, O, N, 
+Co, At, 
+O, P, Po, Si, Ti, O, N, 
+Co, N, Ta, In, Er, 
+W, Ar, N, Er, 
+Li, V, Er, 
+P, Er, I, P, H, Er, Al, S, 
+Br, O, C, H, U, Re, 
+Bi, K, I, Ni, 
+Br, O, K, Er, S, 
+I, O, N, 
+I, C, 
+Se, As, O, N, S, 
+P, Er, U, 
+In, Te, Ra, C, Ti, O, N, S, 
+Re, F, I, Ne, 
+Li, Te, Ra, C, Y, 
+In, V, I, Te, 
+Al, I, Ce, 
+La, Ti, N, As, 
+S, U, P, Po, Se, 
+O, P, Po, Si, Te, 
+Ba, N, 
+As, S, U, Ra, N, Ce, 
+Cl, Er, K, 
+O, U, Tl, I, Ne, 
+Re, Ce, I, V, Es, 
+V, Er, I, F, I, Ca, Ti, O, N, 
+F, O, N, Ts, 
+W, Ra, P, 
+Re, F, Er, S, 
+O, C, Ca, Si, O, N, 
+Be, Am, 
+O, B, Li, Ga, Ti, O, N, S, 
+Mo, Re, O, V, Er, 
+Li, Ce, N, Ce, 
+Am, Y, 
+Ts, 
+C, Am, P, S, 
+P, Ac, K, S, 
+Ge, 
+S, W, I, Tc, H, Es, 
+Th, O, U, 
+Co, Al, 
+Cr, Y, 
+Re, F, I, Na, N, Ce, 
+Li, O, N, 
+Ca, N, Y, O, N, 
+Co, N, C, Lu, Si, O, N, S, 
+P, As, S, Es, 
+Bi, B, Li, Og, Ra, P, H, Y, 
+H, At, S, 
+S, H, Ar, O, N, 
+Tc, P, 
+S, U, Rf, 
+Ra, I, Nb, O, W, 
+Ho, O, K, 
+F, Ac, I, Li, Ta, Te, 
+S, U, B, S, Cr, I, B, Er, 
+V, Al, 
+F, Li, C, Kr, 
+K, Ni, Fe, 
+Cr, O, P, 
+F, Y, 
+Li, Te, 
+H, U, B, 
+F, O, U, Nd, Er, 
+S, Te, Am, 
+V, O, I, C, Es, 
+Ac, U, Te, 
+Al, Ba, N, Y, 
+S, Ta, C, K, 
+Ho, U, Se, W, Ar, Es, 
+Re, Pu, Ta, Ti, O, N, 
+Am, B, Er, 
+V, Ar, I, At, I, O, N, 
+P, I, Er, Re, 
+C, H, I, 
+S, Au, Ce, 
+Cr, I, Ti, C, I, Sm, 
+Rf, C, 
+At, He, N, S, 
+Se, O, 
+I, S, P, 
+In, S, 
+Po, Pu, La, Ti, O, N, S, 
+Ac, O, U, S, Ti, C, 
+H, B, 
+Tc, 
+F, U, Si, O, N, 
+Ru, B, Y, 
+P, Re, Fe, Re, N, Ce, 
+Ca, N, V, As, 
+P, Ar, I, S, H, 
+P, La, N, N, Er, 
+Fl, O, W, S, 
+Fe, W, Er, 
+Co, U, Po, N, 
+O, Pt, 
+Co, N, Te, S, Ts, 
+F, Lu, 
+Bi, K, Es, 
+Ga, Te, S, 
+Ra, P, 
+Bi, S, Ho, P, 
+Co, Rn, 
+Se, As, O, N, Al, 
+Pu, Ts, 
+P, Er, Fe, C, Tl, Y, 
+Ti, N, 
+In, S, Ta, N, Tl, Y, 
+Li, Ti, Ga, Ti, O, N, 
+H, Er, O, Es, 
+Ir, 
+Ti, Es, 
+F, I, S, H, Er, 
+Ar, Ti, F, I, C, I, Al, 
+Ac, Ti, V, At, I, O, N, 
+S, U, B, S, Cr, I, B, Er, S, 
+La, W, N, 
+B, As, In, 
+S, O, U, P, 
+Ra, N, C, H, 
+B, Y, Te, 
+No, Se, 
+B, Ra, N, C, H, Es, 
+O, Cl, C, 
+Ne, P, Al, 
+Co, N, S, Ta, N, Tl, Y, 
+Mo, S, Co, W, 
+Th, Es, I, S, 
+Th, Ru, 
+B, Ar, Ga, In, S, 
+H, I, S, Pa, Ni, C, 
+C, V, 
+C, B, 
+Ge, N, 
+Es, P, N, 
+B, U, N, C, H, 
+In, C, Lu, Si, O, N, 
+Ce, N, Ts, 
+Ti, 
+F, C, 
+C, I, V, I, C, 
+F, W, 
+Se, Es, 
+W, I, S, H, Es, 
+Mo, Ni, Ca, 
+Re, Pa, Ir, S, 
+B, Re, At, H, 
+B, P, 
+He, Rb, Al, 
+Ga, In, S, 
+Re, Ne, W, Al, 
+Ge, Ne, Al, Og, Y, 
+Pa, N, Ti, Es, 
+Cr, I, Ti, Cs, 
+S, Po, Ts, 
+O, O, 
+H, Ac, K, Er, 
+Co, In, 
+B, B, W, 
+S, Al, O, N, 
+Cu, Re, 
+Ar, C, H, 
+Ni, 
+Th, In, K, S, 
+Th, At, S, 
+As, In, 
+B, Ru, S, H, 
+In, V, Es, Ti, Ga, Te, 
+Th, Y, 
+S, Pa, Re, 
+P, Al, 
+Fl, O, Re, N, Ce, 
+Ho, Ne, Y, 
+S, Ce, N, Ar, I, O, 
+F, S, 
+Ga, U, Ge, 
+Es, Se, N, Ti, Al, S, 
+N, N, 
+No, O, N, 
+S, U, P, Er, V, I, Si, O, N, 
+C, He, At, 
+Se, Pa, Ra, Ti, O, N, 
+Te, S, Ti, Mo, N, Y, 
+Se, Nd, Er, 
+B, O, U, Nd, Ar, I, Es, 
+C, Ru, C, I, Al, 
+S, Y, Nd, I, Ca, Ti, O, N, 
+S, Po, U, Se, 
+Th, Re, At, S, 
+V, B, 
+C, Am, S, 
+P, I, S, S, 
+S, U, Rg, I, C, Al, 
+C, I, Ta, Ti, O, N, 
+P, I, Tc, H, 
+Y, O, 
+Cl, O, Th, 
+S, Al, Mo, N, 
+Pr, O, C, 
+Ca, Rg, O, 
+Ta, N, 
+Li, K, Es, 
+C, He, F, 
+Ta, P, Es, 
+Ra, C, Es, 
+O, F, F, S, Ho, Re, 
+C, B, S, 
+B, O, W, 
+P, H, Pb, B, 
+Pr, O, Be, 
+Re, Co, V, Er, 
+Ca, Th, Er, I, Ne, 
+U, P, S, K, Ir, Ts, 
+C, H, U, C, K, 
+Ho, N, 
+C, Al, Cu, La, Ti, O, N, 
+B, O, O, B, 
+O, C, Ca, Si, O, N, S, 
+Br, O, O, K, S, 
+Se, Pt, 
+S, Pa, Ti, Al, 
+C, Er, Am, I, C, 
+P, Re, C, I, O, U, S, 
+S, Ca, N, N, Er, S, 
+Pa, Y, S, 
+S, U, N, N, Y, 
+Ne, C, K, La, Ce, 
+U, V, 
+B, La, Ir, 
+Ho, P, Es, 
+Cm, S, 
+B, U, Rn, S, 
+Sg, 
+V, I, C, 
+P, Os, 
+At, Ta, C, H, 
+Li, Ce, N, S, Es, 
+B, Ru, N, S, W, I, C, K, 
+P, H, Y, S, 
+Ra, N, Ge, S, 
+Pa, Ir, S, 
+Pr, Es, Er, V, At, I, O, N, 
+H, U, Ds, O, N, 
+C, Ho, Se, 
+S, Y, Nd, I, Ca, Te, 
+P, I, C, K, U, P, 
+Mo, Th, Er, S, 
+Na, Sc, Ar, 
+I, Ce, La, Nd, 
+Be, Nd, 
+V, Ar, I, At, I, O, N, S, 
+O, Li, V, Er, 
+Na, V, 
+S, Y, N, Th, Es, I, S, 
+C, Yb, Er, 
+Cl, O, Ne, 
+Re, La, Y, 
+Te, Ar, S, 
+O, As, I, S, 
+Ba, Se, Li, Ne, 
+Ca, B, 
+Si, Li, Co, N, 
+Ho, No, Lu, Lu, 
+Li, P, S, 
+Re, Te, N, Ti, O, N, 
+Po, Nd, 
+Ba, Rn, Es, 
+Pr, O, F, Es, Si, O, N, 
+Cn, N, 
+Ti, Re, 
+Re, C, Re, At, I, O, N, Al, 
+He, At, H, Er, 
+U, Ni, O, N, S, 
+S, Y, S, 
+Sc, Al, Es, 
+O, B, S, Er, V, Er, 
+S, U, N, S, H, I, Ne, 
+Ce, Re, Mo, N, Y, 
+Pr, O, V, In, C, I, Al, 
+In, V, Es, Ti, Ga, Ti, O, N, S, 
+He, B, Re, W, 
+Sc, Si, 
+F, O, Cu, S, Es, 
+P, Os, S, Es, Si, O, N, 
+Cu, 
+V, O, C, Al, 
+Pt, Y, 
+W, S, 
+N, U, Ts, 
+S, Pa, N, 
+S, At, I, S, F, Y, 
+La, Y, Er, S, 
+Ba, H, Am, As, 
+Be, N, C, H, 
+U, Ni, V, 
+H, Am, Pt, O, N, 
+Pa, Ds, 
+In, N, S, 
+B, O, B, B, Y, 
+W, In, Es, 
+Cu, P, S, 
+As, H, 
+Al, I, 
+Np, 
+Te, Nd, Er, 
+V, I, O, La, Ti, O, N, S, 
+F, O, Am, 
+P, As, Te, 
+Cl, O, U, Ds, 
+P, Ra, I, Se, 
+Re, Al, I, S, Ti, C, 
+S, Ho, W, Ca, Se, 
+As, K, S, 
+S, Y, No, P, Si, S, 
+Re, U, Ni, O, N, 
+S, P, Ir, I, Ts, 
+Fl, O, At, 
+Co, Li, N, 
+Bi, As, 
+P, At, Hs, 
+Ac, I, Ds, 
+V, I, Ru, S, Es, 
+Ta, P, 
+S, Ti, C, K, Er, S, 
+F, I, S, H, Er, I, Es, 
+Re, Ac, Ti, O, N, S, 
+La, U, Re, N, 
+C, I, 
+Re, La, Te, 
+W, Ag, Es, 
+S, U, F, F, Er, 
+F, O, Re, S, Ts, 
+Na, No, 
+Co, N, C, Er, Ts, 
+Re, Ta, In, 
+Ge, N, Re, S, 
+Pa, Te, N, Ts, 
+Y, N, 
+W, He, At, 
+B, As, Es, 
+V, I, I, 
+Ra, Ts, 
+In, S, Ta, N, C, Es, 
+I, Nd, I, Ge, No, U, S, 
+C, Fr, 
+S, O, C, K, S, 
+In, Ce, N, Ti, V, Es, 
+Be, Ac, H, Es, 
+S, U, Rf, Ac, Es, 
+Cl, O, C, K, S, 
+Bi, Os, 
+W, Al, La, Ce, 
+Fe, V, Er, 
+P, Mc, 
+Cu, I, Si, Ne, 
+Pr, Ac, Ti, Ti, O, N, Er, S, 
+In, F, La, Ti, O, N, 
+Nb, 
+Ru, Th, 
+P, Ra, Y, 
+C, H, I, C, K, S, 
+Ba, Re, 
+Ta, N, K, S, 
+Mo, No, 
+P, Ar, Ti, Cl, Es, 
+In, S, P, I, Ra, Ti, O, N, 
+Re, Ba, Te, 
+Re, C, 
+C, Y, Cl, Es, 
+F, O, Re, C, As, Ts, 
+S, Lu, Ts, 
+Am, P, La, Nd, 
+P, Re, P, 
+Pb, 
+B, U, Tl, Er, 
+Co, O, K, B, O, O, K, 
+H, In, Ts, 
+Am, Er, I, C, As, 
+Pr, Os, 
+Co, N, F, Li, C, Ts, 
+Te, C, H, No, 
+Ge, Ne, Si, S, 
+Ar, I, Se, 
+Ir, C, 
+P, Er, Ce, P, Ti, O, N, 
+W, Y, 
+B, Ra, 
+Bi, Tc, H, 
+In, Fe, C, Ti, O, N, S, 
+C, H, Es, S, 
+O, P, Er, At, Es, 
+Br, I, S, Ba, Ne, 
+O, Sc, Ar, 
+F, Es, Ti, V, Al, S, 
+P, Os, Si, Bi, Li, Ti, Es, 
+Ca, N, Al, 
+Am, I, No, 
+P, H, I, 
+He, Rb, S, 
+C, Li, Ni, Cs, 
+Co, W, 
+W, At, S, O, N, 
+C, Ir, Cu, La, Ti, O, N, 
+O, F, Fe, N, Se, 
+Ho, B, B, Y, 
+In, Li, Ne, 
+Cl, Os, U, Re, 
+P, P, C, 
+In, Te, N, Se, 
+S, Ho, W, Er, S, 
+Sc, Re, W, 
+Pu, B, Li, Cl, Y, 
+Ac, Er, 
+O, N, S, 
+S, In, K, 
+As, S, U, Re, 
+In, V, I, Ta, Ti, O, N, 
+Ra, N, Dy, 
+Ti, Mo, Th, Y, 
+Br, I, C, K, 
+Na, V, Al, 
+C, Am, Er, O, N, 
+Co, Lu, Mn, I, S, Ts, 
+P, In, S, 
+Re, No, 
+Ca, B, In, 
+Co, N, Se, N, S, U, S, 
+Ho, Rn, 
+Pd, 
+P, Er, Th, 
+Fr, Og, 
+In, Te, N, Ti, O, N, 
+Ti, Re, S, 
+S, U, I, Ts, 
+S, Na, P, 
+Au, C, K, La, Nd, 
+F, Ru, I, Ts, 
+Ge, O, 
+C, Al, Cu, La, Ti, O, N, S, 
+At, I, 
+W, Al, 
+Cr, O, P, S, 
+F, Li, P, 
+N, Er, V, O, U, S, 
+Re, F, U, Se, 
+Fr, Ag, Ra, N, Ce, 
+Re, P, Li, Ca, 
+S, U, P, Er, B, 
+C, H, Am, P, I, O, N, S, 
+V, O, Ca, Ti, O, N, Al, 
+Ba, Tc, H, 
+La, Ti, No, 
+U, C, 
+H, Ar, Mo, N, Y, 
+B, U, F, 
+C, H, I, C, K, 
+Co, N, F, U, Si, O, N, 
+In, Pu, Ts, 
+W, Ar, Ra, N, Ti, Es, 
+Pa, P, Er, B, Ac, K, S, 
+Co, Ac, H, Es, 
+W, Al, K, S, 
+S, U, C, K, S, 
+K, Ni, V, Es, 
+Ar, Ra, N, Ge, 
+Ar, Ti, S, Ti, C, 
+B, At, 
+B, O, O, Th, 
+B, O, N, Es, 
+P, Re, C, I, Se, 
+No, Ti, F, I, Ca, Ti, O, N, S, 
+In, V, O, I, Ce, 
+Li, P, 
+Ga, Th, Er, 
+S, U, Se, 
+Ca, Re, Y, 
+Re, Be, C, Ca, 
+F, O, U, Nd, At, I, O, N, S, 
+N, U, 
+Br, O, W, S, Er, S, 
+Pa, Ti, O, 
+O, P, Ti, Cs, 
+O, U, 
+O, O, P, S, 
+P, La, In, S, 
+S, K, U, 
+Ra, Y, Mo, Nd, 
+He, Re, B, Y, 
+Co, N, Ta, In, Er, S, 
+Ra, C, I, Al, 
+P, Ts, 
+Rh, 
+P, La, Yb, O, Y, 
+F, I, Ni, Te, 
+F, I, Xe, S, 
+Se, N, Ds, 
+W, I, C, H, I, Ta, 
+O, O, O, 
+V, Er, Se, 
+Sc, Ra, Tc, H, 
+La, U, N, C, H, Es, 
+He, Nd, Er, S, O, N, 
+Bk, 
+Br, I, Ta, N, Ni, Ca, 
+N, Hs, 
+Ra, C, K, S, 
+La, Ce, 
+Co, N, Sc, I, O, U, Sn, Es, S, 
+S, Te, 
+W, At, Ts, 
+Re, Pr, In, Ts, 
+Re, S, O, Lu, Ti, O, N, S, 
+S, K, 
+Ni, C, Ho, La, S, 
+Y, U, 
+In, V, As, I, O, N, 
+Ru, N, N, Er, 
+No, Ti, O, N, 
+S, K, In, S, 
+O, C, 
+Ar, C, Ti, C, 
+Re, W, Ar, Ds, 
+Be, Ne, At, H, 
+U, Ne, 
+W, P, 
+Ne, O, 
+Mo, Ti, V, At, I, O, N, 
+Ag, Re, Es, 
+Co, N, Si, S, Te, N, Tl, Y, 
+Co, N, S, 
+S, O, Ni, C, 
+C, He, Er, S, 
+Be, La, Ru, S, 
+N, At, 
+Es, Se, N, Ce, 
+W, O, Rn, 
+V, P, 
+Cn, 
+Ra, N, K, S, 
+Ge, Ne, Ra, Ti, O, N, S, 
+Ba, Li, 
+Fr, Ac, Ti, O, N, 
+Cu, Be, 
+Mo, Na, Co, 
+Be, Ne, F, I, C, I, Al, 
+V, Ac, C, I, Ne, 
+C, Ra, P, 
+V, O, Lv, O, 
+Re, Pu, B, Li, Ca, N, S, 
+V, Er, 
+Rn, 
+Al, P, I, Ne, 
+Al, I, As, 
+Th, Es, Au, Ru, S, 
+Ne, W, Er, 
+S, P, I, Ce, 
+O, V, Al, 
+S, Er, 
+As, C, I, I, 
+C, I, Ta, Ti, O, N, S, 
+Ge, Og, Ra, P, H, I, C, Al, 
+Te, N, Si, O, N, 
+H, Re, F, 
+W, I, F, I, 
+Ti, Er, 
+C, H, Am, P, I, O, N, S, H, I, P, S, 
+Ra, P, I, Ds, 
+Au, S, 
+H, W, Y, 
+C, As, H, I, Er, S, 
+C, I, Te, 
+N, Am, 
+Eu, Ge, Ne, 
+Gd, P, 
+U, Na, 
+C, Ho, Ru, S, 
+P, Re, C, I, P, I, Ta, Ti, O, N, 
+Li, O, N, S, 
+F, I, Nd, La, W, 
+Tb, 
+C, La, I, Re, 
+I, S, O, La, Ti, O, N, 
+Ra, Ti, O, N, Al, 
+C, H, Am, B, Er, S, 
+V, O, C, Al, S, 
+F, O, U, N, Ta, In, 
+C, H, U, B, B, Y, 
+Bi, Og, Ra, P, H, I, Es, 
+B, U, Rn, Er, 
+F, O, O, 
+P, La, In, Ti, F, F, 
+F, In, Ni, S, H, 
+Pr, I, S, O, N, Er, S, 
+Ho, Se, 
+F, O, O, Ta, Ge, 
+Ar, C, H, I, Te, C, Ts, 
+V, Al, U, At, I, O, N, 
+F, Og, 
+Pu, N, C, H, 
+Co, W, B, O, Y, 
+Ba, H, Ra, In, 
+Pu, B, S, 
+Lu, C, As, 
+V, I, P, 
+C, Li, C, K, S, 
+Ho, Nd, U, Ra, S, 
+H, Ar, P, Er, 
+Ca, Bi, Ne, Ts, 
+Al, Ge, B, Ra, 
+S, O, C, 
+Fe, N, Ce, 
+In, F, I, Ni, Te, 
+Re, La, Ti, V, Es, 
+C, La, N, 
+Re, V, O, Lu, Ti, O, N, Ar, Y, 
+S, Y, N, C, 
+F, At, Al, 
+Th, I, C, K, N, Es, S, 
+Ge, Ni, U, S, 
+Fl, Es, H, 
+W, He, Re, V, Er, 
+Es, Ta, Te, S, 
+B, Ra, Nd, O, N, 
+H, Am, 
+P, Ar, Ti, Ti, O, N, 
+F, U, N, K, 
+F, Bi, 
+S, He, Er, 
+Bi, Nd, 
+Ra, Nd, 
+Ho, P, K, In, S, 
+C, Y, Li, Nd, Er, 
+W, I, Tc, H, 
+B, U, C, K, 
+I, Nd, I, Ca, Ti, O, N, 
+Co, He, N, 
+U, Sg, S, 
+Pu, P, P, Y, 
+K, At, H, Y, 
+Ac, Re, 
+C, He, N, 
+F, I, Na, N, C, Es, 
+Ac, Ce, P, Ts, 
+H, C, 
+F, P, 
+C, Ar, Ni, V, Al, 
+S, Ti, C, K, Er, 
+S, At, In, 
+B, O, N, 
+Pr, O, Mo, 
+Re, P, Re, Se, N, Ta, Ti, O, N, S, 
+Be, Th, 
+P, H, Ra, S, Es, 
+Re, Ac, H, Es, 
+C, At, Al, Og, S, 
+P, La, Ne, Ts, 
+Re, Ne, W, 
+V, I, I, I, 
+C, Ir, Cu, I, Ts, 
+Fl, O, P, P, Y, 
+Th, U, Nd, Er, 
+C, Au, Ti, O, N, 
+H, Ac, K, 
+P, Ir, At, Es, 
+C, Os, 
+P, Ac, 
+Er, P, 
+U, I, 
+H, I, Nd, U, 
+Fr, Ag, Ra, N, C, Es, 
+V, P, N, 
+F, C, C, 
+Lu, C, Y, 
+Co, N, S, P, Ir, Ac, Y, 
+W, H, At, S, 
+S, At, U, Rn, 
+P, La, N, Es, 
+Co, Nd, O, 
+Am, P, Li, F, I, Er, 
+V, Er, No, N, 
+Ir, S, 
+O, C, Ca, Si, O, N, Al, 
+Ca, Si, O, 
+In, No, V, At, I, O, N, S, 
+P, Os, Tc, Ar, Ds, 
+Mo, N, Te, 
+F, Ir, Es, 
+Lu, I, S, 
+Pa, Ni, C, 
+S, Ti, C, K, S, 
+O, Ni, O, N, 
+P, F, 
+U, W, 
+H, I, Er, Ar, C, H, Y, 
+Ba, N, N, Er, S, 
+C, Ir, Cl, Es, 
+I, Ta, Li, C, 
+Be, At, S, 
+S, Cu, Ba, 
+Ca, Ge, 
+Co, U, Ra, Ge, 
+S, Ce, N, Ar, I, Os, 
+H, I, Ta, C, H, I, 
+La, P, 
+Be, V, Er, Ag, Es, 
+Ca, Li, B, Ra, Ti, O, N, 
+Lu, Th, Er, 
+Fr, O, N, Ti, Er, 
+Re, F, U, Ge, Es, 
+H, Y, Po, Th, Es, I, S, 
+Po, N, Ti, Ac, 
+S, Ce, Ni, C, 
+Co, N, Si, S, Te, N, C, Y, 
+Pr, O, Po, Se, 
+H, H, 
+Ra, Ge, 
+U, H, 
+Pa, V, I, Li, O, N, 
+Ta, C, Ti, Cs, 
+I, Nd, U, C, Ti, O, N, 
+Pr, O, V, In, C, Es, 
+F, In, Al, S, 
+S, Te, Al, 
+B, O, 
+Fe, Ar, S, 
+Ra, Y, S, 
+As, N, 
+Ac, Ne, 
+P, Al, Es, Ti, Ne, 
+Li, B, S, 
+U, Nd, O, 
+At, Mo, S, P, H, Er, I, C, 
+P, K, 
+H, Al, O, 
+P, Pm, 
+Pr, O, Po, Si, Ti, O, N, 
+Ga, Y, S, 
+Ga, S, O, Li, Ne, 
+In, F, 
+B, U, C, K, S, 
+V, Cr, 
+Ra, I, S, Es, 
+He, At, H, 
+P, La, S, Ti, Cs, 
+S, Al, Ar, I, Es, 
+Ts, U, N, Am, I, 
+P, Si, 
+B, U, S, Es, 
+W, B, 
+C, Re, At, U, Re, S, 
+Sm, I, Li, Es, 
+V, I, Ds, 
+Co, Rn, Er, S, 
+Ne, W, F, O, U, Nd, La, Nd, 
+Sn, 
+P, As, 
+In, Te, Nd, 
+F, I, Nd, Ar, Ti, Cl, Es, 
+Y, U, K, O, N, 
+Bi, Te, 
+I, S, Sn, 
+In, Fe, C, Ti, O, U, S, 
+S, As, 
+Br, O, O, K, 
+F, U, 
+In, S, U, Li, N, 
+Bi, B, Li, C, Al, 
+Co, N, Sc, I, O, U, S, 
+W, I, V, Es, 
+Pr, Os, Ta, Te, 
+Au, B, U, Rn, 
+V, Am, P, I, Re, 
+Re, La, Te, S, 
+F, I, Re, W, I, Re, 
+Mo, Ds, 
+Re, V, I, Si, O, N, S, 
+V, Ar, I, Es, 
+W, N, 
+C, Cd, 
+S, V, 
+B, U, Y, S, 
+Re, Se, Ar, C, H, Er, 
+O, C, Cu, Pa, Ti, O, N, S, 
+V, Ir, Al, 
+P, I, P, Es, 
+Ar, U, Ba, 
+C, H, As, Si, S, 
+Ba, Rn, 
+B, O, C, 
+As, U, S, 
+P, I, Er, Ce, 
+Al, La, N, 
+Te, C, H, Re, Pu, B, Li, C, 
+C, Ra, P, S, 
+F, O, 
+P, Re, F, Er, S, 
+Br, O, C, H, U, Re, S, 
+He, Rb, 
+Tm, P, 
+B, Re, Ac, H, 
+S, Ta, Ti, O, N, Er, Y, 
+F, In, 
+I, O, 
+Ca, Lv, In, 
+U, Ni, 
+S, H, Ar, K, 
+P, H, As, Es, 
+C, Li, F, F, 
+S, H, I, Ne, 
+P, N, 
+Co, N, V, Er, S, At, I, O, N, S, 
+P, As, Ta, 
+F, O, C, Al, 
+Bi, B, Li, Og, Ra, P, H, I, C, 
+V, Ag, I, Na, 
+In, Cl, 
+C, H, Am, P, Ag, Ne, 
+Nb, C, 
+S, Am, Ba, 
+Ho, U, Se, W, I, V, Es, 
+W, O, U, Nd, 
+Co, N, V, I, C, Ti, O, N, 
+H, As, H, 
+H, Am, B, U, Rg, 
+C, In, Dy, 
+F, At, H, Er, S, 
+Ca, Rb, 
+C, As, 
+C, I, O, 
+Rb, 
+U, P, C, 
+Cu, Bi, C, 
+K, I, Na, Se, 
+S, K, Ir, Ts, 
+P, V, C, 
+S, H, Er, I, F, F, 
+S, P, I, Es, 
+B, La, H, 
+Fe, O, F, 
+B, U, N, N, Y, 
+C, He, V, Y, 
+Ti, O, N, S, 
+Se, N, Te, N, C, Es, 
+Fl, Y, Er, 
+Re, Ce, I, V, Er, S, 
+C, Am, Er, O, O, N, 
+B, At, Hs, 
+B, Ra, K, Es, 
+Og, 
+K, O, 
+O, W, N, S, 
+In, V, I, Si, O, N, 
+S, Ti, C, K, Y, 
+Ge, N, Er, O, U, S, 
+La, N, Ds, Ca, P, Es, 
+W, W, 
+S, P, Ar, C, 
+S, Al, V, At, I, O, N, 
+V, At, I, Ca, N, 
+Gd, 
+Co, N, V, Er, Ge, N, Ce, 
+Dy, La, N, 
+Br, As, 
+B, La, C, K, S, 
+Re, B, At, Es, 
+C, La, Ra, 
+B, W, 
+He, Pa, Ti, Ti, S, 
+W, At, Er, Pr, O, O, F, 
+F, Lu, S, H, 
+In, V, I, Ta, Ti, O, N, S, 
+Mo, S, Es, 
+V, Al, V, Es, 
+Ga, P, S, 
+Te, Ar, 
+Te, Ac, H, Es, 
+P, Am, 
+N, At, O, 
+P, Ra, Y, Er, S, 
+F, U, N, K, Y, 
+No, W, He, Re, 
+Co, P, 
+P, Ar, Ag, Ra, P, Hs, 
+Sc, Ar, Y, 
+B, Ru, Ne, I, 
+Ba, Na, Na, 
+Ca, K, Es, 
+S, Ta, N, 
+Re, S, Er, V, O, Ir, 
+W, C, 
+S, Ta, Y, S, 
+W, As, H, Er, 
+Re, B, O, U, Nd, 
+He, Li, Co, Pt, Er, 
+H, K, 
+S, P, He, Re, 
+Mo, S, S, 
+Ra, Ti, Os, 
+La, N, Ce, 
+U, N, Ne, C, Es, S, Ar, Y, 
+La, N, Es, 
+Mt, V, 
+C, Ar, O, Li, Ne, 
+N, Am, Es, Pa, Ce, 
+P, Er, I, P, H, Er, Al, 
+O, P, Po, Ne, N, Ts, 
+Co, Nd, Os, 
+Ge, N, Tl, Y, 
+Ca, Se, Y, 
+Fr, As, Er, 
+P, Os, S, Es, S, 
+Si, P, 
+Fl, As, H, Er, S, 
+S, U, Ba, Ru, 
+P, I, C, Ni, C, 
+S, Pa, N, K, 
+C, W, 
+Pr, Ac, Ti, Ti, O, N, Er, 
+Rg, 
+W, Ir, Es, 
+V, C, 
+Ba, Co, N, 
+He, At, Er, 
+Ca, N, No, N, 
+C, Ir, Cu, S, 
+F, O, Rb, Es, 
+S, P, I, Ne, 
+Fe, At, 
+N, Ts, C, 
+Si, C, 
+U, S, P, S, 
+F, I, Re, P, La, Ce, 
+P, La, N, N, Er, S, 
+Cl, Os, Es, 
+Co, N, F, 
+As, Si, S, Ts, 
+V, I, O, Li, N, 
+C, Ir, 
+Er, I, K, 
+H, U, 
+Ne, W, Ar, K, 
+K, W, 
+P, As, O, 
+P, La, Yb, Ac, K, 
+I, P, S, 
+Ds, C, 
+C, Re, At, I, O, N, S, 
+S, Co, O, P, 
+Mo, V, Er, S, 
+V, Er, B, Al, 
+B, Li, N, K, 
+P, Re, Se, N, Tl, Y, 
+Se, As, 
+V, O, Y, U, Er, 
+Ru, 
+Po, Se, 
+Re, Nd, Er, 
+I, Ra, 
+Se, N, 
+Er, O, Ti, Ca, 
+S, O, U, Th, Am, Pt, O, N, 
+Se, Ga, 
+Cd, Na, 
+W, U, 
+Ga, Ge, 
+W, Ho, Re, 
+Lu, 
+W, Ag, O, N, 
+K, No, C, K, 
+S, Mt, P, 
+Ge, N, Er, At, Es, 
+Re, P, Li, Ca, Ti, O, N, 
+Ne, O, N, 
+C, Re, At, U, Re, 
+Mo, U, N, Ts, 
+S, Y, Ra, Cu, Se, 
+In, Te, Rn, S, H, I, P, 
+Re, Fr, Es, H, 
+Ca, Nb, Er, Ra, 
+K, Ir, K, 
+C, Ho, Ir, 
+C, Ho, 
+Pr, O, Mo, Te, S, 
+B, B, S, 
+S, P, As, 
+I, Nd, 
+F, I, B, Re, 
+I, Nd, I, C, Es, 
+In, Tl, 
+Ac, Ti, V, I, S, Ts, 
+Pr, I, S, O, N, Er, 
+In, Se, C, Ts, 
+Y, Ar, N, 
+Co, Nd, I, Ti, O, N, Al, 
+B, O, Th, Er, 
+Co, N, Ce, Pt, U, Al, 
+Bh, U, Ta, N, 
+Al, La, H, 
+O, B, 
+U, N, W, Ra, P, 
+F, Ar, Es, 
+In, S, Er, Ti, O, N, 
+I, Ds, 
+W, Ag, N, Er, 
+In, S, U, La, Ti, O, N, 
+La, Os, 
+Po, I, S, O, N, 
+C, Os, Tl, Y, 
+S, Ti, Tc, H, 
+In, La, Nd, 
+No, N, F, I, C, Ti, O, N, 
+Ra, C, I, Sm, 
+S, Lr, 
+In, S, U, Re, 
+Cl, Ar, I, F, Y, 
+P, V, 
+Se, W, Er, 
+B, O, Sc, H, 
+C, Ar, S, O, N, 
+B, At, Tl, Es, 
+B, U, Ru, Nd, I, 
+O, F, Fe, Nd, Er, S, 
+Cu, Ba, N, 
+Te, Na, N, Ts, 
+U, No, F, F, I, C, I, Al, 
+V, O, Na, Ge, 
+Re, S, In, 
+Al, Li, Es, 
+Mo, N, Te, Re, Y, 
+Li, Ne, N, 
+Se, Al, S, 
+U, Nd, Er, W, At, Er, 
+Pb, S, 
+U, S, H, Er, 
+Er, O, Ti, K, 
+H, Ac, K, Er, S, 
+V, W, 
+F, Ra, N, C, 
+Hg, 
+F, La, Ts, 
+V, O, U, C, H, Er, S, 
+Ca, N, Cu, N, 
+Ca, Pr, I, 
+S, U, B, U, Rb, S, 
+Se, Ar, S, 
+Al, S, 
+F, Fl, 
+F, Li, Es, 
+C, Ra, Ne, 
+Po, Pu, P, 
+Pr, O, Te, C, Ts, 
+Ir, I, S, 
+H, Al, 
+Be, N, In, 
+P, P, P, 
+B, Ac, H, 
+Er, O, Si, O, N, 
+C, He, 
+B, U, 
+Te, N, Ds, 
+Fr, Es, No, 
+B, Y, P, As, S, 
+I, Es, 
+O, Rg, I, Es, 
+S, P, Ar, K, 
+Li, N, 
+Ta, C, Ti, C, Al, 
+Pr, O, Se, Cu, Ti, O, N, 
+K, O, Rn, 
+Re, Ce, I, P, Ts, 
+B, Ac, K, S, 
+O, B, S, Er, V, Er, S, 
+S, P, Ac, I, O, U, S, 
+N, As, 
+H, U, N, K, S, 
+O, F, Fe, N, Ce, 
+Po, N, Y, 
+F, Ac, I, Al, S, 
+C, Ar, Es, 
+Fl, O, Ra, 
+H, Ar, Dy, 
+V, Cd, 
+H, Ar, N, Es, S, 
+Sc, At, 
+Pu, P, P, I, Es, 
+B, U, I, C, K, 
+Ne, Ts, 
+B, F, 
+B, As, H, 
+Ne, C, K, La, C, Es, 
+O, C, Cu, Pa, N, C, Y, 
+W, As, Te, W, At, Er, 
+Na, Ti, O, N, Al, S, 
+As, Si, S, Ta, N, Ts, 
+S, P, In, Al, 
+S, O, O, N, Er, 
+Te, N, U, Re, 
+P, Lu, S, H, 
+Bi, O, Te, C, H, 
+C, I, S, 
+S, H, I, F, Ts, 
+Ac, C, Es, Si, O, N, 
+S, O, Y, 
+P, Au, La, 
+Ne, At, 
+S, Te, Rn, 
+S, U, V, 
+La, Cr, Os, Se, 
+S, La, V, Es, 
+C, H, Ar, I, Ti, Es, 
+W, H, 
+S, Li, Ce, 
+B, N, 
+Pr, Es, S, U, Re, S, 
+Co, W, B, O, Y, S, 
+Fl, Am, Es, 
+K, B, P, S, 
+Au, F, 
+Es, P, 
+Ni, K, K, I, 
+Te, C, H, No, Ra, Ti, 
+P, Au, Se, 
+P, Os, Ts, Cr, I, Pt, 
+W, K, 
+Ga, B, O, N, 
+No, Ta, Ti, O, N, 
+Cr, O, W, 
+Ca, P, Ti, O, N, 
+At, V, 
+V, Ga, 
+At, Ar, I, 
+As, S, Es, 
+Sc, H, 
+Co, U, C, H, 
+In, S, P, I, Ra, Ti, O, N, Al, 
+F, As, O, 
+S, Cr, I, Pt, U, Re, 
+Mo, Th, Er, B, O, Ar, Ds, 
+Si, Ts, 
+S, He, Lv, Es, 
+O, P, Ti, C, 
+F, Ra, N, C, Es, 
+C, H, I, Li, 
+W, O, Nd, Er, S, 
+U, C, La, 
+As, S, O, C, 
+P, Al, O, 
+Re, F, U, N, Ds, 
+Ti, Na, 
+F, B, 
+Co, La, 
+B, O, I, Se, 
+Ne, V, I, S, 
+B, U, F, F, Y, 
+B, Ac, K, P, Ac, K, 
+N, Pr, 
+S, H, Er, At, O, N, 
+O, U, Ts, 
+Sn, Ac, K, S, 
+Pr, Og, Re, S, Si, O, N, 
+I, Mc, 
+U, F, O, 
+Li, N, K, S, Y, S, 
+Re, N, Al, 
+O, Dy, S, Se, Y, 
+S, P, I, Te, 
+N, Er, O, 
+Ca, P, I, Ta, 
+N, Y, Se, 
+In, Ac, Cu, Ra, C, I, Es, 
+P, Cr, 
+Li, N, Er, 
+Fr, Y, 
+Li, F, Ts, 
+S, Ta, Ti, O, N, Ar, Y, 
+Al, Li, S, O, N, 
+K, C, 
+Cr, As, H, Es, 
+S, Ta, Ir, S, 
+O, U, Tl, In, Es, 
+P, Og, O, 
+K, O, Ni, Ca, 
+Ho, Tl, I, Ne, 
+Am, P, S, 
+Ac, Co, U, N, Ta, N, Ts, 
+Ho, N, Es, Tl, Y, 
+Co, N, Ti, N, U, At, I, O, N, 
+F, Al, Co, N, 
+Ti, C, K, 
+La, Dy, B, O, Y, 
+H, U, S, Se, In, 
+Cr, I, Ti, C, 
+V, O, U, C, H, Er, 
+Ho, Ne, Y, Mo, O, N, 
+P, Er, Cu, S, Si, O, N, 
+Co, Ne, 
+F, I, Ni, S, H, Es, 
+Co, B, Ra, 
+Th, Re, W, 
+C, He, Ne, Y, 
+Ni, H, 
+Ho, C, 
+W, He, Re, In, 
+W, Al, S, H, 
+N, In, Th, 
+N, Os, 
+B, O, U, N, Ce, 
+S, P, Ir, Al, 
+S, S, H, 
+K, At, H, Er, I, Ne, 
+Ti, S, S, U, Es, 
+Ir, V, I, Ne, 
+Tl, 
+Ca, Ir, O, 
+Am, B, U, La, N, Ce, 
+V, I, V, O, 
+W, O, O, Dy, 
+Lr, 
+P, S, Y, C, H, I, C, 
+Cr, Ac, K, S, 
+V, I, Si, O, N, S, 
+Fr, Es, H, W, At, Er, 
+Pr, Es, Ti, Ge, 
+Co, Ca, I, Ne, 
+S, U, P, Ra, 
+K, U, 
+P, Al, Au, 
+S, Ca, Nd, Al, 
+C, K, 
+B, O, N, U, S, Es, 
+Sc, Am, 
+Sc, Re, Am, 
+P, I, Ra, Te, 
+Se, N, S, Es, 
+O, P, S, 
+Cu, Li, N, Ar, Y, 
+Be, C, K, 
+H, U, H, 
+Be, I, Ge, 
+Am, P, Li, F, I, Er, S, 
+O, F, Fe, Nd, Er, 
+W, Ar, W, I, C, K, 
+Co, Li, 
+Pr, O, F, 
+Ga, S, Es, 
+Ge, N, U, S, 
+Co, N, Ne, C, Ts, 
+Li, B, Er, Al, S, 
+S, In, S, 
+Co, U, S, In, 
+H, At, H, 
+I, Ca, N, N, 
+Cd, C, 
+B, Al, Co, N, Y, 
+Pr, Es, Cr, I, P, Ti, O, N, S, 
+H, Sn, 
+Pr, O, P, 
+K, Ne, Es, 
+N, F, 
+C, Lu, Tc, H, 
+S, H, Y, 
+Ba, Rb, Er, 
+S, Ta, 
+Er, In, 
+Fe, Rg, U, S, O, N, 
+Ho, Li, S, Ti, C, 
+B, At, O, N, 
+Cd, N, 
+P, W, 
+La, N, C, As, H, I, Re, 
+B, Ru, No, 
+S, La, V, Er, Y, 
+S, Ho, Re, S, 
+Th, Am, Es, 
+S, Au, Na, 
+S, U, S, Ta, In, 
+B, Au, Er, 
+Ca, I, C, Os, 
+Co, Sm, I, C, 
+Ti, V, O, 
+Be, Ac, O, N, 
+Ho, O, V, Er, 
+F, O, Re, N, Si, C, 
+B, O, Ta, Ni, C, Al, 
+C, Er, Am, I, Cs, 
+S, O, U, Th, W, Es, Te, Rn, 
+C, Md, 
+H, Y, P, Er, Te, N, Si, O, N, 
+Pa, Pa, 
+Pr, O, F, O, U, Nd, 
+Ni, Na, 
+Ac, U, Ra, 
+Se, Th, 
+W, Ar, N, 
+Co, N, S, Er, V, At, I, V, Es, 
+Co, P, S, 
+Pr, O, V, I, Si, O, N, Al, 
+Co, O, K, Er, 
+P, Es, O, 
+Ba, N, K, Er, 
+S, U, P, 
+In, Te, Rn, S, H, I, P, S, 
+B, Am, B, O, O, 
+Lv, 
+Sg, H, 
+K, I, 
+V, I, B, Ra, Ti, O, N, 
+H, Am, As, 
+U, Nd, Er, S, Ta, N, Ds, 
+He, At, Er, S, 
+Ac, Ce, N, Ts, 
+Ba, La, N, C, Es, 
+Co, At, S, 
+Ne, W, S, W, I, Re, 
+Hf, 
+S, Ta, I, Nd, 
+Re, S, O, Na, N, Ce, 
+F, I, Es, Ta, 
+F, Lu, Te, 
+H, I, Nd, I, 
+H, Ar, S, H, 
+W, Ho, I, S, 
+P, Er, Fe, C, Ti, O, N, 
+Li, U, 
+B, O, U, N, Ds, 
+K, Os, O, V, O, 
+C, H, Es, H, I, Re, 
+Na, Pa, 
+Ho, Mo, 
+P, I, Er, 
+Co, Te, 
+Ar, Ra, Y, S, 
+Rg, B, 
+P, Er, K, In, S, 
+Ac, Ti, V, I, Sm, 
+S, P, La, S, H, 
+Pr, O, Ba, Ti, O, N, 
+Fe, Nd, Er, 
+H, I, Tl, Er, 
+P, Re, Pa, Ra, Ti, O, N, S, 
+I, Nh, Er, I, Ta, N, Ce, 
+P, Ga, 
+Po, U, C, H, 
+Pr, O, P, Os, Es, 
+Ho, O, K, S, 
+C, Es, 
+Ar, Se, N, Al, 
+Sc, Re, W, S, 
+B, V, 
+Ta, I, 
+Co, Mo, 
+Li, S, P, 
+Li, Mo, U, Si, Ne, 
+Pa, K, 
+Mo, S, 
+S, Po, O, N, 
+Ni, C, He, 
+V, I, S, 
+B, Er, K, S, H, I, Re, 
+B, O, O, K, S, Ho, P, 
+C, H, In, 
+H, I, F, I, 
+Li, Be, Ra, Ti, O, N, 
+Re, Mo, V, Es, 
+Ti, Ta, N, 
+I, Nd, I, Re, C, Tl, Y, 
+K, Y, O, Ce, Ra, 
+H, U, B, S, 
+Bi, S, S, Au, 
+Co, N, V, In, Ce, 
+H, Pa, 
+U, N, C, Er, Ta, In, 
+F, Ge, Ts, 
+Re, U, Se, 
+Al, Co, Ho, Li, C, 
+Ba, K, Er, Y, 
+At, K, In, S, 
+C, Al, Cu, Lu, S, 
+B, Re, At, He, 
+O, U, N, C, Es, 
+S, Am, U, Ra, I, 
+At, P, 
+Mo, In, Es, 
+I, V, Y, 
+Co, N, Ge, S, Ti, O, N, 
+Ru, N, N, Er, S, 
+Cl, In, 
+Re, F, U, Ge, 
+B, Ra, Dy, 
+Ar, K, 
+O, B, S, Ta, Cl, Es, 
+C, B, C, 
+B, Lu, F, F, 
+Ne, W, B, O, Rn, 
+U, U, 
+H, At, C, H, 
+Re, P, La, C, Es, 
+S, Te, In, 
+Pr, O, F, Es, Si, O, N, S, 
+Au, Ti, Sm, 
+Cr, I, S, P, 
+S, Ca, N, S, 
+V, Ag, In, Al, 
+I, S, P, S, 
+Ni, C, 
+B, Ir, Th, S, 
+Kr, 
+Cu, B, S, 
+I, Ni, Ti, At, I, O, N, 
+Re, Co, N, C, I, Li, At, I, O, N, 
+Po, Ts, 
+P, Ar, S, Er, 
+Ra, Zr, 
+Te, N, Ts, 
+Cr, I, B, 
+Sn, Ac, K, 
+P, H, I, Li, P, P, I, Ne, 
+S, Ce, N, Er, Y, 
+Co, Ca, 
+Ac, S, 
+No, U, N, 
+Si, Li, Co, Ne, 
+C, Pa, 
+Ta, Ra, 
+Pr, O, Li, Fe, Ra, Ti, O, N, 
+H, W, 
+Pr, O, V, Es, 
+C, Ra, B, 
+B, O, Re, 
+I, Md, B, 
+C, Li, C, 
+Ar, S, 
+Co, W, S, 
+S, La, Te, 
+Po, Rn, Og, Ra, P, H, Y, 
+In, Te, N, Ti, O, N, S, 
+Pa, Ga, N, 
+S, Ac, 
+Be, N, S, O, N, 
+S, K, I, Es, 
+B, U, Rn, Er, S, 
+Al, I, S, O, N, 
+K, I, C, K, S, 
+S, V, N, 
+F, O, Re, Cl, Os, U, Re, S, 
+Pr, O, Pa, Ga, Ti, O, N, 
+Mo, O, Dy, 
+He, Al, 
+H, Ar, Db, Ac, K, 
+P, La, N, Ta, Ti, O, N, 
+P, As, Si, O, Na, Te, 
+Ge, O, F, F, 
+Sc, Ra, P, 
+Be, Ne, F, I, C, I, Ar, I, Es, 
+S, O, C, K, 
+Co, P, I, Er, 
+C, H, Ar, Co, Al, 
+O, V, Er, La, P, 
+F, O, Re, Cl, Os, U, Re, 
+Cl, Ar, I, F, I, Ca, Ti, O, N, 
+Es, Pr, Es, S, O, 
+F, N, 
+C, Ru, I, S, Er, 
+He, N, 
+N, U, Cl, Eu, S, 
+Te, Es, 
+S, Co, U, Ts, 
+I, B, 
+V, Er, B, 
+Te, C, 
+C, H, I, C, 
+No, N, Li, Ne, Ar, 
+No, I, S, Y, 
+C, Si, 
+S, O, C, I, O, 
+Ne, Al, 
+S, Ta, K, Es, 
+B, Li, S, S, 
+Te, N, S, 
+P, Ar, Se, 
+Ds, P, 
+Re, No, V, At, I, O, N, 
+Pa, N, Th, Er, S, 
+P, Er, Ce, P, Ti, O, N, S, 
+C, La, Re, 
+Fl, Y, Er, S, 
+Re, C, Og, Ni, Se, 
+Es, Ta, B, Li, S, H, Es, 
+W, H, I, Te, S, 
+Fr, In, Ge, 
+Xe, Ni, C, Al, 
+Na, Y, 
+Re, Ge, N, Ts, 
+Co, N, Ce, P, Ti, O, N, 
+Pr, I, V, At, 
+O, V, Er, Fl, O, W, 
+Th, Ir, Ds, 
+In, Te, Rn, 
+N, S, F, 
+O, P, Po, Se, 
+C, He, Er, 
+V, I, Ne, 
+W, He, Re, B, Y, 
+S, P, Ar, K, S, 
+Ca, Pt, U, Re, S, 
+Ca, P, I, Ta, Li, Sm, 
+F, Al, K, La, Nd, 
+Cl, Am, P, 
+Ru, S, S, 
+Li, Mo, 
+V, In, 
+S, U, C, C, Es, S, Es, 
+Ra, C, Er, 
+N, As, H, 
+I, S, S, 
+Be, Ts, 
+Pa, In, Ts, 
+V, In, Ce, 
+Ta, S, Te, S, 
+P, Ar, Am, 
+Sc, Ru, Ti, N, Y, 
+Re, Ge, Ne, Ra, Ti, O, N, 
+Lu, N, Ar, 
+No, N, Se, N, Se, 
+N, C, Bi, 
+In, S, Er, Ts, 
+Mo, B, 
+Ar, I, S, Es, 
+P, Re, C, Au, Ti, O, N, S, 
+Dy, S, F, U, N, C, Ti, O, N, 
+Li, Sb, O, N, 
+Mo, N, K, 
+Cl, Er, I, C, Al, 
+V, O, Y, Ag, Er, 
+Mo, O, Se, 
+C, He, C, K, Er, 
+C, Ru, S, H, 
+Ca, Th, Y, 
+S, O, Li, C, I, Ta, Ti, O, N, 
+Cm, P, 
+F, I, Sc, H, Er, 
+Po, O, H, 
+S, Ts, 
+I, C, H, 
+In, S, P, I, Re, 
+Re, V, I, V, Al, 
+Re, Ge, N, C, Y, 
+Sb, C, 
+Mc, C, Ar, Th, Y, 
+He, C, K, 
+Ra, N, Ts, 
+B, Ar, K, 
+C, Ar, Ts, 
+In, V, I, Te, S, 
+Cu, S, H, I, O, N, 
+Pa, N, Th, Er, 
+Li, S, Te, N, Er, 
+Be, C, K, Er, 
+Cl, Ar, K, S, O, N, 
+Y, Y, 
+Be, Ne, F, I, C, I, Ar, Y, 
+K, Ir, I, Ba, Ti, 
+W, As, Te, S, 
+Cl, As, H, 
+Bi, K, Er, 
+Si, S, 
+F, I, Na, N, C, I, Al, S, 
+N, Au, Ru, 
+S, O, Li, Ta, I, Re, 
+W, Al, Li, S, 
+I, Os, 
+Re, Ti, Re, 
+Y, Ds, 
+S, Ta, In, 
+Cu, Rb, 
+Ti, C, K, Er, 
+Cl, Au, S, Es, 
+B, Ar, O, N, 
+Re, Mo, V, Er, 
+B, At, Es, 
+No, V, I, Ce, 
+Ca, Ne, 
+P, Er, S, O, Na, Li, Ti, Es, 
+S, Ti, F, F, 
+W, O, Re, 
+Ra, B, Bi, 
+S, U, S, H, I, 
+Pu, F, F, Y, 
+O, N, Si, Te, 
+H, Am, Mo, Nd, 
+C, Ir, Ca, 
+Re, V, I, Se, 
+Mg, Mt, 
+Re, F, U, S, Al, 
+S, U, P, Pr, Es, Si, O, N, 
+Ce, Rn, 
+F, I, S, H, Er, Y, 
+In, Te, N, Ds, 
+Ce, Re, Br, Al, 
+I, V, O, I, Re, 
+B, Ac, K, W, Ar, Ds, 
+P, C, B, 
+Pr, Es, 
+Es, Th, Er, 
+P, La, Y, O, F, F, S, 
+Pr, I, Es, Ts, 
+He, Si, Ta, Te, 
+P, Re, Y, 
+Ta, S, 
+Co, Nd, I, Ti, O, N, Er, 
+P, La, In, Ti, F, F, S, 
+Ru, B, 
+V, I, O, La, Te, 
+Re, Al, I, Se, 
+F, Lu, I, Ds, 
+Li, C, K, 
+S, Te, Al, Th, 
+N, Es, S, 
+Ca, No, P, Y, 
+Cr, C, 
+W, H, I, P, 
+C, Hf, 
+Co, N, S, Ta, N, Ts, 
+C, Lr, 
+Co, N, C, I, Se, 
+F, I, B, Er, S, 
+B, Ra, In, S, 
+Pr, O, H, I, Bi, Ti, O, N, 
+Mo, Ti, O, N, S, 
+S, H, Am, Po, O, 
+Ne, O, P, La, Sm, S, 
+Ar, Ti, F, Ac, Ts, 
+V, Ac, 
+S, In, K, S, 
+C, Ar, At, 
+Na, N, 
+Sc, Ra, Pb, O, O, K, 
+P, Ag, I, Na, 
+U, S, S, 
+Al, K, Al, I, Ne, 
+O, C, H, 
+W, W, I, I, 
+C, Am, Pu, S, Es, 
+Te, S, Co, 
+Co, N, V, Er, Si, O, N, S, 
+Ac, Db, Li, Ne, 
+Re, S, Po, N, Ds, 
+S, La, Y, Er, 
+Pa, Y, Ne, 
+Pr, Og, 
+B, In, S, 
+Re, Li, Es, 
+Ti, Be, Ta, N, 
+P, Re, P, Ar, Es, 
+C, Y, Li, Nd, Er, S, 
+S, P, Ar, Es, 
+Ag, P, 
+S, Al, O, N, S, 
+Ra, N, C, Ho, 
+H, Ac, K, S, 
+At, Ti, C, 
+Se, N, S, At, I, O, N, 
+P, I, P, Er, 
+S, K, In, N, Y, 
+Es, Ta, 
+Am, Os, 
+W, Re, Tc, H, 
+W, O, 
+U, N, C, 
+Fe, At, H, Er, 
+F, O, Nd, 
+S, O, Re, 
+F, I, At, 
+B, Li, N, Ds, 
+Si, C, K, N, Es, S, 
+U, Nd, Er, Ne, At, H, 
+Ca, N, S, 
+S, Ar, As, O, Ta, 
+B, Ru, S, H, Es, 
+Te, N, Th, 
+K, K, 
+N, Es, 
+Pr, O, Te, S, Ts, 
+S, H, Ar, K, S, 
+No, Tc, H, 
+F, Er, Na, Nd, O, 
+Li, Eu, 
+La, C, K, S, 
+F, Ra, 
+Am, Bi, Ti, O, U, S, 
+Re, Ds, 
+S, Te, P, He, N, S, 
+Au, Th, 
+S, U, Ga, Ba, B, Es, 
+W, H, I, S, Tl, Er, 
+P, Os, Es, 
+Th, S, 
+No, Ir, 
+La, Y, O, U, Ts, 
+Ti, Ta, Ni, C, 
+K, No, B, 
+W, O, Lv, Es, 
+H, Er, P, Es, 
+F, In, Es, 
+O, U, N, Ce, 
+Bh, 
+Li, B, Er, Ti, Es, 
+Re, B, O, U, N, Ds, 
+U, N, Es, Co, 
+S, Ta, N, Ce, 
+B, O, Ca, 
+K, In, K, Y, 
+I, I, S, 
+P, Re, Te, Nd, 
+C, H, Ir, O, Pr, Ac, Ti, C, 
+W, Ar, Ra, N, Ts, 
+O, I, 
+Pu, 
+W, H, I, C, He, V, Er, 
+V, Ac, C, In, Es, 
+C, Ho, Os, Es, 
+U, N, Re, Al, 
+W, O, U, N, Ds, 
+P, Er, Ce, N, Ta, Ge, S, 
+Pr, O, B, Es, 
+Am, Er, I, Ca, Na, 
+I, Nh, I, Bi, Ti, O, N, 
+C, Er, Ti, F, I, Ca, Ti, O, N, S, 
+In, V, Er, Se, 
+I, Si, S, 
+In, Cu, B, U, S, 
+Ti, S, 
+Ca, B, In, S, 
+Li, Ne, N, S, 
+Co, N, V, Er, Ts, 
+Bi, C, Y, Cl, Es, 
+O, Mn, I, 
+C, Y, 
+Re, C, I, Pr, O, C, Al, 
+I, Nd, I, Ca, Ti, O, N, S, 
+H, Y, P, Er, Li, N, K, 
+Pr, Es, Ar, I, O, 
+Be, Es, 
+S, H, In, Y, 
+Sm, As, H, 
+U, N, S, U, Re, 
+Br, Au, N, 
+Ta, C, 
+Co, U, N, Tl, Es, S, 
+As, H, La, Nd, 
+Li, S, Te, N, Er, S, 
+S, O, P, Ho, Mo, Re, 
+S, Ca, Rf, 
+O, B, S, Cu, Re, 
+Pr, In, C, I, P, Al, S, 
+S, P, I, C, Y, 
+Mo, V, 
+I, Ti, N, Er, Ar, Y, 
+Mo, C, K, 
+Ba, Ts, 
+Ru, In, S, 
+S, He, I, La, 
+B, U, Rg, Er, 
+H, Y, P, Er, 
+Li, N, K, In, 
+C, Y, Pr, Es, S, 
+C, I, Te, S, 
+C, Ho, Co, La, Te, S, 
+Pa, Sc, Al, 
+O, Re, 
+Al, I, Ba, Ba, 
+Ge, O, F, F, Re, Y, 
+N, F, S, 
+Ca, I, Rn, S, 
+C, In, Na, Mo, N, 
+La, C, 
+Al, Ba, 
+La, W, S, U, I, Ts, 
+S, Ir, I, U, S, 
+V, O, U, S, 
+Re, P, La, Y, 
+P, La, Ce, B, O, 
+Ir, O, N, S, 
+Be, Rg, 
+B, Al, Ti, C, 
+S, Y, Ru, P, 
+W, Ar, Mt, H, 
+V, Er, S, Es, 
+Lu, Na, 
+B, Ar, K, Er, 
+S, O, Li, Ds, 
+C, Er, Ti, F, Y, 
+C, Pu, S, 
+Sb, In, 
+Ni, P, 
+Bi, Te, S, 
+Pr, O, Se, 
+Cl, O, W, N, 
+S, Po, N, Ta, Ne, O, U, S, 
+Ta, B, O, O, 
+Ca, P, Ac, I, Ti, Es, 
+Ts, P, 
+Bi, S, 
+S, Ho, C, K, S, 
+B, At, Ta, Li, O, N, 
+La, S, Er, S, 
+Ca, Es, Ar, 
+Po, W, Er, P, C, 
+P, In, Es, 
+F, U, C, K, S, 
+Re, La, Ti, O, N, Al, 
+Pu, S, Si, Es, 
+U, Rg, Es, 
+Ti, F, F, 
+Cn, C, 
+Re, Fr, I, Ge, Ra, Ti, O, N, 
+Na, Tl, 
+Al, Te, Ra, Ti, O, N, S, 
+Bi, Og, Ra, P, H, I, C, Al, 
+Pr, O, Ba, Te, 
+Be, Am, S, 
+Pr, O, P, S, 
+In, Ce, N, Se, 
+Ar, C, H, I, V, Al, 
+Se, I, Sm, I, C, 
+B, Ac, C, Ar, At, 
+B, O, O, Ne, 
+Na, N, N, Y, 
+S, U, B, U, Rb, 
+H, U, Tc, H, In, S, O, N, 
+S, Mo, K, Er, S, 
+S, U, C, C, Es, Si, O, N, 
+Li, N, Eu, P, 
+Cl, Ar, I, O, N, 
+S, Ar, 
+B, U, Rg, U, N, Dy, 
+S, O, Ho, 
+As, H, Es, 
+N, At, Al, 
+P, Sc, 
+P, Ho, Ne, P, Ho, Ne, 
+Fr, I, C, Ti, O, N, 
+Pr, O, Ne, 
+F, U, Se, 
+Po, P, S, 
+At, La, N, Ti, S, 
+O, Ni, O, N, S, 
+Cr, Os, S, Es, 
+I, S, S, U, Er, 
+C, Lu, Es, 
+Ra, B, Bi, Ts, 
+I, C, C, 
+C, Re, W, S, 
+C, Er, V, I, C, Al, 
+Ba, P, Ti, Sm, 
+Cu, Tl, Er, Y, 
+U, S, Er, P, I, C, 
+Ac, Ta, 
+S, U, S, P, I, C, I, O, U, S, 
+Ta, Te, 
+Co, O, P, 
+S, Ca, Re, 
+Co, N, F, Es, Si, O, N, S, 
+B, Er, Ge, N, 
+Kr, I, S, 
+Pr, I, S, O, N, S, 
+S, P, I, 
+N, Au, Ti, C, Al, 
+P, I, Tc, H, Er, 
+S, Ta, N, Db, Y, 
+Mo, Ti, F, 
+S, Al, O, O, N, 
+Pr, O, P, He, C, Y, 
+Ar, In, 
+Ca, N, Na, Bi, S, 
+Al, Ta, 
+Po, W, Er, B, O, O, K, 
+P, Ar, S, O, N, S, 
+In, F, I, Ni, Ti, 
+B, La, N, C, 
+B, Ir, C, H, 
+S, U, P, P, 
+S, La, S, H, 
+B, Ac, K, P, Ac, K, S, 
+Sc, Al, Ar, 
+He, P, 
+Se, I, K, O, 
+Ar, I, Al, 
+Ho, U, Se, W, I, Fe, 
+H, Cl, 
+S, Co, 
+Y, Ac, H, Ts, 
+S, Ta, C, Y, 
+Co, Sm, Os, 
+Pa, N, S, 
+As, S, Er, Ti, O, N, 
+P, Hs, 
+H, I, Er, Ar, C, H, I, C, Al, 
+S, Ho, O, K, 
+S, U, Rn, Am, Es, 
+O, V, Er, La, Nd, 
+B, Ac, K, B, O, Ne, 
+Am, Es, 
+C, He, N, Na, I, 
+Fe, Tc, H, 
+K, I, Tc, He, N, S, 
+I, O, N, S, 
+W, At, 
+Re, Y, 
+B, La, C, K, B, U, Rn, 
+F, O, U, Nd, Er, S, 
+S, In, C, La, Ir, 
+I, Nd, U, Ce, 
+Po, P, Co, Rn, 
+U, Ni, Te, 
+S, He, Ar, 
+F, Ra, N, C, H, I, S, Es, 
+B, O, O, 
+Po, N, Ds, 
+Ar, C, H, Er, Y, 
+Re, F, U, S, Es, 
+Ru, In, 
+Na, Te, 
+V, I, S, As, 
+P, As, S, Ag, Es, 
+V, U, 
+Ce, Re, Al, 
+S, Y, 
+C, H, Am, P, 
+H, Os, P, I, Ce, 
+I, K, 
+Re, Ca, P, 
+Hg, H, 
+F, La, W, S, 
+Es, Te, 
+S, U, B, W, O, O, F, Er, 
+Ac, K, 
+Al, Te, Ra, Ti, O, N, 
+Ho, Ts, Po, Ts, 
+Ce, N, Te, N, Ni, Al, 
+S, P, I, C, Es, 
+U, N, C, Er, Ta, In, Ti, Es, 
+La, Te, N, C, Y, 
+Be, I, 
+S, U, B, Si, Dy, 
+I, Re, Ne, 
+V, Er, O, Ni, Ca, 
+V, In, C, I, 
+S, U, B, Ti, Tl, Es, 
+Te, Nd, Er, S, 
+O, V, 
+O, Be, Y, 
+B, O, As, Ts, 
+Os, S, 
+K, I, Rb, Y, 
+As, C, 
+N, S, U, 
+C, Ar, Y, 
+Ce, Li, Ne, 
+W, K, S, 
+Bi, S, Ho, P, S, 
+K, I, Te, 
+B, Y, La, W, S, 
+La, O, 
+S, Au, Nd, Er, S, 
+C, As, H, I, Er, 
+K, No, Ts, 
+Mo, Ti, V, At, I, O, N, Al, 
+O, F, Fe, N, C, Es, 
+P, Al, S, 
+Re, Al, I, Ti, Es, 
+S, Am, S, O, N, 
+In, Dy, 
+Pa, N, Te, Ra, 
+S, No, O, P, 
+W, In, Er, Y, 
+Rb, I, 
+Co, N, Ti, N, Ge, N, C, Y, 
+O, V, Er, La, Y, 
+W, Ra, P, S, 
+W, Ar, N, S, 
+F, Y, I, 
+Pa, K, I, S, Ta, Ni, 
+I, Cs, 
+Bi, Tc, H, Es, 
+B, Ra, V, O, 
+Se, C, Sg, 
+F, Ra, N, Co, 
+Am, At, U, Re, 
+S, W, Ar, O, V, S, K, I, 
+P, Er, Si, S, Te, N, Ce, 
+Co, Ar, Se, 
+Co, N, Ti, Ne, N, Ts, 
+Cl, As, Si, C, V, Ac, At, I, O, N, S, 
+Ar, C, H, Er, 
+F, H, 
+C, Al, F, 
+Am, S, 
+P, Ar, K, In, S, O, N, 
+C, He, C, K, B, O, Xe, S, 
+Dy, 
+I, S, La, Nd, Er, 
+Ni, Co, La, S, 
+In, Fe, Re, N, Ce, 
+Ra, S, 
+P, He, 
+C, H, At, Ta, No, O, Ga, 
+S, H, Ac, K, 
+Er, S, 
+Li, Ce, N, C, Es, 
+B, O, Se, 
+Ta, V, Er, N, 
+F, O, U, N, Ta, In, S, 
+S, Es, 
+Cl, O, N, Es, 
+Cr, Os, S, O, V, Er, 
+Ru, No, F, F, 
+Ca, F, Es, 
+Cl, As, Sm, At, Es, 
+H, I, Tc, H, 
+Ca, N, C, Er, S, 
+C, La, Re, N, Ce, 
+Ga, Rn, Er, 
+N, As, S, Au, 
+F, La, P, 
+C, Ar, Te, 
+Te, As, Po, O, N, 
+W, O, O, 
+Pa, In, S, 
+W, Ra, P, P, Er, 
+B, Sc, 
+S, O, B, Re, 
+Ce, Re, Mo, Ni, Es, 
+S, At, I, S, F, I, Es, 
+B, B, B, 
+S, U, P, P, Er, 
+O, F, Fe, N, S, Es, 
+S, O, Na, Ta, 
+In, Ac, Cu, Ra, Te, 
+H, V, Ac, 
+Pu, B, Li, S, H, Es, 
+S, Ta, C, K, S, 
+N, W, S, 
+B, U, Sc, H, 
+S, Er, Mo, N, 
+Ta, P, S, 
+I, Nb, O, U, Nd, 
+O, At, H, 
+P, I, Ge, O, N, 
+Bi, Nd, Er, 
+He, Li, Co, Pt, Er, S, 
+Ga, La, 
+S, O, F, Tc, O, V, Er, 
+Ga, V, In, 
+La, S, Ts, 
+K, I, Ne, Ti, C, 
+Ca, F, Fe, I, Ne, 
+Ni, B, 
+In, No, Ce, N, Ce, 
+S, La, C, 
+At, Ta, In, 
+V, Ac, C, I, Na, Ti, O, N, 
+F, Ar, Th, Er, 
+C, H, At, S, 
+F, At, S, 
+S, H, I, Re, 
+S, K, Y, Li, Ne, 
+Sc, Am, S, 
+Ta, O, 
+Lu, S, H, 
+W, Er, N, Er, 
+P, La, Y, O, F, F, 
+S, Ti, 
+Ir, W, In, 
+B, Re, W, Er, 
+F, Ra, N, 
+C, C, C, 
+W, H, Al, Es, 
+Li, Nd, Se, Y, 
+P, Ar, Ti, Ti, O, N, S, 
+Se, Ar, C, H, Se, Ar, C, H, 
+Pr, I, Sm, 
+Fl, O, P, 
+He, H, 
+Re, S, Ts, 
+P, Re, N, Ti, Ce, 
+S, Y, Ne, Rg, Y, 
+C, At, Al, Og, U, Es, 
+As, P, I, Re, 
+Ge, O, Rg, Es, 
+O, P, Ra, H, 
+Be, Er, S, 
+Ca, N, Ar, Y, 
+Am, C, 
+K, Os, 
+Ge, Ar, S, 
+Cu, F, F, 
+Am, At, U, Er, 
+Re, P, S, 
+H, N, 
+Rh, I, No, 
+Ta, U, 
+La, N, Te, Rn, 
+Ca, Tc, H, Es, 
+P, S, U, 
+Ar, O, Se, 
+C, H, At, H, Am, 
+Be, C, K, Y, 
+K, La, U, S, 
+S, K, In, Ca, Re, 
+H, Er, O, In, 
+Ho, Ga, N, 
+O, Mg, 
+Am, Bi, Ti, O, N, 
+Be, Rg, Er, 
+Co, Re, Y, 
+S, Po, U, S, Es, 
+S, Li, P, S, 
+V, V, 
+S, Te, W, Ar, Ds, H, I, P, 
+Cu, Es, 
+K, I, S, S, Es, 
+Fl, O, C, K, 
+H, Y, P, No, Si, S, 
+K, At, 
+S, Os, 
+Se, Xe, 
+F, U, Rn, I, S, H, 
+Ga, O, 
+Ru, B, Bi, S, H, 
+S, W, Am, P, 
+W, F, 
+U, Md, 
+Gd, B, 
+U, P, S, Ta, Ir, S, 
+Br, O, 
+O, F, F, S, 
+Li, S, Ts, Er, V, 
+Co, Nd, 
+S, Li, C, Es, 
+Co, Dy, 
+La, W, S, O, N, 
+I, U, 
+V, F, 
+F, I, Er, Ce, 
+H, I, P, S, 
+Re, Ne, 
+Po, Si, Ti, V, Es, 
+H, U, N, K, 
+Co, N, V, Er, Se, 
+Fr, O, N, Tl, I, Ne, 
+Th, B, 
+W, In, Am, P, 
+I, Ta, 
+W, Ar, W, I, C, K, S, H, I, Re, 
+H, Ar, P, 
+P, H, At, 
+Es, Cr, O, W, 
+W, Es, 
+Ta, C, K, 
+In, F, Os, Pa, Ce, 
+S, Ac, K, 
+S, U, Rf, Er, S, 
+C, P, C, 
+C, As, U, Al, Ti, Es, 
+I, P, Se, C, 
+Mo, N, Ar, C, H, 
+N, As, Al, 
+S, Ar, S, 
+V, La, N, 
+H, I, Er, 
+S, P, Ru, Ce, 
+Re, C, H, Er, C, He, 
+Se, Cs, 
+Ac, Co, U, N, Ta, N, C, Y, 
+Cl, Au, S, 
+B, Ra, V, Es, 
+S, Ho, O, Ts, 
+Cl, O, V, Er, 
+K, I, Nd, N, Es, S, 
+K, V, 
+S, Na, K, Es, 
+U, Na, Ni, Mo, U, S, 
+S, Cr, I, Pt, U, Re, S, 
+Ac, O, U, S, Ti, Cs, 
+At, K, In, S, O, N, 
+Cr, S, 
+S, Si, 
+In, V, O, I, C, Es, 
+V, I, Rg, In, S, 
+F, Ir, S, Tl, Y, 
+S, U, S, P, I, C, I, O, N, 
+H, I, C, K, S, 
+Al, Mo, Nd, 
+Pr, I, Ce, Ru, N, N, Er, 
+C, At, Al, Y, Ti, C, 
+H, Ar, 
+F, Ra, N, Ca, I, S, 
+C, H, Al, K, 
+Co, B, B, 
+La, Ra, 
+P, Ir, Ac, Y, 
+In, V, I, Ta, Ti, O, N, Al, 
+B, La, N, Ca, 
+W, Ra, Th, 
+O, P, Al, 
+H, At, C, H, B, Ac, K, 
+Rf, P, 
+O, B, S, Es, Si, O, N, 
+Ba, N, K, Er, S, 
+S, U, B, Cl, As, S, 
+S, In, Ce, Re, 
+F, I, Be, Rg, La, S, S, 
+Na, P, 
+Br, O, N, C, Os, 
+Co, O, K, S, 
+La, U, Re, N, Ce, 
+Ra, In, Y, 
+Th, O, 
+Cl, As, Si, F, I, Ca, Ti, O, N, S, 
+S, Cr, 
+He, Al, Th, I, Er, 
+U, S, Sr, 
+Li, N, Er, S, 
+Kr, I, S, Ti, N, 
+V, I, O, La, 
+Ru, S, Ti, C, 
+Co, Nd, U, C, Ts, 
+B, O, Ts, 
+S, In, At, Ra, 
+C, As, Tl, Es, 
+No, Ti, O, N, S, 
+P, La, Te, Au, 
+W, Re, C, K, 
+P, Db, 
+Br, O, C, K, 
+Cr, O, W, Ds, 
+Ho, O, P, S, 
+He, He, 
+S, V, C, 
+Cr, O, Sb, Y, 
+P, Te, 
+Ra, S, H, 
+Ho, Rn, S, 
+C, P, S, 
+Ta, Li, Ba, N, 
+Re, V, Er, S, Al, 
+S, Ho, Re, Li, Ne, 
+Pr, Es, S, Es, 
+W, Es, Ti, N, 
+Y, V, Es, 
+V, O, 
+N, Er, V, Es, 
+S, Ho, P, P, Y, 
+Re, Ta, In, S, 
+Po, W, 
+At, Re, Y, U, 
+P, I, La, Te, S, 
+P, Ac, K, Er, S, 
+Pr, O, V, Er, B, S, 
+Li, C, 
+C, La, Ir, 
+F, Te, 
+Re, Al, I, Sm, 
+S, Tl, 
+C, Re, Te, 
+Fr, Ac, Ti, O, N, S, 
+I, Nd, I, Es, 
+Ti, V, O, Li, 
+Cm, Os, 
+W, Ar, P, 
+P, La, Y, Li, S, Ts, 
+C, At, Ho, Li, Cs, 
+I, Mo, 
+B, U, F, F, Er, S, 
+K, O, Be, 
+In, Ce, P, Ti, O, N, 
+O, Tc, 
+S, U, B, V, Er, Si, O, N, 
+Be, N, N, Y, 
+S, P, Ir, Es, 
+B, Ar, Ne, Y, 
+S, Cl, Er, O, Si, S, 
+O, Db, C, 
+I, Po, Ds, 
+C, H, Am, P, S, 
+S, H, U, I, 
+Sc, Ar, Ce, 
+S, Ta, Ti, S, Ti, C, 
+Ca, Ni, Ne, 
+B, Re, W, Er, Y, 
+B, Re, W, 
+K, Er, N, 
+Co, U, P, 
+Ca, N, N, Es, 
+C, As, S, 
+F, O, Re, 
+U, F, 
+Al, P, S, 
+Pr, O, P, He, Ts, 
+O, W, 
+S, Li, C, K, 
+U, Nd, Er, O, At, H, 
+C, H, U, N, K, 
+H, B, O, 
+Ho, P, P, Er, 
+S, U, S, 
+S, U, B, S, 
+S, Ta, Rb, U, C, K, S, 
+I, B, O, O, K, 
+K, H, 
+Lu, N, C, He, O, N, 
+Y, I, 
+Br, O, W, N, S, 
+Co, P, I, Er, S, 
+S, O, F, Tl, Y, 
+Sc, Ru, B, 
+In, Te, S, Ti, N, Al, 
+W, La, N, 
+S, U, F, F, Er, S, 
+O, C, Cu, P, Y, 
+Ga, N, 
+Ca, V, Es, 
+K, I, Ne, Ti, Cs, 
+Co, C, Os, 
+K, O, C, H, 
+Al, Bi, O, N, 
+S, U, Th, Er, La, Nd, 
+P, S, Y, C, Ho, 
+V, I, Si, Ta, Ti, O, N, 
+B, Ag, Ga, Ge, 
+Se, Re, Na, 
+S, At, I, Re, 
+P, I, O, Ne, Er, S, 
+C, Ra, Te, 
+S, Cm, 
+F, No, 
+S, W, O, Rn, 
+V, I, C, I, O, U, S, 
+K, In, 
+K, O, H, 
+Pu, S, S, Y, C, At, 
+S, Pd, 
+S, Li, P, P, Er, S, 
+V, I, Ne, Y, Ar, Ds, 
+Am, Er, 
+Fr, Og, S, 
+F, P, S, 
+Ag, N, Es, 
+Al, As, 
+Te, N, Se, 
+F, I, Li, P, I, No, 
+Ar, Te, 
+Lu, V, 
+W, At, K, In, S, 
+C, Ho, P, 
+Be, N, C, H, Es, 
+F, O, O, Li, S, H, 
+F, Ir, 
+Mo, Ra, N, 
+Ho, O, P, 
+F, I, O, Na, 
+V, N, 
+Fl, O, O, Ds, 
+Mo, V, Er, 
+Er, I, Ca, 
+F, Ra, N, Co, I, S, 
+As, P, Ir, In, 
+Be, Ts, Y, 
+S, H, Au, N, 
+F, Au, Na, 
+C, Li, F, F, S, 
+Fe, At, H, Er, S, 
+F, Al, Co, N, S, 
+B, Ra, N, S, O, N, 
+Si, O, N, 
+Fl, As, H, Es, 
+Pr, Ac, 
+C, Ar, Er, S, 
+Kr, Am, Er, 
+H, Ar, Mo, Ni, C, 
+S, H, In, 
+F, La, W, 
+Pa, Ne, 
+C, Re, 
+S, Au, C, Es, 
+Mc, Co, Y, 
+Pr, O, Ba, Bi, Li, Ti, Es, 
+V, I, Be, 
+S, Na, P, S, Ho, Ts, 
+U, B, C, 
+Te, As, 
+Pr, I, 
+C, Ar, Ti, Er, 
+S, P, Li, Ts, 
+Pr, O, Te, C, Ti, O, N, S, 
+Al, I, As, Es, 
+Se, C, Ti, O, N, Al, 
+H, Og, 
+Te, S, Ti, F, Y, 
+Cl, Er, K, S, 
+Ni, Te, 
+S, Al, 
+Ba, Rb, 
+H, U, N, S, 
+F, As, H, I, O, N, S, 
+Mc, Se, 
+Au, Ra, 
+S, Po, N, Ge, 
+Cs, U, 
+Al, Ge, B, Ra, I, C, 
+As, Tm, 
+Kr, I, S, Te, N, 
+No, U, S, 
+Mo, U, Nd, 
+S, Gd, 
+S, Na, Tc, H, 
+O, B, S, 
+Ca, O, 
+La, Dy, B, O, Y, S, 
+B, U, F, F, 
+B, U, Tc, H, Er, 
+C, He, F, S, 
+In, S, P, Ir, O, N, 
+Pa, Ge, Ra, N, K, 
+Sm, B, 
+B, Lu, 
+In, V, Er, N, Es, S, 
+O, Rb, 
+B, Se, 
+B, Ra, N, Dy, 
+Sc, I, O, N, 
+F, U, N, C, 
+S, Ta, Nd, Al, O, Ne, 
+Ho, O, Ds, 
+Br, Os, 
+F, I, Re, P, La, C, Es, 
+Te, H, Ra, N, 
+Ca, B, Ba, Ge, 
+Cu, B, 
+Ar, Re, S, Ts, 
+P, S, Y, 
+Mo, C, 
+Al, V, In, 
+Pr, O, B, 
+Ac, Es, 
+Ho, U, Nd, 
+Ba, N, K, Ru, P, Tc, I, Es, 
+Ga, U, Ge, S, 
+Mc, Ca, In, 
+W, H, Ar, F, 
+F, Li, C, K, 
+B, Os, 
+W, W, F, 
+Ba, N, F, F, 
+S, Mc, 
+S, Er, V, 
+I, Po, 
+Te, K, 
+I, P, C, 
+Bi, B, 
+F, Lu, O, Re, S, Ce, N, Ce, 
+K, Os, H, Er, 
+C, H, I, Co, 
+Ir, O, N, Y, 
+H, Y, 
+C, Am, P, Er, 
+C, Pr, 
+Co, N, V, I, C, Ti, O, N, S, 
+La, Si, K, 
+In, Te, N, Ti, O, N, Al, 
+Ga, La, C, Ti, C, 
+Pr, O, H, I, Bi, Ts, 
+Pr, O, N, U, N, C, I, At, I, O, N, 
+I, H, 
+Co, N, C, Es, Si, O, N, 
+Am, I, 
+Am, I, Ga, 
+P, H, Os, P, Ho, Ru, S, 
+V, I, P, Er, 
+C, Y, C, Li, C, 
+Co, U, S, In, S, 
+W, Es, Te, Rn, S, 
+N, K, 
+B, In, Ds, 
+Ga, Nd, H, I, 
+In, K, S, 
+W, In, K, 
+F, La, Re, 
+Sc, Ho, La, S, Ti, C, 
+In, S, Er, Ti, O, N, S, 
+O, Cr, 
+F, I, Fe, 
+Ge, N, Er, Al, S, 
+C, Ra, N, K, 
+C, Re, Am, Y, 
+Ra, In, S, 
+B, Ra, Ce, 
+B, Ac, K, U, P, S, 
+W, As, H, Er, S, 
+Xe, O, N, 
+S, U, P, Pr, Es, S, 
+V, I, O, La, Te, S, 
+Th, N, 
+Se, P, Ar, At, Es, 
+Pr, O, O, F, S, 
+Bi, Os, Y, N, Th, Es, I, S, 
+No, La, N, 
+W, O, Nd, Er, La, Nd, 
+In, F, U, Si, O, N, 
+Co, N, N, 
+Po, Li, Te, 
+Si, Th, 
+C, Y, Cl, O, Ne, 
+C, Ar, La, 
+B, Re, Th, Re, N, 
+F, Ac, I, Li, Ta, Te, S, 
+Ra, Mo, N, Es, 
+Be, Rn, S, Te, In, 
+S, K, I, S, 
+C, Al, C, 
+I, Tc, 
+Li, P, S, Ti, C, K, 
+Lu, Lu, 
+W, In, Dy, 
+B, Re, N, Na, N, 
+S, At, U, Ra, Ti, O, N, 
+Al, Am, O, 
+V, I, Ta, 
+S, Te, Er, 
+W, H, I, S, P, Er, 
+I, P, S, W, I, C, H, 
+F, La, 
+Co, N, F, Es, Si, O, N, 
+F, As, Te, N, Er, S, 
+Br, I, C, K, S, 
+F, I, S, H, Es, 
+K, No, B, S, 
+Ta, U, Ru, S, 
+No, Ra, 
+S, Al, Ts, 
+I, Te, Ra, Ti, O, N, 
+K, P, 
+I, Bi, S, 
+Y, Y, Y, Y, 
+S, O, U, P, S, 
+S, P, P, 
+S, He, I, K, H, 
+K, I, W, I, 
+C, Es, S, At, I, O, N, 
+P, Es, Ts, 
+S, U, N, Fl, O, W, Er, 
+P, La, No, 
+S, U, Nd, Er, La, Nd, 
+Mo, Ti, V, Es, 
+H, Tm, 
+La, K, Er, S, 
+At, S, 
+B, Er, 
+Re, Se, Ts, 
+B, O, No, 
+I, S, O, La, Te, 
+U, N, Co, N, Sc, I, O, U, S, 
+Ba, Y, S, 
+V, Er, I, Ta, S, 
+Cr, O, W, Ne, 
+B, Ru, N, C, H, 
+In, F, Am, O, U, S, 
+C, Yb, Er, S, Pa, Ce, 
+Te, N, Ac, I, O, U, S, 
+Se, N, S, U, Al, 
+P, Er, Se, Cu, Ti, O, N, 
+B, U, Rg, Es, S, 
+Fr, I, Es, 
+Tl, C, 
+Ca, B, O, 
+S, Y, Ba, Se, 
+Mo, Ni, Es, 
+F, Ta, 
+As, S, As, Si, Na, Ti, O, N, 
+Po, In, Te, 
+S, Ar, At, O, Ga, 
+O, Ra, 
+B, Al, 
+Fl, O, Re, S, 
+O, Li, V, I, Er, 
+S, Ta, Ce, Y, 
+S, Er, I, F, 
+F, Sb, 
+Lu, Br, I, Ca, N, Ts, 
+Cn, S, 
+H, V, 
+H, Os, Ta, Ge, 
+Cr, Ac, K, Er, 
+Mo, N, K, S, 
+C, Am, I, No, 
+S, Co, Tc, H, 
+S, Er, Mo, N, S, 
+Co, N, Te, N, Ti, O, N, 
+Al, Ta, V, I, S, Ta, 
+P, I, Ts, 
+S, H, I, 
+Ge, V, 
+Re, N, Ts, 
+C, At, Er, 
+Re, He, Ar, S, Al, 
+B, Ac, 
+Re, I, 
+S, La, B, 
+Lu, Re, 
+Re, N, 
+Sb, S, 
+Ar, C, H, Bi, S, Ho, P, 
+Pu, Ti, N, 
+S, Er, I, Al, S, 
+Re, V, O, Ca, Ti, O, N, 
+Li, P, Os, U, C, Ti, O, N, 
+S, W, F, 
+S, Ni, P, Er, 
+V, Er, Ti, C, Es, 
+P, In, C, H, 
+Pr, O, F, Es, Si, O, Na, Li, Sm, 
+Ru, S, 
+Fl, Y, N, N, 
+S, Co, P, Es, 
+F, U, Nd, Ra, I, S, Er, 
+Br, Ac, Es, 
+C, Al, Ho, U, N, 
+C, Ho, P, P, Er, 
+S, K, At, Es, 
+H, Er, S, 
+I, Pb, 
+As, U, 
+Cr, I, S, Es, 
+Ts, N, 
+S, Al, O, Mo, N, 
+S, Ar, Ba, N, Es, 
+Al, Co, Ho, Li, Sm, 
+C, Sc, 
+P, Re, N, At, Al, 
+S, Co, O, B, Y, 
+Mo, B, Y, 
+N, Eu, 
+S, O, C, I, Al, I, Sm, 
+Co, Nd, I, Ti, O, N, Er, S, 
+Re, Cl, Am, At, I, O, N, 
+Pr, O, Pa, Ne, 
+Co, N, C, Es, Si, O, N, S, 
+V, Es, Ts, 
+Co, Y, O, Te, 
+Es, C, 
+C, Ho, W, 
+Co, O, K, B, O, O, K, S, 
+Ar, I, 
+S, H, Ru, B, S, 
+P, Pt, 
+C, Ts, 
+Se, P, Ti, C, 
+W, Re, N, C, H, 
+B, As, 
+P, Al, Mo, Ne, 
+Sc, Ar, 
+W, Md, 
+Pm, S, 
+Cf, S, 
+F, F, I, 
+Ir, I, V, Er, 
+P, Os, S, Es, S, Es, 
+P, I, Es, 
+Pr, C, 
+Th, Er, 
+H, At, Es, 
+As, P, I, Ra, Ti, O, N, S, 
+Fe, N, C, Es, 
+Co, O, K, Er, S, 
+U, Ni, Ce, F, 
+S, Te, In, Er, 
+Li, Ce, N, S, U, Re, 
+B, O, V, I, Ne, 
+B, Re, W, Er, S, 
+Li, B, B, Y, 
+Se, I, Te, 
+Dy, N, Am, I, Te, 
+Mc, I, 
+C, Og, Ni, Ti, O, N, 
+Ca, In, 
+V, Er, O, Na, 
+S, Y, N, 
+Sg, I, 
+Co, Co, 
+Pu, Ni, S, H, 
+C, Au, S, Al, 
+Ru, Dy, 
+S, Ta, Ir, 
+Cl, As, S, Y, 
+K, B, Y, Te, S, 
+S, La, P, 
+F, In, N, 
+S, No, O, K, Er, 
+S, Al, I, Ne, 
+S, O, N, N, Y, 
+Pa, W, 
+Na, Ir, O, Bi, 
+B, O, Ta, N, Y, 
+P, Au, Li, Ne, 
+Th, Er, Es, 
+Bi, S, O, N, 
+B, Ac, K, S, Ta, Ge, 
+Pr, Es, Cr, I, Be, 
+Lu, B, B, O, C, K, 
+S, U, V, S, 
+Re, F, Ra, In, 
+La, S, Tl, Y, 
+K, O, Na, 
+Ds, S, 
+Lu, C, 
+B, Am, 
+Cl, Os, U, Re, S, 
+P, C, Os, 
+S, S, K, 
+Cr, At, Er, 
+S, Po, N, Ge, B, O, B, 
+Fr, Ac, Ti, O, N, Al, 
+B, Ir, Th, P, La, Ce, 
+S, W, I, Nd, O, N, 
+Se, K, 
+Ne, Pt, U, Ne, 
+B, In, Ar, I, Es, 
+Si, Mo, Ne, 
+Fr, O, N, Ts, 
+S, P, C, 
+Po, Te, N, Ti, Al, S, 
+Co, Re, S, 
+Ca, No, Ni, C, Al, 
+Y, At, Es, 
+In, F, Os, 
+W, Es, Tl, I, Fe, 
+S, P, In, Ac, H, 
+B, Pm, 
+Be, As, Ts, 
+P, La, N, Ar, 
+Fe, Ti, Sc, H, 
+K, N, 
+P, Y, 
+B, O, N, N
+
+C, La, N, C, Y, 
+At, C, 
+V, I, C, K, I, 
+O, U, Tb, Ac, K, 
+Re, I, K, I, 
+Bi, O, P, S, Y, 
+La, N, Ge, 
+Se, Ne, Ca, 
+Al, La, 
+Pr, Es, Er, V, Es, 
+Sm, P, 
+H, U, S, Tl, Er, 
+Te, N, Si, O, N, S, 
+Se, C, Re, Ti, O, N, 
+Li, N, K, Ag, Es, 
+Sc, Ra, P, S, 
+Re, Co, N, 
+S, La, C, K, 
+P, I, C, As, S, O, 
+V, In, Es, 
+C, He, W, 
+S, Li, 
+C, Ag, Es, 
+P, Ag, Er, 
+S, Np, 
+Ac, Lu, 
+Pa, P, 
+Na, Ti, V, Es, 
+At, He, Na, 
+Ti, O, N, Al, 
+Re, La, Y, S, 
+Na, V, I, Ga, Ti, O, N, Al, 
+H, U, S, Ba, N, Ds, 
+S, As, K, At, O, O, N, 
+Ce, N, 
+S, Ba, 
+Co, N, C, I, Er, Ge, 
+P, P, S, 
+O, P, P, 
+Y, O, U, Th, S, 
+Ti, C, K, B, O, Xe, S, 
+S, Ta, Re, 
+F, La, Ir, 
+W, H, I, Te, W, At, Er, 
+C, Li, 
+Ti, C, 
+S, Ta, Te, N, 
+S, Mo, K, Er, 
+H, Y, Po, Th, Es, Es, 
+Cr, Y, Pt, O, 
+B, U, N, K, Er, 
+Pd, P, 
+C, Re, At, I, Ne, 
+S, Co, Ts, 
+S, Pa, W, N, 
+B, La, N, K, S, 
+U, B, 
+Pu, N, Ta, 
+Sm, Es, 
+I, O, N, Am, In, 
+F, U, C, K, In, 
+Cr, Y, Pt, 
+O, N, W, Ar, Ds, 
+B, Og, U, S, 
+C, Ar, P, 
+W, I, Tc, H, Es, 
+S, K, In, N, Er, 
+C, Au, Ti, O, U, S, 
+P, Os, S, Es, Si, O, N, S, 
+P, As, Si, O, N, S, 
+Se, C, Re, Tl, Y, 
+Lu, Nd, 
+F, Am, 
+Pu, F, F, 
+W, Ho, Re, S, 
+P, At, He, Ti, C, 
+Ba, Na, N, As, 
+Ge, O, P, H, Y, Si, C, Al, 
+F, I, C, Ti, O, N, Al, 
+Ru, B, In, 
+C, La, W, 
+Pu, S, H, Es, 
+Fl, Ag, S, H, I, P, 
+Cu, B, Es, 
+Li, N, U, S, 
+Ta, Co, 
+Mc, Sg, 
+Sc, Ar, V, Es, 
+Ca, V, Al, I, Er, 
+I, S, H, 
+C, H, U, 
+V, O, Y, Er, 
+Es, Ca, P, Es, 
+Cr, I, Es, 
+At, Ta, C, K, Er, 
+Ca, Tc, H, Er, 
+S, U, C, Ti, O, N, 
+H, Er, O, I, C, 
+C, P, P, 
+S, He, Ds, 
+P, At, Hf, I, Nd, Er, 
+Ho, Mo, Ge, Ne, O, U, S, 
+S, P, H, Er, Es, 
+S, P, F, 
+S, O, F, As, 
+Cu, S, H, I, O, N, S, 
+Fe, Rn, 
+Po, In, Tl, Es, S, 
+Al, I, Br, I, S, 
+Ge, Ne, Al, Og, I, C, Al, 
+I, Nh, Al, At, I, O, N, 
+N, Ac, H, 
+Te, C, Hs, 
+C, P, I, 
+H, Au, Te, 
+Ni, S, 
+U, N, F, Am, I, Li, Ar, 
+W, Ac, K, Y, 
+Mo, Na, 
+Re, I, Ts, 
+C, Rn, 
+H, I, Tc, H, Co, C, K, 
+F, Ac, 
+S, P, I, K, Es, 
+Ac, C, Es, S, Es, 
+S, U, C, He, 
+Si, Am, 
+C, As, P, Er, 
+S, Pu, N, 
+Ni, Co, Ti, Ne, 
+W, I, C, K, Er, 
+U, Pt, O, 
+Br, O, W, Ne, 
+Ne, P, He, W, 
+Co, N, F, Es, S, 
+La, Y, S, 
+S, Ta, In, S, 
+H, Ir, Es, 
+I, Nd, O, 
+B, Mc, 
+F, O, Li, O, 
+B, B, B, O, N, Li, Ne, 
+P, Ar, Ti, C, I, P, At, Es, 
+B, Ar, Re, 
+F, I, Er, Y, 
+Ra, F, 
+Mo, P, 
+U, Rn, 
+S, U, Rf, Er, 
+W, Ac, O, 
+Bi, S, Cu, I, Ts, 
+Si, C, H, 
+O, U, Tb, O, U, Nd, 
+Re, S, Tl, Es, S, 
+C, Au, Cu, S, 
+K, At, Y, 
+U, B, Er, 
+S, Al, U, Te, 
+P, Ar, O, Dy, 
+B, Er, Li, Os, 
+C, Sr, 
+S, O, O, 
+Ac, O, Rn, 
+B, Os, S, Es, 
+As, Ce, N, Si, O, N, 
+Ba, Y, Er, 
+C, Ar, Re, Ra, 
+Ca, Ti, O, N, 
+Fl, Ag, S, Ta, F, F, 
+Ra, C, 
+P, Ar, Ag, O, N, 
+B, As, Al, 
+B, Ru, In, S, 
+Cl, Am, P, S, 
+F, I, Re, Fl, Y, 
+Li, Ar, 
+Mo, No, Cl, O, N, Al, 
+Ar, Es, 
+S, Mo, K, Y, 
+O, Pu, S, 
+Pr, In, C, Es, 
+F, In, C, H, 
+In, He, Re, N, Tl, Y, 
+Cd, P, 
+Kr, I, S, H, Na, 
+Mo, No, P, Ho, Ni, C, 
+La, Rg, O, 
+Se, Rg, I, O, 
+He, B, Re, W, S, 
+P, Ar, Ti, Cu, La, Te, 
+U, No, 
+B, Li, Nd, N, Es, S, 
+No, V, O, 
+O, Ti, S, 
+He, C, Ta, Re, S, 
+S, Ac, K, S, 
+K, I, Os, K, 
+I, O, Ni, C, 
+W, At, C, H, Er, S, 
+Po, P, P, Y, 
+Mo, N, Mo, U, Th, 
+Te, Al, 
+C, H, In, At, O, W, N, 
+Re, C, Ru, I, Ts, 
+S, H, Ar, P, Er, 
+S, U, P, Er, V, I, Se, 
+Li, B, C, 
+I, Re, 
+H, Al, O, Ge, N, 
+W, Y, Nd, H, Am, 
+Os, U, 
+S, U, P, Er, P, Ag, Es, 
+C, Ru, N, C, H, 
+Li, Am, 
+S, Es, S, O, 
+C, Cm, 
+F, Au, Ce, Ts, 
+B, Al, Li, S, Ti, C, 
+Pa, Y, O, U, Ts, 
+Ca, Li, B, Er, 
+B, Mg, 
+I, Ce, La, Nd, I, C, 
+N, Ac, I, O, N, Al, 
+Cs, V, 
+S, O, P, Ra, No, 
+Fr, O, N, Ti, Er, S, 
+At, K, 
+O, K, I, 
+H, Ar, Ds, H, I, P, 
+I, Nd, I, 
+Cl, O, Se, O, U, Ts, 
+Ca, V, Al, I, Er, S, 
+U, Nd, P, 
+Br, Y, Ce, 
+La, Tc, H, 
+V, Er, B, S, 
+P, Cm, 
+Co, N, Fr, O, N, Ta, Ti, O, N, 
+S, Li, P, P, Er, Y, 
+H, Es, S, 
+W, He, At, O, N, 
+Ti, Dy, 
+O, P, Pr, Es, Si, O, N, 
+B, O, W, S, 
+No, K, 
+Ho, O, K, Er, 
+Ra, Mo, N, 
+Be, Au, 
+Li, Li, Es, 
+Ar, Ti, Cu, La, Te, 
+Te, N, Er, I, Fe, 
+Ho, B, B, S, 
+Xe, 
+Co, N, S, U, La, Te, 
+H, Hs, 
+Er, I, C, K, S, O, N, 
+Th, Es, Es, 
+C, Ca, 
+C, Lu, B, Ho, U, Se, 
+Cr, Ac, K, Er, S, 
+Ir, O, Ni, C, 
+Li, Ce, N, Se, Es, 
+W, Ar, Ds, 
+H, In, Ge, 
+P, At, Ti, 
+Se, W, 
+La, P, S, 
+Se, N, N, He, I, S, Er, 
+S, U, Br, O, U, Ti, Ne, 
+U, P, W, Ar, Ds, 
+H, U, N, 
+P, Re, Ac, H, Er, 
+F, U, C, K, Er, S, 
+Ta, Ta, 
+Fl, O, W, N, 
+Fr, Au, 
+V, O, W, S, 
+Be, Rn, 
+Re, Pa, Y, 
+Pr, Og, No, Si, S, 
+F, O, B, 
+S, P, Ar, Se, 
+O, Pt, Er, O, N, 
+Ne, Mo, 
+I, F, S, 
+Ra, O, 
+Ar, P, 
+P, Er, C, Y, 
+Sc, Ra, Tc, H, Es, 
+Co, Na, N, 
+Li, La, C, 
+S, In, U, S, 
+He, Ar, S, 
+Na, Ti, O, Na, Li, Sm, 
+Au, C, H, 
+Am, P, Li, F, I, Ca, Ti, O, N, 
+Co, N, S, Er, V, 
+W, S, O, P, 
+W, O, Lv, Er, H, Am, Pt, O, N, 
+C, Pt, 
+F, Tc, 
+P, At, Ho, Ge, N, S, 
+W, I, Th, S, Ta, Nd, 
+S, O, Ar, 
+O, O, H, 
+S, U, B, Se, C, Ti, O, N, S, 
+Y, In, 
+Ti, K, I, 
+As, I, 
+C, Pm, 
+B, O, P, 
+W, O, Es, 
+Cl, As, Si, F, Y, 
+Pa, I, Ge, 
+C, La, Pt, O, N, 
+B, Lu, S, H, 
+Be, Y, O, N, Ce, 
+Sm, F, 
+S, P, H, Er, I, C, Al, 
+C, H, Er, 
+W, Al, Th, Am, 
+Si, Li, Ca, 
+Re, Ds, K, In, S, 
+K, Ir, S, Te, N
+
+As, S, Er, Ts, 
+S, Te, W, 
+Ca, Rb, S, 
+Ta, H, I, Ti, 
+W, Ac, 
+H, U, S, H, 
+S, O, N, Y, Er, I, Cs, S, O, N, 
+I, B, N, 
+W, N, Ba, 
+As, F, 
+P, Er, S, U, As, I, O, N, 
+Pr, Ac, Ti, Se, 
+P, F, C, 
+Re, Nd, Er, S, 
+Pr, I, S, Ti, Ne, 
+F, Ra, N, Ca, I, Se, 
+S, H, In, Es, 
+Ca, Ta, La, N, 
+Re, Ga, In, 
+Al, I, Ca, N, Te, 
+B, As, In, S, 
+S, H, Re, K, 
+In, Si, S, Ts, 
+C, Y, Ru, S, 
+Se, C, Re, C, Y, 
+H, In, Ge, S, 
+S, Y, N, Th, 
+In, F, O, Cu, S, 
+F, Po, 
+La, Y, U, P, 
+F, Re, 
+Ne, W, Bi, Es, 
+Md, S, 
+V, Ag, In, As, 
+B, La, N, Co, 
+P, Er, S, 
+Ar, Se, Ni, C, 
+F, Ac, I, Li, Ta, Ti, O, N, 
+N, Cr, 
+V, O, C, 
+Y, Er, 
+F, Ra, N, Cs, 
+Pd, F, S, 
+C, Ac, 
+Te, H, 
+U, Nd, Er, Co, V, Er, 
+U, Nd, Er, Li, Ne, 
+O, B, S, Ce, Ne, 
+H, Y, Mn, 
+Co, N, Ti, N, U, Al, 
+B, U, Rg, Er, S, 
+Ra, I, 
+C, La, Re, Nd, O, N, 
+C, Am, P, Er, S, 
+Sc, Ar, S, 
+W, H, I, S, K, Y, 
+Te, S, 
+U, Pt, O, W, N, 
+S, U, B, P, Ar, Ag, Ra, P, H, 
+Re, Y, Es, 
+P, Es, Os, 
+Mc, K, In, Ne, Y, 
+H, Er, S, He, Y, 
+I, Ni, Ti, Al, S, 
+S, Pa, N, S, 
+Ga, Ra, Ge, S, 
+S, Ds, 
+Ta, N, N, Er, 
+O, Be, Se, 
+S, O, B, Er, 
+S, Te, Al, S, 
+Li, S, 
+I, S, O, La, Te, S, 
+Sr, S, 
+W, I, Ga, N, 
+H, U, S, K, I, Es, 
+F, Re, Y, 
+P, Lu, N, Ge, 
+V, Os, 
+C, H, As, Er, 
+Cr, Os, Se, 
+Mo, Nd, O, 
+Cf, O, 
+Ne, O, N, At, Al, 
+Mc, La, Re, N, 
+V, Hf, 
+V, I, Si, O, N, Ar, Y, 
+Co, F, F, In, 
+Li, Ra, 
+Re, C, Es, S, 
+Te, C, H, Ni, Cs, 
+C, Li, P, P, Er, S, 
+Ca, Rb, O, Na, Te, 
+Re, C, H, Ar, Ge, 
+S, As, S, Y, 
+Ra, Ti, F, I, Ca, Ti, O, N, 
+V, As, Es, 
+Si, Nd, 
+S, Po, K, Es, P, Er, S, O, N, 
+Pa, N, C, Re, At, I, C, 
+Dy, Es, 
+S, Ca, 
+Tl, S, 
+F, In, S, 
+Ar, I, Es, 
+Ta, Rg, U, S, 
+Ta, C, Ti, C, 
+Es, S, 
+Li, N, Ge, Re, 
+Pa, Re, N, Th, Es, Es, 
+Dy, S, O, N, 
+P, La, Y, Ho, U, Se, 
+S, U, P, Er, F, I, C, I, Al, 
+C, Am, Ar, O, 
+S, U, N, S, 
+C, As, Ts, 
+B, U, N, K, 
+Cr, Y, Pt, Og, Ra, P, H, Y, 
+S, Ta, B, 
+Dy, Er, 
+Mo, I, 
+C, As, Si, Dy, 
+S, U, N, Y, 
+Li, Ga, Nd, 
+Se, Am, 
+Co, As, Tl, I, Ne, 
+O, Rf, 
+Re, C, Es, Si, O, N, 
+Re, No, V, At, I, O, N, S, 
+Ge, N, Ba, N, K, 
+Pr, O, V, 
+Re, I, C, H, 
+Mo, O, 
+S, No, W, Y, 
+C, Os, Mo, Po, Li, Ta, N, 
+F, Ac, Ti, O, N, 
+Ar, Ge, N, Ti, Ne, 
+Re, S, P, 
+Am, Mo, 
+C, H, Ar, S, 
+Li, N, N, 
+U, Ti, Li, S, At, I, O, N, 
+Ge, O, P, H, Y, Si, Cs, 
+Co, He, Re, N, Ce, 
+Br, O, C, Co, Li, 
+F, O, Re, Ac, H, 
+Se, N, S, At, I, O, N, S, 
+Ac, P, 
+Li, N, K, Er, 
+C, Ar, V, Er, 
+P, At, Er, S, O, N, 
+H, Sb, C, 
+S, Ho, U, Ts, 
+As, C, Er, Ta, In, 
+B, U, Re, Au, Cr, Ac, Y, 
+La, I, 
+Cl, Am, 
+V, Am, P, Ir, Es, 
+F, Ra, N, C, Es, Co, 
+H, Es, 
+Ge, O, Rg, 
+F, Lu, F, F, Y, 
+Be, Nd, Er, 
+F, As, 
+Se, Nd, O, 
+H, As, Br, O, 
+Ba, N, S, 
+P, Ta, 
+Po, Y, 
+B, U, Ds, 
+Se, Xe, S, 
+Si, Re, 
+I, S, La, Nd, Er, S, 
+U, N, Co, V, Er, 
+H, U, S, K, Y, 
+B, La, Nd, 
+S, V, Cd, 
+Cr, O, N, 
+Cr, Am, Er, 
+Y, U, P, 
+O, C, C, 
+C, Pa, N
